@@ -5,8 +5,14 @@
         <description><![CDATA[Grid]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Sep 2015 19:28:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2015 19:28:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Right Shot Every Time]]></title>
+            <description><![CDATA[<article><h1>The Right Shot Every Time</h1><p>Why waste time cropping by hand? The Grid automatically detects faces in your photos and crops images to fit any size on any display. All you have to do is find the perfect photo.</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/Hoop-Girl.gif"></article>]]></description>
+            <guid isPermaLink="false">c2fb675d-74b9-4286-89d3-773615aa4201</guid>
+            <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Goodbye Templates]]></title>
             <description><![CDATA[<article><h1>Goodbye Templates</h1><p>Unlike brittle templates, AI powered Layout Filters adapt to fit the unique characteristics of your content. Change your layout filter & it just works.</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/grid-chrome.jpg"></article>]]></description>
@@ -61,12 +67,6 @@
             <description><![CDATA[<article><h1>Set Up Shop In Seconds</h1><p>Setting up shop online is too much work with all the management, databases, checkouts and security. Our AI removes the need for plugins, configuration and constant stress. Have a product, add a price and a shopping cart magically appears on your site. Just like that, just as it should be! (Cost-based fees only.)
 </p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/Products-mmmm.jpg"></article>]]></description>
             <guid isPermaLink="false">01c04c1f-37ac-4b5b-82f1-6fe3abfa7f8a</guid>
-            <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don't Pay To Access Your Data]]></title>
-            <description><![CDATA[<article><h1>Don't Pay To Access Your Data</h1><p>We mean it. We don't take your data and lock it up in some mysterious database, we put it on GitHub so you have access to it anytime, anywhere. Here's ours.</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/Data+Ownership.png"></article>]]></description>
-            <guid isPermaLink="false">4b89554d-3fca-4969-be74-59881eef30f2</guid>
             <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
         </item>
     </channel>
