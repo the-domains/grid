@@ -1,6 +1,6 @@
 name: The Grid
 favicon: "https://passport.thegrid.io/favicon.ico"
-layout_spectrum: 0.62
+layout_spectrum: 0.4
 typography_spectrum: 0.3919
 cta:
   domain: //s3-us-west-2.amazonaws.com
