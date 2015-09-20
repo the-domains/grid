@@ -43,8 +43,8 @@ description: "No more building Zuck's website #thegrid #ownnotrent thegrid.io"
 inLanguage: English
 app_links: []
 isBasedOnUrl: 'https://twitter.com/royabear/status/520012881497059328'
-datePublished: '2015-09-20T19:17:46.187Z'
-dateModified: '2014-10-09T00:53:24.732Z'
+datePublished: '2015-09-20T19:27:08.045Z'
+dateModified: '2015-09-20T19:17:46.187Z'
 published: true
 sourcePath: _posts/2014-10-09-no-more-building-zucks-website-thegrid-ownnotrent-thegridio.md
 _type: Photograph
