@@ -1,4 +1,19 @@
 ---
+isBasedOnUrl: 'http://blog.iwantmyname.com/2014/10/the-grid.html'
+inLanguage: English
+starred: false
+keywords:
+  - website
+  - grid
+  - builder
+  - membership
+  - '1173'
+  - do-it-yourself
+  - e-commerce
+  - living-always
+  - slack-jawed
+  - wide-eyed
+description: "I write content for a living-always have, probably always will. So when I'm looking to create websites (which I do quite often), I try to take advantage of platforms that let me do my thing without needing too much help from designers and developers."
 author: []
 related:
   - score: 0.8359887003898621
@@ -29,34 +44,22 @@ related:
     thumbnail_height: 330
     thumbnail_url: 'https://i1.wp.com/tctechcrunch2011.files.wordpress.com/2014/10/tiled.jpg?fit=440%2C330'
     thumbnail_width: 427
-publisher:
-  url: 'http://blog.iwantmyname.com'
-  name: Iwantmyname
-  favicon: 'http://blog.iwantmyname.com/assets/images/favicon-64x64.png'
-  domain: blog.iwantmyname.com
-keywords:
-  - website
-  - grid
-  - builder
-  - membership
-  - '1173'
-  - do-it-yourself
-  - e-commerce
-  - living-always
-  - slack-jawed
-  - wide-eyed
-description: "I write content for a living-always have, probably always will. So when I'm looking to create websites (which I do quite often), I try to take advantage of platforms that let me do my thing without needing too much help from designers and developers."
-inLanguage: English
-datePublished: '2015-09-20T18:44:13.349Z'
+datePublished: '2015-09-20T19:32:46.191Z'
 app_links: []
-isBasedOnUrl: 'http://blog.iwantmyname.com/2014/10/the-grid.html'
 title: The Grid - AI websites that design themselves
-dateModified: '2015-09-20T18:43:19.331Z'
+dateModified: '2015-09-20T19:31:53.846Z'
 published: true
 sourcePath: _posts/2014-10-09-the-grid-ai-websites-that-design-themselves.md
-url: the-grid-ai-websites-that-design-themselves/index.html
+tags:
+  - ''
+authors: []
+publisher:
+  name: Iwantmyname
+  domain: blog.iwantmyname.com
+  url: 'http://blog.iwantmyname.com'
+  favicon: 'http://blog.iwantmyname.com/assets/images/favicon-64x64.png'
+_type: MediaObject
 _context: 'http://schema.org'
-_type: Article
 
 ---
 <article style=""><h1>The Grid - AI websites that design themselves</h1><p>I write content for a living-always have, probably always will. So when I'm looking to create websites (which I do quite often), I try to take advantage of platforms that let me do my thing without needing too much help from designers and developers.</p></article>
