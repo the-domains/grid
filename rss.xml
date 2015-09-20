@@ -5,7 +5,7 @@
         <description><![CDATA[Grid]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Sep 2015 18:44:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2015 18:44:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -16,6 +16,13 @@ Join the Evolution
 Become a Founding Member</p><img src="http://img.youtube.com/vi/OXA4-5x31V0/hqdefault.jpg"></article>]]></description>
             <guid isPermaLink="false">98c08669-5ed5-4e19-849a-4ba4dd308798</guid>
             <pubDate>Sun, 20 Sep 2015 18:41:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Grid - AI websites that design themselves]]></title>
+            <description><![CDATA[<article><h1>The Grid - AI websites that design themselves</h1><p>I write content for a living-always have, probably always will. So when I'm looking to create websites (which I do quite often), I try to take advantage of platforms that let me do my thing without needing too much help from designers and developers.</p></article>]]></description>
+            <link>https://thegrid.ai/grid/the-grid-ai-websites-that-design-themselves/index.html</link>
+            <guid isPermaLink="false">11692324-54ea-4073-8ff5-ef77bff1e0f1</guid>
+            <pubDate>Sun, 20 Sep 2015 18:43:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -75,13 +82,6 @@ We need designers to create beautiful websites.</p><img src="https://s3-us-west-
             <link>https://twitter.com/core77/status/595265874887454721</link>
             <guid isPermaLink="false">6322c8a5-3d90-4a2d-9b5d-a4d54154dcc4</guid>
             <pubDate>Sun, 20 Sep 2015 18:43:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Site As Colorful As You]]></title>
-            <description><![CDATA[<article><h1>A Site As Colorful As You</h1><p>Our algorithms expertly analyze your media and apply color palettes that keep your messaging consistent and unique. The Grid also detects color contrasts, automatically adjusting typography color to maximize legibility.</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/purus-01.jpg"></article>]]></description>
-            <link>https://thegrid.ai/grid/color-correction/index.html</link>
-            <guid isPermaLink="false">1ec03846-9dea-4715-9021-4eb089c65253</guid>
-            <pubDate>Sun, 20 Sep 2015 18:42:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
