@@ -1,6 +1,6 @@
 ---
 title: Join the Evolution
-datePublished: '2015-09-20T19:27:09.140Z'
+datePublished: '2015-09-20T19:34:54.847Z'
 description: |-
   AI Websites That Design Themselves
   Join the Evolution
@@ -9,7 +9,7 @@ description: |-
   Become a Founding Member
 author: []
 starred: true
-dateModified: '2015-09-20T19:20:57.696Z'
+dateModified: '2015-09-20T19:34:06.873Z'
 published: true
 sourcePath: _posts/2014-10-05-join-the-evolution.md
 _type: Product
