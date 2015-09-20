@@ -5,8 +5,15 @@
         <description><![CDATA[Grid]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Sep 2015 19:28:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2015 19:28:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="TheGrid, aiming to take humans out of website development, grabs $3.1M http://wp.me/p1re2-6ATM by @jordannovet" src="https://pbs.twimg.com/media/Bzcl8M1CIAAxT8l.png:large">]]></description>
+            <link>https://twitter.com/VentureBeat/status/519925998557478913</link>
+            <guid isPermaLink="false">659d0aa7-1028-459a-a530-51a3d5b7d0be</guid>
+            <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What would you do with 10hrs extra a week?]]></title>
             <description><![CDATA[<article><h1>What would you do with 10hrs extra a week?</h1><p>What would you do with 10hrs extra a week?
@@ -70,13 +77,6 @@ Pre-Order Now</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/ass
             <description><![CDATA[<p>I've never spent $96 so fast before @thegridio http://buff.ly/1shLd3Y</p>]]></description>
             <link>https://twitter.com/wilsojb/status/520259652324712448</link>
             <guid isPermaLink="false">98eccedc-b1b8-4752-805d-c40aa2589688</guid>
-            <pubDate>Sun, 20 Sep 2015 19:27:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Templates Are Dead: 5 Ways Scalable Design Will Change The Way We Build Websites: http://bit.ly/1E0QkXA</p>]]></description>
-            <link>https://twitter.com/core77/status/595265874887454721</link>
-            <guid isPermaLink="false">6322c8a5-3d90-4a2d-9b5d-a4d54154dcc4</guid>
             <pubDate>Sun, 20 Sep 2015 19:27:07 GMT</pubDate>
         </item>
     </channel>
