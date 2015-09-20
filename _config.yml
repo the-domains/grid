@@ -1,19 +1,19 @@
-name: Grid
-favicon: null
+name: The Grid
+favicon: "https://passport.thegrid.io/favicon.ico"
 layout_spectrum: 0.5677
 typography_spectrum: 0.3919
 cta:
-  domain: null
-  bucket: null
-  version: null
+  domain: //s3-us-west-2.amazonaws.com
+  bucket: /cdn.thegrid.io
+  version: 0.2.8
 analytics:
-  google: null
-  facebook: null
-  twitter: null
+  google: UA-50607580-1
+  facebook: "295556487279234"
+  twitter: l4y05
 opengraph:
-  image: null
-  type: null
-  appId: null
+  appId: "1517733501804443"
+  image: "http://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/purus-fb.png"
+  type: website
 color:
   brandColors:
     - '#071d27'
