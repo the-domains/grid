@@ -1,17 +1,25 @@
 ---
+isBasedOnUrl: null
+inLanguage: null
+starred: false
+keywords: []
+description: 'We&#39;re Listening For YouTime-Sensitive Content SuggestionsConstantly monitoring the web for mentions of your company or product takes nearly as much time a'
 title: Content Suggestions
-description: |-
-  We&#39;re Listening For You
-  Time-Sensitive Content Suggestions
-  Constantly monitoring the web for mentions of your company or product takes nearly as much time a
 author: []
-datePublished: '2015-09-20T18:44:13.575Z'
-dateModified: '2014-10-08T16:51:41.280Z'
+datePublished: '2015-09-20T19:27:08.293Z'
+dateModified: '2015-09-20T19:22:23.275Z'
 published: true
 sourcePath: _posts/2014-10-08-content-suggestions.md
-url: content-suggestions/index.html
+tags:
+  - ''
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+_type: Blurb
 _context: 'http://schema.org'
-_type: Article
 
 ---
 # We're Listening For You
