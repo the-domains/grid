@@ -43,8 +43,8 @@ description: 'https://thegrid.io - "AI" website design. Conceptually feels very 
 inLanguage: English
 app_links: []
 isBasedOnUrl: 'https://twitter.com/jasonfried/status/522492212144525312'
-datePublished: '2015-09-20T18:43:19.181Z'
-dateModified: '2014-11-21T18:25:02.754Z'
+datePublished: '2015-09-20T19:27:07.814Z'
+dateModified: '2015-09-20T18:43:19.181Z'
 sourcePath: _posts/2014-11-21-httpsthegridio-ai-website-design-conceptually-feels.md
 published: true
 _type: Comment
