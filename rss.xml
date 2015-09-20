@@ -5,8 +5,14 @@
         <description><![CDATA[The Grid]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Sep 2015 19:51:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2015 19:51:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello World]]></title>
+            <description><![CDATA[<article><h1>Hello World</h1><p>This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs. Want to add e-commerce? Social feeds? A different layout? The Grid just takes care of it. This is not a website builder. This is your personal AI web developer. Its first masterpiece is the website you're looking at right now. Its next one could be yours.</p></article>]]></description>
+            <guid isPermaLink="false">c74ad7d7-08f1-4287-ae24-0adf14b1f4a6</guid>
+            <pubDate>Sun, 20 Sep 2015 19:51:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This Nifty Tool Uses Artificial Intelligence to Build Your Ultimate Website]]></title>
             <description><![CDATA[<article><h1>This Nifty Tool Uses Artificial Intelligence to Build Your Ultimate Website</h1><p>Nowadays you can create your own website in a few afternoons in front of your computer. But will the final product be a website someone will actually want to use? That's another story. Web publishing tools like WordPress and the like require a bit of technical know-how and special care to ensure all your content fits into their unique parameters and templates.</p><img src="https://assets.entrepreneur.com/content/16x9/822/1412782883-nifty-tool-uses-artificial-intelligence-build-your-ultimate-website-the-grid.jpg"></article>]]></description>
