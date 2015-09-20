@@ -5,7 +5,7 @@
         <description><![CDATA[The Grid]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Sep 2015 19:56:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2015 19:56:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -22,6 +22,13 @@ Become a Founding Member</p><img src="http://img.youtube.com/vi/OXA4-5x31V0/hqde
             <description><![CDATA[<article><h1>Hello World</h1><p>This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs. Want to add e-commerce? Social feeds? A different layout? The Grid just takes care of it. This is not a website builder. This is your personal AI web developer. Its first masterpiece is the website you're looking at right now. Its next one could be yours.</p></article>]]></description>
             <guid isPermaLink="false">c74ad7d7-08f1-4287-ae24-0adf14b1f4a6</guid>
             <pubDate>Sun, 20 Sep 2015 19:51:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How The Grid Will Automate Web Design Without Killing The Designer]]></title>
+            <description><![CDATA[<article><h1>How The Grid Will Automate Web Design Without Killing The Designer</h1><p>Can you replace a human designer with artificial intelligence and machine learning? That's the question, more or less, which will likely plague The Grid long after the company launches its new website creation and hosting platform. The Grid's sales pitch is that creating a beautiful looking website geared towards your intentions shouldn't be harder than giving it content-images, videos, and text.</p><img src="http://g.fastcompany.net/multisite_files/fastcompany/imagecache/inline-large/inline/2015/04/3044670-inline-i-4-grid-shell.jpg"></article>]]></description>
+            <link>http://www.fastcodesign.com/3044670/how-the-grid-will-automate-web-design-without-killing-the-designer</link>
+            <guid isPermaLink="false">25d217cf-003b-405e-93a5-3c9b87d156e9</guid>
+            <pubDate>Sun, 20 Sep 2015 19:55:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@ Become a Founding Member</p><img src="http://img.youtube.com/vi/OXA4-5x31V0/hqde
             <title><![CDATA[Goodbye Templates]]></title>
             <description><![CDATA[<article><h1>Goodbye Templates</h1><p>Unlike brittle templates, AI powered Layout Filters adapt to fit the unique characteristics of your content. Change your layout filter & it just works.</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/grid-chrome.jpg"></article>]]></description>
             <guid isPermaLink="false">35d81039-1109-4f51-82df-5d3ea98c9fd0</guid>
-            <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All Your Media, On Any Device]]></title>
-            <description><![CDATA[<article><h1>All Your Media, On Any Device</h1><p>Never again change your content to fit your template or the latest hot mobile device. Building a site focused around a video? No problem, it looks big and in-charge on any screen. Add products and a shopping cart optimized for desktop and mobile automatically appears. The layout changes as you add content, and adapts to look great and work flawlessly no matter where your users find you.
-</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/Page-Setp.gif"></article>]]></description>
-            <guid isPermaLink="false">30690495-57ec-4a61-9c42-a25bfbc71cfc</guid>
             <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
         </item>
     </channel>
