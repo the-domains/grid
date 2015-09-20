@@ -5,8 +5,14 @@
         <description><![CDATA[Grid]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Sep 2015 19:28:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2015 19:28:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AI With Taste]]></title>
+            <description><![CDATA[<article><h1>AI With Taste</h1><p>It feels like magic, but it isn't. The Grid analyzes your content and then automates thousands of mundane design decisions that no one (not even web designers) like doing. The result? Beautiful websites unique to you, in seconds.</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/Beautiful-AI-bg.png"></article>]]></description>
+            <guid isPermaLink="false">529177eb-5333-4cf8-90bb-2ce56df98324</guid>
+            <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Website, Meet Your Followers]]></title>
             <description><![CDATA[<article><h1>Website, Meet Your Followers</h1><p>But it doesn't end there. The Grid can track changes on any website, allowing you to follow the entire Internet.</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/followers.png"></article>]]></description>
@@ -62,15 +68,6 @@
             <description><![CDATA[<img alt="TheGrid, aiming to take humans out of website development, grabs $3.1M http://wp.me/p1re2-6ATM by @jordannovet" src="https://pbs.twimg.com/media/Bzcl8M1CIAAxT8l.png:large">]]></description>
             <link>https://twitter.com/VentureBeat/status/519925998557478913</link>
             <guid isPermaLink="false">659d0aa7-1028-459a-a530-51a3d5b7d0be</guid>
-            <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What would you do with 10hrs extra a week?]]></title>
-            <description><![CDATA[<article><h1>What would you do with 10hrs extra a week?</h1><p>What would you do with 10hrs extra a week?
-No coding, no design, no maintenance. AI websites that make themselves
-
-Pre-Order Now</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/mountain.jpg"></article>]]></description>
-            <guid isPermaLink="false">6d85b0b0-b538-426b-a344-59928a9fe842</guid>
             <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
         </item>
     </channel>
