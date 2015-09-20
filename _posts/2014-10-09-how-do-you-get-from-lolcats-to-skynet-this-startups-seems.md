@@ -37,8 +37,8 @@ description: 'How do you get from Lolcats to Skynet? This #startups seems to be 
 inLanguage: English
 app_links: []
 isBasedOnUrl: 'https://twitter.com/EvilSpyBoy/status/520005381225861120'
-datePublished: '2015-09-20T18:44:13.301Z'
-dateModified: '2015-09-20T18:43:19.504Z'
+datePublished: '2015-09-20T19:27:08.055Z'
+dateModified: '2015-09-20T18:44:13.301Z'
 published: true
 sourcePath: _posts/2014-10-09-how-do-you-get-from-lolcats-to-skynet-this-startups-seems.md
 _type: Comment
