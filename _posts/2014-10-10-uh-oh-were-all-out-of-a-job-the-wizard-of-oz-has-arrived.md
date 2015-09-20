@@ -37,8 +37,8 @@ description: "Uh-oh. We're all out of a job. The Wizard of Oz has arrived. https
 inLanguage: English
 app_links: []
 isBasedOnUrl: 'https://twitter.com/matr77/status/520387636679024641'
-datePublished: '2015-09-20T18:45:22.563Z'
-dateModified: '2015-09-20T18:43:19.279Z'
+datePublished: '2015-09-20T19:27:07.830Z'
+dateModified: '2015-09-20T18:45:22.563Z'
 published: true
 sourcePath: _posts/2014-10-10-uh-oh-were-all-out-of-a-job-the-wizard-of-oz-has-arrived.md
 _type: Comment
