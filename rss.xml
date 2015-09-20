@@ -5,8 +5,14 @@
         <description><![CDATA[Grid]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Sep 2015 19:28:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2015 19:28:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Website, Meet Your Followers]]></title>
+            <description><![CDATA[<article><h1>Website, Meet Your Followers</h1><p>But it doesn't end there. The Grid can track changes on any website, allowing you to follow the entire Internet.</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/followers.png"></article>]]></description>
+            <guid isPermaLink="false">162a2a70-451b-4743-b3bb-65741c41d314</guid>
+            <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Connect With The World Around You]]></title>
             <description><![CDATA[<article><h1>Connect With The World Around You</h1><p>Business cards are dead! Networking doesn't happen at events or conferences. Meaningful connections happen in the real world, when you least expect them. With the Grid Token simply swipe on any device and you can share your site, grow followers, increase sales and much more. </p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/GridToken-img.png"></article>]]></description>
@@ -65,13 +71,6 @@ No coding, no design, no maintenance. AI websites that make themselves
 
 Pre-Order Now</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/mountain.jpg"></article>]]></description>
             <guid isPermaLink="false">6d85b0b0-b538-426b-a344-59928a9fe842</guid>
-            <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="No more building Zuck's website #thegrid #ownnotrent thegrid.io" src="https://pbs.twimg.com/media/Bzd09cECYAAQz47.png:large">]]></description>
-            <link>https://twitter.com/royabear/status/520012881497059328</link>
-            <guid isPermaLink="false">1897b093-ac9d-4db3-b8c7-480fd54c16b9</guid>
             <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
         </item>
     </channel>
