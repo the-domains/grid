@@ -5,7 +5,7 @@
         <description><![CDATA[Grid]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Sep 2015 18:52:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2015 19:18:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -23,6 +23,13 @@ Become a Founding Member</p><img src="http://img.youtube.com/vi/OXA4-5x31V0/hqde
             <link>https://thegrid.ai/grid/hello-world/index.html</link>
             <guid isPermaLink="false">c74ad7d7-08f1-4287-ae24-0adf14b1f4a6</guid>
             <pubDate>Sun, 20 Sep 2015 18:52:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="No more building Zuck's website #thegrid #ownnotrent thegrid.io" src="https://pbs.twimg.com/media/Bzd09cECYAAQz47.png:large">]]></description>
+            <link>https://twitter.com/royabear/status/520012881497059328</link>
+            <guid isPermaLink="false">1897b093-ac9d-4db3-b8c7-480fd54c16b9</guid>
+            <pubDate>Sun, 20 Sep 2015 19:17:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -73,15 +80,6 @@ Become a Founding Member</p><img src="http://img.youtube.com/vi/OXA4-5x31V0/hqde
             <description><![CDATA[<article><h1>We're Listening For You</h1><p>Constantly monitoring the web for mentions of your company or product takes nearly as much time as building it. What if your website notified you of new articles and automatically prepared a Press section ready to go live? Our AI will help you get the story out there now, because tomorrow is too late.</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/Content+Suggestions.png"></article>]]></description>
             <link>https://thegrid.ai/grid/content-suggestions/index.html</link>
             <guid isPermaLink="false">df031457-52d0-4d37-b6e5-4455d0777b45</guid>
-            <pubDate>Sun, 20 Sep 2015 18:44:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What would you do with 10hrs extra a week?]]></title>
-            <description><![CDATA[<article><h1>What would you do with 10hrs extra a week?</h1><p>What would you do with 10hrs extra a week?
-No coding, no design, no maintenance. AI websites that make themselves
-
-Pre-Order Now</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/mountain.jpg"></article>]]></description>
-            <guid isPermaLink="false">6d85b0b0-b538-426b-a344-59928a9fe842</guid>
             <pubDate>Sun, 20 Sep 2015 18:44:13 GMT</pubDate>
         </item>
     </channel>
