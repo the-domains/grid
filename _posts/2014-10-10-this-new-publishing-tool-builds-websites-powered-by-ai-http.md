@@ -37,8 +37,8 @@ description: 'This new publishing tool builds websites powered by AI http://wrd.
 isBasedOnUrl: 'https://twitter.com/WIRED/status/520266740887203841'
 inLanguage: English
 app_links: []
-datePublished: '2015-09-20T18:43:19.558Z'
-dateModified: '2014-10-15T10:32:22.353Z'
+datePublished: '2015-09-20T18:44:13.296Z'
+dateModified: '2015-09-20T18:43:19.558Z'
 published: true
 sourcePath: _posts/2014-10-10-this-new-publishing-tool-builds-websites-powered-by-ai-http.md
 _type: Photograph
