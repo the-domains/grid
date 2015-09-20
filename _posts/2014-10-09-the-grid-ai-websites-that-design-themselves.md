@@ -47,11 +47,11 @@ keywords:
   - wide-eyed
 description: "I write content for a living-always have, probably always will. So when I'm looking to create websites (which I do quite often), I try to take advantage of platforms that let me do my thing without needing too much help from designers and developers."
 inLanguage: English
-datePublished: '2015-09-20T18:43:19.331Z'
+datePublished: '2015-09-20T18:44:13.349Z'
 app_links: []
 isBasedOnUrl: 'http://blog.iwantmyname.com/2014/10/the-grid.html'
 title: The Grid - AI websites that design themselves
-dateModified: '2014-10-10T02:42:08.193Z'
+dateModified: '2015-09-20T18:43:19.331Z'
 published: true
 sourcePath: _posts/2014-10-09-the-grid-ai-websites-that-design-themselves.md
 url: the-grid-ai-websites-that-design-themselves/index.html
