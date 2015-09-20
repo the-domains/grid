@@ -1,17 +1,25 @@
 ---
+isBasedOnUrl: null
+inLanguage: null
+starred: false
+keywords: []
+description: 'A Site As Colorful As YouIntelligent Color Detection &amp; CorrectionOur algorithms expertly analyze your media and apply color palettes that keep your messag'
 title: Color correction
-description: |-
-  A Site As Colorful As You
-  Intelligent Color Detection &amp; Correction
-  Our algorithms expertly analyze your media and apply color palettes that keep your messag
 author: []
-datePublished: '2015-09-20T18:42:53.352Z'
-dateModified: '2014-10-08T16:53:13.313Z'
+datePublished: '2015-09-20T19:27:08.994Z'
+dateModified: '2015-09-20T19:25:56.894Z'
 published: true
 sourcePath: _posts/2014-10-08-color-correction.md
-url: color-correction/index.html
+tags:
+  - ''
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+_type: Blurb
 _context: 'http://schema.org'
-_type: Article
 
 ---
 # A Site As Colorful As You
