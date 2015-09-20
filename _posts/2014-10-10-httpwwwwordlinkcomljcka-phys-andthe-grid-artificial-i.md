@@ -40,8 +40,8 @@ description: 'http://www.wordlink.com/l/JCKa @phys and The Grid: Artificial inte
 inLanguage: English
 app_links: []
 isBasedOnUrl: 'https://twitter.com/WordLinkTECH/status/520181897809645568'
-datePublished: '2015-09-20T18:44:13.238Z'
-dateModified: '2014-10-16T13:52:41.162Z'
+datePublished: '2015-09-20T19:27:07.865Z'
+dateModified: '2015-09-20T18:44:13.238Z'
 published: true
 sourcePath: _posts/2014-10-10-httpwwwwordlinkcomljcka-phys-andthe-grid-artificial-i.md
 _type: Photograph
