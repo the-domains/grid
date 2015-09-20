@@ -54,11 +54,11 @@ keywords:
   - lot
 description: "Can you replace a human designer with artificial intelligence and machine learning? That's the question, more or less, which will likely plague The Grid long after the company launches its new website creation and hosting platform. The Grid's sales pitch is that creating a beautiful looking website geared towards your intentions shouldn't be harder than giving it content-images, videos, and text."
 inLanguage: English
-datePublished: '2015-09-20T19:27:07.490Z'
+datePublished: '2015-09-20T19:55:56.445Z'
 app_links: []
 isBasedOnUrl: 'http://www.fastcodesign.com/3044670/how-the-grid-will-automate-web-design-without-killing-the-designer'
 title: How The Grid Will Automate Web Design Without Killing The Designer
-dateModified: '2015-09-20T19:20:58.361Z'
+dateModified: '2015-09-20T19:55:09.060Z'
 sourcePath: _posts/2015-04-08-how-the-grid-will-automate-web-design-without-killing-the-de.md
 published: true
 _context: 'http://schema.org'
