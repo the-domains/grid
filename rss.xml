@@ -5,7 +5,7 @@
         <description><![CDATA[Grid]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Sep 2015 18:42:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2015 18:42:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -16,6 +16,13 @@ Join the Evolution
 Become a Founding Member</p><img src="http://img.youtube.com/vi/OXA4-5x31V0/hqdefault.jpg"></article>]]></description>
             <guid isPermaLink="false">98c08669-5ed5-4e19-849a-4ba4dd308798</guid>
             <pubDate>Sun, 20 Sep 2015 18:41:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Site As Colorful As You]]></title>
+            <description><![CDATA[<article><h1>A Site As Colorful As You</h1><p>Our algorithms expertly analyze your media and apply color palettes that keep your messaging consistent and unique. The Grid also detects color contrasts, automatically adjusting typography color to maximize legibility.</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/purus-01.jpg"></article>]]></description>
+            <link>https://thegrid.ai/grid/color-correction/index.html</link>
+            <guid isPermaLink="false">1ec03846-9dea-4715-9021-4eb089c65253</guid>
+            <pubDate>Sun, 20 Sep 2015 18:42:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hello World]]></title>
