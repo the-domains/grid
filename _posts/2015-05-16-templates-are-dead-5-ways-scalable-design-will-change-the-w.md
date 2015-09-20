@@ -40,8 +40,8 @@ description: 'Templates Are Dead: 5 Ways Scalable Design Will Change The Way We 
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/core77/status/595265874887454721'
-datePublished: '2015-09-20T18:43:18.820Z'
-dateModified: '2015-07-24T17:19:55.817Z'
+datePublished: '2015-09-20T19:27:07.535Z'
+dateModified: '2015-09-20T18:43:18.820Z'
 sourcePath: _posts/2015-05-16-templates-are-dead-5-ways-scalable-design-will-change-the-w.md
 published: true
 title: ''
