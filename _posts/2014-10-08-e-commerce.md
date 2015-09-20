@@ -1,18 +1,25 @@
 ---
+isBasedOnUrl: null
+inLanguage: null
+starred: false
+keywords: []
+description: 'On-Demand E-CommerceAdd products and a shopping cart magically appears, no plugins or configuration required. Remove the products and the shopping cart disappe'
 title: E-Commerce
 tags:
   - screenshot
-description: |-
-  On-Demand E-Commerce
-  Add products and a shopping cart magically appears, no plugins or configuration required. Remove the products and the shopping cart disappe
 author: []
-datePublished: '2015-09-20T18:44:13.638Z'
-dateModified: '2014-11-21T17:26:56.013Z'
+datePublished: '2015-09-20T19:27:08.409Z'
+dateModified: '2015-09-20T19:22:59.496Z'
 published: true
 sourcePath: _posts/2014-10-08-e-commerce.md
-url: e-commerce/index.html
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+_type: Blurb
 _context: 'http://schema.org'
-_type: Article
 
 ---
 # Set Up Shop In Seconds
