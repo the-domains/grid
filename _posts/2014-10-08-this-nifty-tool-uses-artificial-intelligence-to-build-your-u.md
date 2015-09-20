@@ -36,11 +36,11 @@ keywords:
   - easy
 description: "Nowadays you can create your own website in a few afternoons in front of your computer. But will the final product be a website someone will actually want to use? That's another story. Web publishing tools like WordPress and the like require a bit of technical know-how and special care to ensure all your content fits into their unique parameters and templates."
 inLanguage: English
-datePublished: '2015-09-20T18:43:18.941Z'
+datePublished: '2015-09-20T19:27:07.622Z'
 app_links: []
 isBasedOnUrl: 'http://www.entrepreneur.com/article/238255'
 title: This Nifty Tool Uses Artificial Intelligence to Build Your Ultimate Website
-dateModified: '2015-04-02T17:38:14.199Z'
+dateModified: '2015-09-20T19:20:58.762Z'
 sourcePath: _posts/2014-10-08-this-nifty-tool-uses-artificial-intelligence-to-build-your-u.md
 published: true
 url: this-nifty-tool-uses-artificial-intelligence-to-build-your-u/index.html
