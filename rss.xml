@@ -5,7 +5,7 @@
         <description><![CDATA[Grid]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Sep 2015 18:45:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2015 18:45:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -16,6 +16,14 @@ Join the Evolution
 Become a Founding Member</p><img src="http://img.youtube.com/vi/OXA4-5x31V0/hqdefault.jpg"></article>]]></description>
             <guid isPermaLink="false">98c08669-5ed5-4e19-849a-4ba4dd308798</guid>
             <pubDate>Sun, 20 Sep 2015 18:41:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[All Your Media, On Any Device]]></title>
+            <description><![CDATA[<article><h1>All Your Media, On Any Device</h1><p>Never again change your content to fit your template or the latest hot mobile device. Building a site focused around a video? No problem, it looks big and in-charge on any screen. Add products and a shopping cart optimized for desktop and mobile automatically appears. The layout changes as you add content, and adapts to look great and work flawlessly no matter where your users find you.
+</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/Page-Setp.gif"></article>]]></description>
+            <link>https://thegrid.ai/grid/responsive-meh/index.html</link>
+            <guid isPermaLink="false">bbb6c092-b250-4359-8c8a-b9afcd331294</guid>
+            <pubDate>Sun, 20 Sep 2015 18:45:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Websites That Evolve With Purpose]]></title>
@@ -75,13 +83,6 @@ Pre-Order Now</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/ass
             <description><![CDATA[<img src="https://pbs.twimg.com/media/Bzhb2BWIcAIFW6v.jpg:large" alt="This new publishing tool builds websites powered by AI http://wrd.cm/1sgwEwf">]]></description>
             <link>https://twitter.com/WIRED/status/520266740887203841</link>
             <guid isPermaLink="false">666831b8-abdb-4dee-ba0d-0c855c0bbc22</guid>
-            <pubDate>Sun, 20 Sep 2015 18:44:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>How do you get from Lolcats to Skynet? This #startups seems to be on the right track https://thegrid.io/#</p>]]></description>
-            <link>https://twitter.com/EvilSpyBoy/status/520005381225861120</link>
-            <guid isPermaLink="false">11df6e55-fb2e-4424-8681-d552dfd3d083</guid>
             <pubDate>Sun, 20 Sep 2015 18:44:13 GMT</pubDate>
         </item>
     </channel>
