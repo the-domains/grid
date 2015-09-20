@@ -5,8 +5,14 @@
         <description><![CDATA[Grid]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Sep 2015 19:28:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2015 19:28:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Don't Pay To Access Your Data]]></title>
+            <description><![CDATA[<article><h1>Don't Pay To Access Your Data</h1><p>We mean it. We don't take your data and lock it up in some mysterious database, we put it on GitHub so you have access to it anytime, anywhere. Here's ours.</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/Data+Ownership.png"></article>]]></description>
+            <guid isPermaLink="false">4b89554d-3fca-4969-be74-59881eef30f2</guid>
+            <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We're Listening For You]]></title>
             <description><![CDATA[<article><h1>We're Listening For You</h1><p>Constantly monitoring the web for mentions of your company or product takes nearly as much time as building it. What if your website notified you of new articles and automatically prepared a Press section ready to go live? Our AI will help you get the story out there now, because tomorrow is too late.</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/Content+Suggestions.png"></article>]]></description>
@@ -69,13 +75,6 @@ Pre-Order Now</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/ass
             <description><![CDATA[<p>https://thegrid.io - "AI" website design. Conceptually feels very next level, an obvious, natural progression just waiting to happen.</p>]]></description>
             <link>https://twitter.com/jasonfried/status/522492212144525312</link>
             <guid isPermaLink="false">75ab5fe8-4ad6-4b6a-8077-6ed13502f172</guid>
-            <pubDate>Sun, 20 Sep 2015 19:27:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All Your Media, On Any Device]]></title>
-            <description><![CDATA[<article><h1>All Your Media, On Any Device</h1><p>Never again change your content to fit your template or the latest hot mobile device. Building a site focused around a video? No problem, it looks big and in-charge on any screen. Add products and a shopping cart optimized for desktop and mobile automatically appears. The layout changes as you add content, and adapts to look great and work flawlessly no matter where your users find you.
-</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/Page-Setp.gif"></article>]]></description>
-            <guid isPermaLink="false">bbb6c092-b250-4359-8c8a-b9afcd331294</guid>
             <pubDate>Sun, 20 Sep 2015 19:27:07 GMT</pubDate>
         </item>
     </channel>
