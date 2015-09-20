@@ -1,17 +1,25 @@
 ---
+isBasedOnUrl: null
+inLanguage: null
+starred: false
+keywords: []
+description: 'As Easy As A Social NetworkAs Beautiful &amp; Unique As YouNever again change your content to fit a cookie-cutter social network or today&#39;s hot website te'
 title: Easy as a Social Network
-description: |-
-  As Easy As A Social Network
-  As Beautiful &amp; Unique As You
-  Never again change your content to fit a cookie-cutter social network or today&#39;s hot website te
 author: []
-datePublished: '2015-09-20T18:44:13.468Z'
-dateModified: '2015-05-15T23:53:40.509Z'
+datePublished: '2015-09-20T19:27:08.173Z'
+dateModified: '2015-09-20T19:22:06.165Z'
 published: true
 sourcePath: _posts/2014-10-08-easy-as-a-social-network.md
-url: easy-as-a-social-network/index.html
+tags:
+  - ''
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+_type: Blurb
 _context: 'http://schema.org'
-_type: Article
 
 ---
 # As Easy As A Social Network
