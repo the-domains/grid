@@ -5,8 +5,15 @@
         <description><![CDATA[Grid]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Sep 2015 19:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2015 19:28:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[All Your Media, On Any Device]]></title>
+            <description><![CDATA[<article><h1>All Your Media, On Any Device</h1><p>Never again change your content to fit your template or the latest hot mobile device. Building a site focused around a video? No problem, it looks big and in-charge on any screen. Add products and a shopping cart optimized for desktop and mobile automatically appears. The layout changes as you add content, and adapts to look great and work flawlessly no matter where your users find you.
+</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/Page-Setp.gif"></article>]]></description>
+            <guid isPermaLink="false">30690495-57ec-4a61-9c42-a25bfbc71cfc</guid>
+            <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mobile Tools You'll Actually Use]]></title>
             <description><![CDATA[<article><h1>Mobile Tools You'll Actually Use</h1><p>What's possible when an AI does all the hard work for you? You can get things done, even on the go. Drag-n-drop builders don't play nice with fingers on phones, but AI works perfectly, anywhere.</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/phone.jpg"></article>]]></description>
@@ -60,13 +67,6 @@
             <title><![CDATA[We're Listening For You]]></title>
             <description><![CDATA[<article><h1>We're Listening For You</h1><p>Constantly monitoring the web for mentions of your company or product takes nearly as much time as building it. What if your website notified you of new articles and automatically prepared a Press section ready to go live? Our AI will help you get the story out there now, because tomorrow is too late.</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/Content+Suggestions.png"></article>]]></description>
             <guid isPermaLink="false">df031457-52d0-4d37-b6e5-4455d0777b45</guid>
-            <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[As Easy As A Social Network]]></title>
-            <description><![CDATA[<article><h1>As Easy As A Social Network</h1><p>Never again change your content to fit a cookie-cutter social network or today's hot website template. Just throw in videos, images, text, products and more and magically get a website that looks like it was pored over by a million-dollar design team. Once and for all, content is king.
-</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/EasyAs-image.png"></article>]]></description>
-            <guid isPermaLink="false">c79a7cbd-6447-4477-b730-cdc912b63f0d</guid>
             <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
         </item>
     </channel>
