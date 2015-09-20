@@ -5,8 +5,15 @@
         <description><![CDATA[Grid]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Sep 2015 19:28:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2015 19:28:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Team]]></title>
+            <description><![CDATA[<article><h1>The Team</h1><p>Henri is an open source content management pioneer. He is the author of the Create.js web editing interface and the NoFlo flow-based programming environment that powers The Grid.</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/team/Henri.png"></article>]]></description>
+            <link>https://thegrid.ai/grid/the-team/index.html</link>
+            <guid isPermaLink="false">d9083f86-37cd-4242-8f2e-92a47c73e98b</guid>
+            <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Right Shot Every Time]]></title>
             <description><![CDATA[<article><h1>The Right Shot Every Time</h1><p>Why waste time cropping by hand? The Grid automatically detects faces in your photos and crops images to fit any size on any display. All you have to do is find the perfect photo.</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/Hoop-Girl.gif"></article>]]></description>
@@ -60,13 +67,6 @@
             <title><![CDATA[Websites That Evolve With Purpose]]></title>
             <description><![CDATA[<article><h1>Websites That Evolve With Purpose</h1><p>More followers, more sales, more clicks. All websites are created with a purpose in mind, but it's easy to lose sight of it as you go from brain to domain name. With The Grid, you can set a purpose for your site, write a call to action and sit back. Our AI will automatically test thousands of subtle variations to find the one that works best.</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/purposes-chromeless.png"></article>]]></description>
             <guid isPermaLink="false">779e5e30-b013-4924-b4ce-9edfea1069f2</guid>
-            <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Set Up Shop In Seconds]]></title>
-            <description><![CDATA[<article><h1>Set Up Shop In Seconds</h1><p>Setting up shop online is too much work with all the management, databases, checkouts and security. Our AI removes the need for plugins, configuration and constant stress. Have a product, add a price and a shopping cart magically appears on your site. Just like that, just as it should be! (Cost-based fees only.)
-</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/Products-mmmm.jpg"></article>]]></description>
-            <guid isPermaLink="false">01c04c1f-37ac-4b5b-82f1-6fe3abfa7f8a</guid>
             <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
         </item>
     </channel>
