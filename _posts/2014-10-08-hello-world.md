@@ -4,10 +4,20 @@ description: |-
   Hello World
   This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - vid
 author: []
-datePublished: '2015-09-20T18:42:31.033Z'
-dateModified: '2014-10-08T16:53:24.830Z'
+datePublished: '2015-09-20T18:52:17.707Z'
+dateModified: '2015-09-20T18:52:01.511Z'
 published: true
 sourcePath: _posts/2014-10-08-hello-world.md
+isBasedOnUrl: null
+inLanguage: null
+starred: true
+keywords: []
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 url: hello-world/index.html
 _context: 'http://schema.org'
 _type: Article
