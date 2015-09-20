@@ -5,8 +5,15 @@
         <description><![CDATA[Grid]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Sep 2015 19:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2015 19:27:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Your message should shape the medium. Now it does with #TheGrid. Join the evolution. https://thegrid.io/#455</p>]]></description>
+            <link>https://twitter.com/jimneuner/status/520018240169189376</link>
+            <guid isPermaLink="false">c918dfa7-2bb5-49d7-86fa-64725fb458af</guid>
+            <pubDate>Sun, 20 Sep 2015 19:27:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>https://thegrid.io - "AI" website design. Conceptually feels very next level, an obvious, natural progression just waiting to happen.</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/royabear/status/520012881497059328</link>
             <guid isPermaLink="false">1897b093-ac9d-4db3-b8c7-480fd54c16b9</guid>
             <pubDate>Sun, 20 Sep 2015 19:17:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Uh-oh. We're all out of a job. The Wizard of Oz has arrived. https://thegrid.io/</p>]]></description>
-            <link>https://twitter.com/matr77/status/520387636679024641</link>
-            <guid isPermaLink="false">ed8fbf69-4c0d-457b-9934-055d79504148</guid>
-            <pubDate>Sun, 20 Sep 2015 19:27:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
