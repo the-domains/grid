@@ -1,17 +1,25 @@
 ---
+isBasedOnUrl: null
+inLanguage: null
+starred: false
+keywords: []
+description: The Grid Loves DesignersNow You Can Design At ScaleWe need designers to create beautiful websites.
 title: The Grid Loves Designers
-description: |-
-  The Grid Loves Designers
-  Now You Can Design At Scale
-  We need designers to create beautiful websites.
 author: []
-datePublished: '2015-09-20T18:43:18.791Z'
-dateModified: '2014-10-08T16:52:05.191Z'
+datePublished: '2015-09-20T19:27:07.492Z'
+dateModified: '2015-09-20T19:21:23.945Z'
 published: true
 sourcePath: _posts/2014-10-08-the-grid-loves-designers.md
-url: the-grid-loves-designers/index.html
+tags:
+  - ''
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+_type: Blurb
 _context: 'http://schema.org'
-_type: Article
 
 ---
 # The Grid Loves Designers
