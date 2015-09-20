@@ -5,7 +5,7 @@
         <description><![CDATA[Grid]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Sep 2015 18:45:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2015 18:45:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -16,6 +16,14 @@ Join the Evolution
 Become a Founding Member</p><img src="http://img.youtube.com/vi/OXA4-5x31V0/hqdefault.jpg"></article>]]></description>
             <guid isPermaLink="false">98c08669-5ed5-4e19-849a-4ba4dd308798</guid>
             <pubDate>Sun, 20 Sep 2015 18:41:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Set Up Shop In Seconds]]></title>
+            <description><![CDATA[<article><h1>Set Up Shop In Seconds</h1><p>Setting up shop online is too much work with all the management, databases, checkouts and security. Our AI removes the need for plugins, configuration and constant stress. Have a product, add a price and a shopping cart magically appears on your site. Just like that, just as it should be! (Cost-based fees only.)
+</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/Products-mmmm.jpg"></article>]]></description>
+            <link>https://thegrid.ai/grid/e-commerce/index.html</link>
+            <guid isPermaLink="false">01c04c1f-37ac-4b5b-82f1-6fe3abfa7f8a</guid>
+            <pubDate>Sun, 20 Sep 2015 18:44:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don't Pay To Access Your Data]]></title>
@@ -75,13 +83,6 @@ Pre-Order Now</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/ass
             <link>https://twitter.com/jimneuner/status/520018240169189376</link>
             <guid isPermaLink="false">c918dfa7-2bb5-49d7-86fa-64725fb458af</guid>
             <pubDate>Sun, 20 Sep 2015 18:43:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid - AI websites that design themselves]]></title>
-            <description><![CDATA[<article><h1>The Grid - AI websites that design themselves</h1><p>I write content for a living-always have, probably always will. So when I'm looking to create websites (which I do quite often), I try to take advantage of platforms that let me do my thing without needing too much help from designers and developers.</p></article>]]></description>
-            <link>https://thegrid.ai/grid/the-grid-ai-websites-that-design-themselves/index.html</link>
-            <guid isPermaLink="false">11692324-54ea-4073-8ff5-ef77bff1e0f1</guid>
-            <pubDate>Sun, 20 Sep 2015 18:44:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
