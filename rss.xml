@@ -5,7 +5,7 @@
         <description><![CDATA[Grid]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Sep 2015 19:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2015 19:22:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -27,13 +27,6 @@
             <link>https://twitter.com/matr77/status/520387636679024641</link>
             <guid isPermaLink="false">ed8fbf69-4c0d-457b-9934-055d79504148</guid>
             <pubDate>Sun, 20 Sep 2015 18:45:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Websites That Evolve With Purpose]]></title>
-            <description><![CDATA[<article><h1>Websites That Evolve With Purpose</h1><p>More followers, more sales, more clicks. All websites are created with a purpose in mind, but it's easy to lose sight of it as you go from brain to domain name. With The Grid, you can set a purpose for your site, write a call to action and sit back. Our AI will automatically test thousands of subtle variations to find the one that works best.</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/purposes-chromeless.png"></article>]]></description>
-            <link>https://thegrid.ai/grid/purpose/index.html</link>
-            <guid isPermaLink="false">779e5e30-b013-4924-b4ce-9edfea1069f2</guid>
-            <pubDate>Sun, 20 Sep 2015 18:44:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
