@@ -40,8 +40,8 @@ description: "I've never spent $96 so fast before @thegridio http://buff.ly/1shL
 inLanguage: English
 app_links: []
 isBasedOnUrl: 'https://twitter.com/wilsojb/status/520259652324712448'
-datePublished: '2015-09-20T18:43:18.855Z'
-dateModified: '2015-04-02T17:38:14.341Z'
+datePublished: '2015-09-20T19:27:07.577Z'
+dateModified: '2015-09-20T19:20:58.039Z'
 sourcePath: _posts/2015-04-02-ive-never-spent-dollar96-so-fast-before-thegridio-httpbuffl.md
 published: true
 _type: Comment
