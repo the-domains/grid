@@ -6,8 +6,8 @@ keywords: []
 description: Hello WorldThis is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - vid
 title: Hello World
 author: []
-datePublished: '2015-09-20T19:27:09.044Z'
-dateModified: '2015-09-20T19:26:12.515Z'
+datePublished: '2015-09-20T19:51:02.240Z'
+dateModified: '2015-09-20T19:50:53.236Z'
 published: true
 sourcePath: _posts/2014-10-08-hello-world.md
 tags:
