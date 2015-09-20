@@ -1,16 +1,24 @@
 ---
+isBasedOnUrl: null
+inLanguage: null
+starred: false
+keywords: []
+description: 'What would you do with 10hrs extra a week?No coding, no design, no maintenance. AI websites that make themselvesPre-Order Now'
 title: AI websites that make themselves
-datePublished: '2015-09-20T18:44:13.498Z'
-description: |-
-  What would you do with 10hrs extra a week?
-  No coding, no design, no maintenance. AI websites that make themselves
-
-  Pre-Order Now
+datePublished: '2015-09-20T19:27:08.075Z'
 author: []
-dateModified: '2014-10-08T16:50:38.406Z'
+dateModified: '2015-09-20T19:21:55.688Z'
 published: true
 sourcePath: _posts/2014-10-05-ai-websites-that-make-themselves.md
-_type: Product
+tags:
+  - ''
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+_type: Blurb
 _context: 'http://schema.org'
 
 ---
