@@ -37,8 +37,8 @@ description: 'TheGrid, aiming to take humans out of website development, grabs $
 inLanguage: English
 app_links: []
 isBasedOnUrl: 'https://twitter.com/VentureBeat/status/519925998557478913'
-datePublished: '2015-09-20T19:17:46.223Z'
-dateModified: '2014-10-09T00:53:24.719Z'
+datePublished: '2015-09-20T19:27:08.124Z'
+dateModified: '2015-09-20T19:17:46.223Z'
 published: true
 sourcePath: _posts/2014-10-09-thegrid-aiming-to-take-humans-out-of-website-development-g.md
 _type: Photograph
