@@ -5,7 +5,7 @@
         <description><![CDATA[Grid]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Sep 2015 18:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2015 18:44:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -16,6 +16,14 @@ Join the Evolution
 Become a Founding Member</p><img src="http://img.youtube.com/vi/OXA4-5x31V0/hqdefault.jpg"></article>]]></description>
             <guid isPermaLink="false">98c08669-5ed5-4e19-849a-4ba4dd308798</guid>
             <pubDate>Sun, 20 Sep 2015 18:41:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[As Easy As A Social Network]]></title>
+            <description><![CDATA[<article><h1>As Easy As A Social Network</h1><p>Never again change your content to fit a cookie-cutter social network or today's hot website template. Just throw in videos, images, text, products and more and magically get a website that looks like it was pored over by a million-dollar design team. Once and for all, content is king.
+</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/EasyAs-image.png"></article>]]></description>
+            <link>https://thegrid.ai/grid/easy-as-a-social-network/index.html</link>
+            <guid isPermaLink="false">c79a7cbd-6447-4477-b730-cdc912b63f0d</guid>
+            <pubDate>Sun, 20 Sep 2015 18:44:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -73,13 +81,6 @@ Become a Founding Member</p><img src="http://img.youtube.com/vi/OXA4-5x31V0/hqde
             <link>https://thegrid.ai/grid/responsive-meh/index.html</link>
             <guid isPermaLink="false">bbb6c092-b250-4359-8c8a-b9afcd331294</guid>
             <pubDate>Sun, 20 Sep 2015 18:43:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How The Grid Will Automate Web Design Without Killing The Designer]]></title>
-            <description><![CDATA[<article><h1>How The Grid Will Automate Web Design Without Killing The Designer</h1><p>Can you replace a human designer with artificial intelligence and machine learning? That's the question, more or less, which will likely plague The Grid long after the company launches its new website creation and hosting platform. The Grid's sales pitch is that creating a beautiful looking website geared towards your intentions shouldn't be harder than giving it content-images, videos, and text.</p><img src="http://g.fastcompany.net/multisite_files/fastcompany/imagecache/inline-large/inline/2015/04/3044670-inline-i-4-grid-shell.jpg"></article>]]></description>
-            <link>http://www.fastcodesign.com/3044670/how-the-grid-will-automate-web-design-without-killing-the-designer</link>
-            <guid isPermaLink="false">25d217cf-003b-405e-93a5-3c9b87d156e9</guid>
-            <pubDate>Sun, 20 Sep 2015 18:43:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
