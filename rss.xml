@@ -5,8 +5,14 @@
         <description><![CDATA[Grid]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Sep 2015 19:28:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2015 19:28:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Connect With The World Around You]]></title>
+            <description><![CDATA[<article><h1>Connect With The World Around You</h1><p>Business cards are dead! Networking doesn't happen at events or conferences. Meaningful connections happen in the real world, when you least expect them. With the Grid Token simply swipe on any device and you can share your site, grow followers, increase sales and much more. </p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/GridToken-img.png"></article>]]></description>
+            <guid isPermaLink="false">4f0ae845-250c-416e-9c70-ce3ca810e8c7</guid>
+            <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Good Content That Finds You]]></title>
             <description><![CDATA[<article><h1>Good Content That Finds You</h1><p>Stop spending all of your time looking for content to fill your site. The Grid allows you to follow any website on the internet, adding updates to your newsfeed that you can instantly add to your site.</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/hello-layout-filters-bg.png"></article>]]></description>
@@ -66,13 +72,6 @@ Pre-Order Now</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/ass
             <description><![CDATA[<img alt="No more building Zuck's website #thegrid #ownnotrent thegrid.io" src="https://pbs.twimg.com/media/Bzd09cECYAAQz47.png:large">]]></description>
             <link>https://twitter.com/royabear/status/520012881497059328</link>
             <guid isPermaLink="false">1897b093-ac9d-4db3-b8c7-480fd54c16b9</guid>
-            <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>How do you get from Lolcats to Skynet? This #startups seems to be on the right track https://thegrid.io/#</p>]]></description>
-            <link>https://twitter.com/EvilSpyBoy/status/520005381225861120</link>
-            <guid isPermaLink="false">11df6e55-fb2e-4424-8681-d552dfd3d083</guid>
             <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
         </item>
     </channel>
