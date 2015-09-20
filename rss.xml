@@ -5,8 +5,15 @@
         <description><![CDATA[Grid]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Sep 2015 19:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2015 19:27:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/BzgOrgcIcAAXIoz.jpg:large" alt="http://www.wordlink.com/l/JCKa @phys and The Grid: Artificial intelligence as your personal graphic designer">]]></description>
+            <link>https://twitter.com/WordLinkTECH/status/520181897809645568</link>
+            <guid isPermaLink="false">3bb4b64c-8a38-4872-a611-ec6d70f7ab6c</guid>
+            <pubDate>Sun, 20 Sep 2015 19:27:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Your message should shape the medium. Now it does with #TheGrid. Join the evolution. https://thegrid.io/#455</p>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img alt="TheGrid, aiming to take humans out of website development, grabs $3.1M http://wp.me/p1re2-6ATM by @jordannovet" src="https://pbs.twimg.com/media/Bzcl8M1CIAAxT8l.png:large">]]></description>
             <link>https://twitter.com/VentureBeat/status/519925998557478913</link>
             <guid isPermaLink="false">659d0aa7-1028-459a-a530-51a3d5b7d0be</guid>
-            <pubDate>Sun, 20 Sep 2015 19:17:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="No more building Zuck's website #thegrid #ownnotrent thegrid.io" src="https://pbs.twimg.com/media/Bzd09cECYAAQz47.png:large">]]></description>
-            <link>https://twitter.com/royabear/status/520012881497059328</link>
-            <guid isPermaLink="false">1897b093-ac9d-4db3-b8c7-480fd54c16b9</guid>
             <pubDate>Sun, 20 Sep 2015 19:17:46 GMT</pubDate>
         </item>
     </channel>
