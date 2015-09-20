@@ -5,7 +5,7 @@
         <description><![CDATA[Grid]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Sep 2015 19:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2015 19:18:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -23,6 +23,13 @@ Become a Founding Member</p><img src="http://img.youtube.com/vi/OXA4-5x31V0/hqde
             <link>https://thegrid.ai/grid/hello-world/index.html</link>
             <guid isPermaLink="false">c74ad7d7-08f1-4287-ae24-0adf14b1f4a6</guid>
             <pubDate>Sun, 20 Sep 2015 18:52:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="TheGrid, aiming to take humans out of website development, grabs $3.1M http://wp.me/p1re2-6ATM by @jordannovet" src="https://pbs.twimg.com/media/Bzcl8M1CIAAxT8l.png:large">]]></description>
+            <link>https://twitter.com/VentureBeat/status/519925998557478913</link>
+            <guid isPermaLink="false">659d0aa7-1028-459a-a530-51a3d5b7d0be</guid>
+            <pubDate>Sun, 20 Sep 2015 19:17:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -73,13 +80,6 @@ Become a Founding Member</p><img src="http://img.youtube.com/vi/OXA4-5x31V0/hqde
             <description><![CDATA[<article><h1>Don't Pay To Access Your Data</h1><p>We mean it. We don't take your data and lock it up in some mysterious database, we put it on GitHub so you have access to it anytime, anywhere. Here's ours.</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/Data+Ownership.png"></article>]]></description>
             <link>https://thegrid.ai/grid/data-ownership/index.html</link>
             <guid isPermaLink="false">4b89554d-3fca-4969-be74-59881eef30f2</guid>
-            <pubDate>Sun, 20 Sep 2015 18:44:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We're Listening For You]]></title>
-            <description><![CDATA[<article><h1>We're Listening For You</h1><p>Constantly monitoring the web for mentions of your company or product takes nearly as much time as building it. What if your website notified you of new articles and automatically prepared a Press section ready to go live? Our AI will help you get the story out there now, because tomorrow is too late.</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/Content+Suggestions.png"></article>]]></description>
-            <link>https://thegrid.ai/grid/content-suggestions/index.html</link>
-            <guid isPermaLink="false">df031457-52d0-4d37-b6e5-4455d0777b45</guid>
             <pubDate>Sun, 20 Sep 2015 18:44:13 GMT</pubDate>
         </item>
     </channel>
