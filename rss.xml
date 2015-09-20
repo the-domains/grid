@@ -5,8 +5,15 @@
         <description><![CDATA[Grid]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Sep 2015 19:28:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2015 19:28:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="No more building Zuck's website #thegrid #ownnotrent thegrid.io" src="https://pbs.twimg.com/media/Bzd09cECYAAQz47.png:large">]]></description>
+            <link>https://twitter.com/royabear/status/520012881497059328</link>
+            <guid isPermaLink="false">1897b093-ac9d-4db3-b8c7-480fd54c16b9</guid>
+            <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>How do you get from Lolcats to Skynet? This #startups seems to be on the right track https://thegrid.io/#</p>]]></description>
@@ -67,13 +74,6 @@
             <title><![CDATA[The Grid Loves Designers]]></title>
             <description><![CDATA[<article><h1>The Grid Loves Designers</h1><p>The Grid Loves DesignersNow You Can Design At ScaleWe need designers to create beautiful websites.</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/designers-02.jpg"></article>]]></description>
             <guid isPermaLink="false">38179947-5c4a-46de-ac11-0c418a403f2c</guid>
-            <pubDate>Sun, 20 Sep 2015 19:27:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How The Grid Will Automate Web Design Without Killing The Designer]]></title>
-            <description><![CDATA[<article><h1>How The Grid Will Automate Web Design Without Killing The Designer</h1><p>Can you replace a human designer with artificial intelligence and machine learning? That's the question, more or less, which will likely plague The Grid long after the company launches its new website creation and hosting platform. The Grid's sales pitch is that creating a beautiful looking website geared towards your intentions shouldn't be harder than giving it content-images, videos, and text.</p><img src="http://g.fastcompany.net/multisite_files/fastcompany/imagecache/inline-large/inline/2015/04/3044670-inline-i-4-grid-shell.jpg"></article>]]></description>
-            <link>http://www.fastcodesign.com/3044670/how-the-grid-will-automate-web-design-without-killing-the-designer</link>
-            <guid isPermaLink="false">25d217cf-003b-405e-93a5-3c9b87d156e9</guid>
             <pubDate>Sun, 20 Sep 2015 19:27:07 GMT</pubDate>
         </item>
     </channel>
