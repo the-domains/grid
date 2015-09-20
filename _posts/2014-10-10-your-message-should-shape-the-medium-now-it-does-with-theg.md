@@ -43,8 +43,8 @@ description: 'Your message should shape the medium. Now it does with #TheGrid. J
 inLanguage: English
 app_links: []
 isBasedOnUrl: 'https://twitter.com/jimneuner/status/520018240169189376'
-datePublished: '2015-09-20T18:43:19.423Z'
-dateModified: '2014-10-10T02:42:27.645Z'
+datePublished: '2015-09-20T18:45:22.740Z'
+dateModified: '2015-09-20T18:43:19.423Z'
 published: true
 sourcePath: _posts/2014-10-10-your-message-should-shape-the-medium-now-it-does-with-theg.md
 _type: Comment
