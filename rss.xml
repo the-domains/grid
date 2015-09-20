@@ -5,8 +5,14 @@
         <description><![CDATA[Grid]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Sep 2015 19:28:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2015 19:28:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Site As Colorful As You]]></title>
+            <description><![CDATA[<article><h1>A Site As Colorful As You</h1><p>Our algorithms expertly analyze your media and apply color palettes that keep your messaging consistent and unique. The Grid also detects color contrasts, automatically adjusting typography color to maximize legibility.</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/purus-01.jpg"></article>]]></description>
+            <guid isPermaLink="false">1ec03846-9dea-4715-9021-4eb089c65253</guid>
+            <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Team]]></title>
             <description><![CDATA[<article><h1>The Team</h1><p>Henri is an open source content management pioneer. He is the author of the Create.js web editing interface and the NoFlo flow-based programming environment that powers The Grid.</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/team/Henri.png"></article>]]></description>
@@ -61,12 +67,6 @@
             <title><![CDATA[Good Content That Finds You]]></title>
             <description><![CDATA[<article><h1>Good Content That Finds You</h1><p>Stop spending all of your time looking for content to fill your site. The Grid allows you to follow any website on the internet, adding updates to your newsfeed that you can instantly add to your site.</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/hello-layout-filters-bg.png"></article>]]></description>
             <guid isPermaLink="false">45a9e328-1e9a-4be4-8140-ed835bed5cac</guid>
-            <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Websites That Evolve With Purpose]]></title>
-            <description><![CDATA[<article><h1>Websites That Evolve With Purpose</h1><p>More followers, more sales, more clicks. All websites are created with a purpose in mind, but it's easy to lose sight of it as you go from brain to domain name. With The Grid, you can set a purpose for your site, write a call to action and sit back. Our AI will automatically test thousands of subtle variations to find the one that works best.</p><img src="https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/purposes-chromeless.png"></article>]]></description>
-            <guid isPermaLink="false">779e5e30-b013-4924-b4ce-9edfea1069f2</guid>
             <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
         </item>
     </channel>
