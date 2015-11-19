@@ -1,8 +1,8 @@
 name: The Grid
-title: Join the Evolution
 favicon: 'https://passport.thegrid.io/favicon.ico'
-layout_spectrum: 0.47515
+layout_spectrum: 0.40121
 typography_spectrum: 0.3918
+title: Join the Evolution
 cta:
   domain: //s3-us-west-2.amazonaws.com
   bucket: /cdn.thegrid.io
@@ -29,3 +29,4 @@ color:
 purpose:
   - name: sales
     item: 98c08669-5ed5-4e19-849a-4ba4dd308798
+    url: null
