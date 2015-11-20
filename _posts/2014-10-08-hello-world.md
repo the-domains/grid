@@ -1,13 +1,16 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
-description: Hello WorldThis is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - vid
+description: This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - vid
+datePublished: '2015-11-20T03:19:13.033Z'
+dateModified: '2015-11-20T03:19:07.249Z'
 title: Hello World
 author: []
-datePublished: '2015-09-20T19:51:02.240Z'
-dateModified: '2015-09-20T19:50:53.236Z'
 published: true
 sourcePath: _posts/2014-10-08-hello-world.md
 tags:
