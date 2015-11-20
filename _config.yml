@@ -24,7 +24,7 @@ color:
     - '#525253'
   brandStrength: 1
   lightness: 0.6875
-  saturation: 1
+  saturation: 0
   rhythmicContrast: 0.5
 purpose:
   - name: sales
