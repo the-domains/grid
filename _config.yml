@@ -23,9 +23,9 @@ color:
     - '#ffffff'
     - '#f04349'
   brandStrength: 0
-  lightness: 0.9375
-  saturation: 1
-  rhythmicContrast: 0.5
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 purpose:
   - name: sales
     item: 98c08669-5ed5-4e19-849a-4ba4dd308798
