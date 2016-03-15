@@ -24,7 +24,7 @@ color:
     - '#f04349'
   brandStrength: 0
   lightness: 1
-  saturation: 0
+  saturation: 0.25
   rhythmicContrast: 1
 purpose:
   - name: sales
