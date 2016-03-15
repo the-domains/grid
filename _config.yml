@@ -1,6 +1,6 @@
 name: The Grid
 favicon: 'https://passport.thegrid.io/favicon.ico'
-layout_spectrum: 0.23246
+layout_spectrum: 0.38333
 typography_spectrum: 0.49919
 title: Join the Evolution
 cta:
@@ -23,8 +23,8 @@ color:
     - '#fcfbfd'
     - '#525253'
   brandStrength: 0
-  lightness: 0.6875
-  saturation: 0
+  lightness: 0.9375
+  saturation: 1
   rhythmicContrast: 0.5
 purpose:
   - name: sales
