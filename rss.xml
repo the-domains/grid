@@ -4,7 +4,7 @@
         <description><![CDATA[Join the Evolution]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 02:35:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 02:42:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -15,6 +15,13 @@ Join the Evolution
 Become a Founding Member</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6337ff667a25f765d5fc4cdfb936816dc1a421a1.jpg"></article>]]></description>
             <guid isPermaLink="false">98c08669-5ed5-4e19-849a-4ba4dd308798</guid>
             <pubDate>Sun, 20 Sep 2015 20:01:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[blog]]></title>
+            <description><![CDATA[<article><h1>blog</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3137b91139a58abaca8ff2604e718582a5047a6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/grid/blog/index.html</link>
+            <guid isPermaLink="false">0f01e813-2c33-4bac-9306-d365b49b4176</guid>
+            <pubDate>Tue, 15 Mar 2016 02:41:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -69,13 +76,6 @@ Become a Founding Member</p><img src="https://s3-us-west-2.amazonaws.com/the-gri
             <title><![CDATA[A Site As Colorful As You]]></title>
             <description><![CDATA[<article><h1>A Site As Colorful As You</h1><p>Our algorithms expertly analyze your media and apply color palettes that keep your messaging consistent and unique. The Grid also detects color contrasts, automatically adjusting typography color to maximize legibility.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5513804a88f229c732d0375a3b091c1a265f01e6.jpg"></article>]]></description>
             <guid isPermaLink="false">1ec03846-9dea-4715-9021-4eb089c65253</guid>
-            <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Team]]></title>
-            <description><![CDATA[<article><h1>The Team</h1><p>Henri is an open source content management pioneer. He is the author of the Create.js web editing interface and the NoFlo flow-based programming environment that powers The Grid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6c3559f8de84f115a0649be5123ffea54e154a2.png"></article>]]></description>
-            <link>https://thegrid.ai/grid/the-team/index.html</link>
-            <guid isPermaLink="false">d9083f86-37cd-4242-8f2e-92a47c73e98b</guid>
             <pubDate>Sun, 20 Sep 2015 19:27:08 GMT</pubDate>
         </item>
     </channel>
