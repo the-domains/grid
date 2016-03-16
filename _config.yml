@@ -23,7 +23,7 @@ color:
     - '#deae63'
     - '#8cfefc'
   brandStrength: 0
-  lightness: 1
+  lightness: 0.5
   saturation: 1
   rhythmicContrast: 1
 purpose:
