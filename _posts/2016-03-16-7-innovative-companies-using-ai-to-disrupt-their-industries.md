@@ -17,8 +17,8 @@ keywords:
   - investors
   - grid
 description: 'Despite predictions of a tech slowdown, big-name businesses like Facebook, Apple, and IBM are pouring resources into artificial intelligence (AI), changing the field and gaining the interest of venture capitalists everywhere. As investors actively seek innovative players in the AI space, more entrepreneurs are gravitating toward the technology as they build and grow their own companies.'
-datePublished: '2016-03-16T16:43:55.155Z'
-dateModified: '2016-03-16T16:43:41.375Z'
+datePublished: '2016-03-16T16:44:07.029Z'
+dateModified: '2016-03-16T16:44:00.287Z'
 author:
   - name: John Boitnott
     url: 'http://www.inc.com/author/john-boitnott'
