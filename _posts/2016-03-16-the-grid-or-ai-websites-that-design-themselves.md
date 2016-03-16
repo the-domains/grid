@@ -1,29 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=OXA4-5x31V0'
+inLanguage: null
+starred: true
+keywords: []
+description: 'Content is power. Power your content on The Grid. http://www.thegrid.io This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you.'
+datePublished: '2016-03-16T20:23:03.571Z'
+dateModified: '2016-03-16T20:22:59.996Z'
 author:
   - name: The Grid
     url: 'https://www.youtube.com/user/TheGridio'
     avatar: {}
 related: []
+app_links: []
+title: 'The Grid | AI Websites That Design Themselves'
+sourcePath: _posts/2016-03-16-the-grid-or-ai-websites-that-design-themselves.md
+published: true
+authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-keywords: []
-description: 'Content is power. Power your content on The Grid. http://www.thegrid.io This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you.'
-app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=OXA4-5x31V0'
-title: 'The Grid | AI Websites That Design Themselves'
-datePublished: '2016-03-16T19:36:01.529Z'
-dateModified: '2016-03-16T19:35:57.937Z'
-sourcePath: _posts/2016-03-16-the-grid-or-ai-websites-that-design-themselves.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-starred: true
-authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
