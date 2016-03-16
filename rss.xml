@@ -4,7 +4,7 @@
         <description><![CDATA[Join the Evolution]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 03:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 03:14:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/grid/faq/index.html</link>
             <guid isPermaLink="false">78a6cae1-1d51-4116-87c1-aa987f89b53b</guid>
             <pubDate>Thu, 19 Nov 2015 19:50:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Privacy Policy]]></title>
-            <description><![CDATA[<article><h1>Privacy Policy</h1><p>This Privacy Policy was last updated on October 7, 2014</p></article>]]></description>
-            <link>https://thegrid.ai/grid/pp/index.html</link>
-            <guid isPermaLink="false">6cdb393b-dc86-4494-a73a-009da8e1eb92</guid>
-            <pubDate>Thu, 19 Nov 2015 19:49:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How The Grid Will Automate Web Design Without Killing The Designer]]></title>
