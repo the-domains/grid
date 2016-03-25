@@ -10,8 +10,8 @@ description: >
   adapts to look great and work flawlessly no matter where your users find you.
 title: 'All Your Media, On Any Device'
 author: []
-datePublished: '2016-03-25T21:58:27.006Z'
-dateModified: '2016-03-25T19:13:33.448Z'
+datePublished: '2016-03-25T22:02:22.548Z'
+dateModified: '2016-03-25T19:20:44.049Z'
 published: true
 sourcePath: _posts/2014-10-08-responsive-meh.md
 tags:
