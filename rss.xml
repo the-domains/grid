@@ -4,7 +4,7 @@
         <description><![CDATA[Join the Evolution]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 19:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 19:21:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Grid | AI Websites That Design Themselves]]></title>
@@ -12,6 +12,20 @@
             <link>https://www.youtube.com/watch?v=OXA4-5x31V0</link>
             <guid isPermaLink="false">b7c3af44-4064-4264-93d7-1f33935e88a6</guid>
             <pubDate>Wed, 16 Mar 2016 20:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://thegrid.io - "AI" website design. Conceptually feels very next level, an obvious, natural progression just waiting to happen.</p>]]></description>
+            <link>https://twitter.com/jasonfried/status/522492212144525312</link>
+            <guid isPermaLink="false">75ab5fe8-4ad6-4b6a-8077-6ed13502f172</guid>
+            <pubDate>Sun, 20 Sep 2015 19:55:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Grid - AI websites that design themselves]]></title>
+            <description><![CDATA[<article><h1>The Grid - AI websites that design themselves</h1><p>I write content for a living-always have, probably always will. So when I'm looking to create websites (which I do quite often), I try to take advantage of platforms that let me do my thing without needing too much help from designers and developers.</p></article>]]></description>
+            <link>http://blog.iwantmyname.com/2014/10/the-grid.html</link>
+            <guid isPermaLink="false">11692324-54ea-4073-8ff5-ef77bff1e0f1</guid>
+            <pubDate>Sun, 20 Sep 2015 19:32:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
