@@ -4,7 +4,7 @@
         <description><![CDATA[Join the Evolution]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 21:08:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 21:10:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Grid | AI Websites That Design Themselves]]></title>
@@ -12,13 +12,6 @@
             <link>https://www.youtube.com/watch?v=OXA4-5x31V0</link>
             <guid isPermaLink="false">b7c3af44-4064-4264-93d7-1f33935e88a6</guid>
             <pubDate>Wed, 16 Mar 2016 20:23:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02efa1bc-bdeb-4af2-8c0b-1a56259c6043.jpg">]]></description>
-            <link>https://thegrid.ai/grid/010ae89a-1666-4fed-97b9-a80505c778d3/index.html</link>
-            <guid isPermaLink="false">010ae89a-1666-4fed-97b9-a80505c778d3</guid>
-            <pubDate>Fri, 25 Mar 2016 21:08:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
