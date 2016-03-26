@@ -23,8 +23,8 @@ color:
     - '#8f8f96'
     - '#b3b3b9'
   brandStrength: 0
-  lightness: 1
-  saturation: 1
+  lightness: 0.3125
+  saturation: 0.25
   rhythmicContrast: 1
 purpose:
   - name: sales
