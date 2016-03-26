@@ -17,14 +17,14 @@ opengraph:
   appId: '1517733501804443'
 color:
   brandColors:
-    - '#12b9b1'
-    - '#1d1220'
-    - '#948a92'
-    - '#ffffff'
-    - '#f04349'
+    - '#1b1b21'
+    - '#ffe54c'
+    - '#ccffff'
+    - '#94b7b9'
+    - '#687e82'
   brandStrength: 0
-  lightness: 1
-  saturation: 1
+  lightness: 0
+  saturation: 0.125
   rhythmicContrast: 1
 purpose:
   - name: sales
