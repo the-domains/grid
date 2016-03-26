@@ -23,8 +23,8 @@ color:
     - '#9e737b'
     - '#fc7b70'
   brandStrength: 0
-  lightness: 1
-  saturation: 1
+  lightness: 0
+  saturation: 0
   rhythmicContrast: 1
 purpose:
   - name: sales
