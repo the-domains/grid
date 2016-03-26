@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-26T00:37:30.399Z'
-dateModified: '2016-03-26T00:37:03.349Z'
+datePublished: '2016-03-26T00:41:18.999Z'
+dateModified: '2016-03-26T00:40:49.083Z'
 title: A Site As Colorful As You
 author: []
 authors: []
@@ -22,8 +22,7 @@ url: a-site-as-colorful-as-you/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2630fa1-0594-4557-964b-e599f8d2bf6b.png)
-
 # A Site As Colorful As You
 
-## INTELLIGENT COLOR DETECTION & CORRECTION
+INTELLIGENT COLOR DETECTION & CORRECTION
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d15fadd-1fa9-4001-9e79-3f75be0d33f7.png)
