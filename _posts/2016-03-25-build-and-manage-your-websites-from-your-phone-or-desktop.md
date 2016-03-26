@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-25T22:20:12.876Z'
-dateModified: '2016-03-25T22:20:08.919Z'
+description: 'Our algorithms expertly analyze your media and apply color palettes that keep your messaging consistent and unique. The Grid also detects color contrasts, automatically adjusting typography color to maximize legibility'
+datePublished: '2016-03-26T03:25:20.752Z'
+dateModified: '2016-03-26T03:25:13.196Z'
 title: Build and manage your websites from your phone or desktop.
 author: []
+sourcePath: _posts/2016-03-25-build-and-manage-your-websites-from-your-phone-or-desktop.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-25-build-and-manage-your-websites-from-your-phone-or-desktop.md
-published: true
 url: build-and-manage-your-websites-from-your-phone-or-desktop/index.html
 _type: Article
 
