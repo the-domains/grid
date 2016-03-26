@@ -24,7 +24,7 @@ color:
     - '#fc7b70'
   brandStrength: 0
   lightness: 0.75
-  saturation: 0.5
+  saturation: 1
   rhythmicContrast: 1
 purpose:
   - name: sales
