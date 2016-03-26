@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Content is power. Power your content on The Grid. http://www.thegrid.io This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you.'
-datePublished: '2016-03-16T20:23:03.571Z'
-dateModified: '2016-03-16T20:22:59.996Z'
+datePublished: '2016-03-26T03:22:06.795Z'
+dateModified: '2016-03-26T03:22:01.261Z'
 author:
   - name: The Grid
     url: 'https://www.youtube.com/user/TheGridio'
