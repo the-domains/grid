@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "We've learned so much from all of you sharing your experiences with us. Keep up to date by going to our blog where we will be sharing Founding Member updates."
-datePublished: '2016-03-26T04:39:27.962Z'
-dateModified: '2016-03-26T04:39:20.846Z'
+datePublished: '2016-03-26T04:58:13.081Z'
+dateModified: '2016-03-26T04:58:08.594Z'
 title: Blog
 author: []
 sourcePath: _posts/2016-03-26-beta-is-in-full-swing.md
@@ -23,7 +23,7 @@ _type: WebPage
 
 ---
 # Blog
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d1b1c82b30dde7e7dffe764b542eb76c/passthrough.png?height=357&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fe1cc83448ffad962195a74b7b8ba652cb89416ae.png&width=750)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1cc83448ffad962195a74b7b8ba652cb89416ae.png)
 
 We've learned so much from all of you sharing your experiences with us. Keep up to date by going to our [blog][0] where we will be sharing Founding Member updates.
 
