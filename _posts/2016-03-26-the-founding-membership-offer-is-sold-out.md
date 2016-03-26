@@ -7,22 +7,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'We’ll be in closed beta with our existing Founding Members until we launch. If you missed the Founding Membership offer, we’ll still have a place for you. '
-datePublished: '2016-03-26T05:17:12.873Z'
-dateModified: '2016-03-26T05:17:12.226Z'
+datePublished: '2016-03-26T05:21:42.284Z'
+dateModified: '2016-03-26T05:21:37.115Z'
 title: 'The Founding Membership offer is sold out!'
 author: []
+sourcePath: _posts/2016-03-26-the-founding-membership-offer-is-sold-out.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-26-the-founding-membership-offer-is-sold-out.md
-published: true
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66b026cd-deb0-4ef4-839a-4015fc04db48.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af114885-a797-44d8-8b83-950ba80be0e8.png)
 
 # The Founding Membership offer is sold out!
 
