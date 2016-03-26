@@ -16,9 +16,9 @@ keywords:
   - website
   - learn
   - timeline
-description: 'Templates Are Dead: 5 Ways Scalable Design Will Change The Way We Build Websites: http://bit.ly/1E0QkXA'
-datePublished: '2016-03-26T17:11:02.145Z'
-dateModified: '2016-03-26T17:10:56.489Z'
+description: ''
+datePublished: '2016-03-26T17:16:40.640Z'
+dateModified: '2016-03-26T17:16:35.805Z'
 author:
   - name: core77
     url: 'http://twitter.com/core77'
