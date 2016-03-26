@@ -4,7 +4,7 @@
         <description><![CDATA[Join the Evolution]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 18:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 18:19:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Grid | AI Websites That Design Themselves]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.youtube.com/watch?v=OXA4-5x31V0</link>
             <guid isPermaLink="false">b7c3af44-4064-4264-93d7-1f33935e88a6</guid>
             <pubDate>Sat, 26 Mar 2016 03:24:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Request Access]]></title>
+            <description><![CDATA[<article><h1>Request Access</h1><p>The Founding Membership offer is sold out! We’ll be in closed beta with our existing Founding Members until we launch. If you missed the Founding Membership offer, we’ll still have a place for you. </p></article>]]></description>
+            <link>https://thegrid.ai/grid/request-access/index.html</link>
+            <guid isPermaLink="false">90628957-188d-4e97-8b65-ba84fbc090c5</guid>
+            <pubDate>Sat, 26 Mar 2016 18:19:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Henri Bergius - Websites Designed by Artificial Intelligence]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/JonAdaskin/status/712341335253000192</link>
             <guid isPermaLink="false">6eb542e5-3376-4c6f-9819-1f2c48c35d41</guid>
             <pubDate>Sat, 26 Mar 2016 16:47:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/26e1319f-00f3-43bb-98ce-c394f39940b0.png" alt="" title="">]]></description>
-            <link>https://thegrid.zendesk.com/hc/en-us</link>
-            <guid isPermaLink="false">2258838b-4c46-4fab-93da-3b87114cd02e</guid>
-            <pubDate>Sat, 26 Mar 2016 17:39:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
