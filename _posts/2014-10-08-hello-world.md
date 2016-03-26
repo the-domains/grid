@@ -7,9 +7,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs. Want to add e-commerce? Social feeds? A different layout? The Grid just takes care of it. This is not a website builder. This is your personal AI web developer. Its first masterpiece is the website you're looking at right now. Its next one could be yours."
-datePublished: '2016-03-26T02:16:45.950Z'
-dateModified: '2016-03-26T02:16:34.574Z'
-title: 'Hello World '
+datePublished: '2016-03-26T02:17:58.854Z'
+dateModified: '2016-03-26T02:17:51.202Z'
+title: Hello World
 author: []
 published: true
 sourcePath: _posts/2014-10-08-hello-world.md
