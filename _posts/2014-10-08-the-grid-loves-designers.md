@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: The Grid Loves DesignersNow You Can Design At ScaleWe need designers to create beautiful websites.
-datePublished: '2016-03-26T17:49:22.675Z'
-dateModified: '2016-03-25T19:20:42.879Z'
+datePublished: '2016-03-26T18:23:09.741Z'
+dateModified: '2016-03-26T18:23:04.535Z'
 title: The Grid Loves Designers
 author: []
 published: true
@@ -29,5 +29,5 @@ _context: 'http://schema.org'
 
 ## Now You Can Design At Scale
 
-We need designers to create beautiful websites. But because sites change so often, it's easy to get caught up in minutiae. Designers should focus on perfecting their master vision and let AI take care of the tedious details.
-![](https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/posts/designers-02.jpg)
+We need designers to create beautiful websites. But because sites change so often, it's easy to get caught up in minute. Designers should focus on perfecting their master vision and let AI take care of the tedious details.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0199f76e320adaa820230f6f9e025e5333a18698.jpg)
