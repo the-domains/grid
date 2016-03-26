@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'AI that designs a custom site to fit the unique characteristics of your content & slaves 24/7 constantly improving it'
-datePublished: '2016-03-26T16:21:45.961Z'
-dateModified: '2016-03-26T16:21:40.682Z'
+datePublished: '2016-03-26T16:23:47.478Z'
+dateModified: '2016-03-26T16:23:42.400Z'
 title: This is not another do-it-yourself website builder.
 author: []
 sourcePath: _posts/2016-03-26-this-is-not-another-do-it-yourself-website-builder.md
@@ -22,7 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/681d24e1-2462-4cca-b811-51b362ff1d2a.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e75c08c584849f6cdc3367c92d49712c47fa7806.png)
 
 # This is not another do-it-yourself website builder.
 
