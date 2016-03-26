@@ -17,8 +17,8 @@ keywords:
   - learn
   - timeline
 description: ''
-datePublished: '2016-03-26T17:16:40.640Z'
-dateModified: '2016-03-26T17:16:35.805Z'
+datePublished: '2016-03-26T17:21:16.372Z'
+dateModified: '2016-03-26T17:21:11.782Z'
 author:
   - name: core77
     url: 'http://twitter.com/core77'
@@ -54,6 +54,6 @@ _type: Comment
 _context: 'http://schema.org'
 
 ---
-> Templates Are Dead: 5 Ways Scalable Design Will Change The Way We Build Websites: 
+> Templates Are Dead: 5 Ways Scalable Design Will Change The Way We Build Websites.
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d9fcd2b-9465-40c8-89f2-2a1cd38377d1.png)
