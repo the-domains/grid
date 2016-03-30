@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=OXA4-5x31V0'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Content is power. Power your content on The Grid. http://www.thegrid.io This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you.'
-datePublished: '2016-03-30T21:24:03.035Z'
-dateModified: '2016-03-30T21:22:09.601Z'
+datePublished: '2016-03-30T21:24:18.302Z'
+dateModified: '2016-03-30T21:24:12.365Z'
 author:
   - name: The Grid
     url: 'https://www.youtube.com/user/TheGridio'
