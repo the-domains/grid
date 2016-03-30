@@ -4,7 +4,7 @@
         <description><![CDATA[Join the Evolution]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 20:08:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 21:15:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Grid | AI Websites That Design Themselves]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.youtube.com/watch?v=OXA4-5x31V0</link>
             <guid isPermaLink="false">b7c3af44-4064-4264-93d7-1f33935e88a6</guid>
             <pubDate>Sat, 26 Mar 2016 03:24:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Founding Membership offer is sold out!]]></title>
+            <description><![CDATA[<article><h1>The Founding Membership offer is sold out!</h1><p>We’ll be in closed beta with our existing Founding Members until we launch. If youmissed theFounding Membership offer, we’ll still have a place for you.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77e850b9-3c96-4a5d-9436-4a98f0edbd48.gif"></article>]]></description>
+            <link>https://thegrid.ai/grid/the-founding-membership-offer-is-sold-out/index.html</link>
+            <guid isPermaLink="false">0a8b6497-eeeb-41e0-aa60-158832864401</guid>
+            <pubDate>Wed, 30 Mar 2016 21:15:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/core77/status/595265874887454721</link>
             <guid isPermaLink="false">6322c8a5-3d90-4a2d-9b5d-a4d54154dcc4</guid>
             <pubDate>Sat, 26 Mar 2016 17:21:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Build and manage your websites from your phone or desktop.]]></title>
-            <description><![CDATA[<article><h1>Build and manage your websites from your phone or desktop.</h1><p>Our algorithms expertly analyze your media and apply color palettes that keep your messaging consistent and unique. The Grid also detects color contrasts, automatically adjusting typography color to maximize legibility</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4932f19f-19fb-46db-8fbc-d835530c2e30.png"></article>]]></description>
-            <link>https://thegrid.ai/grid/build-and-manage-your-websites-from-your-phone-or-desktop/index.html</link>
-            <guid isPermaLink="false">7f6be21b-a60e-45d2-be54-5b9e5a6a9be4</guid>
-            <pubDate>Sat, 26 Mar 2016 16:47:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
