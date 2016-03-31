@@ -4,7 +4,7 @@
         <description><![CDATA[Join the Evolution]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 04:39:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 15:32:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Grid | AI Websites That Design Themselves]]></title>
@@ -68,13 +68,6 @@
             <link>https://thegrid.ai/grid/a-site-as-colorful-as-you/index.html</link>
             <guid isPermaLink="false">b823ce95-88f8-4ac7-9df2-d061610a75d2</guid>
             <pubDate>Sat, 26 Mar 2016 17:24:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7 Innovative Companies Using AI to Disrupt Their Industries]]></title>
-            <description><![CDATA[<article><h1>7 Innovative Companies Using AI to Disrupt Their Industries</h1><p>Despite predictions of a tech slowdown, big-name businesses like Facebook, Apple, and IBM are pouring resources into artificial intelligence (AI), changing the field and gaining the interest of venture capitalists everywhere. As investors actively seek innovative players in the AI space, more entrepreneurs are gravitating toward the technology as they build and grow their own companies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/634b898dd415bbc333d5ac586f57c6806aaa7cf5.jpg"></article>]]></description>
-            <link>http://www.inc.com/john-boitnott/7-innovative-companies-using-ai-to-disrupt-their-industries.html</link>
-            <guid isPermaLink="false">96b6cddb-aea6-4e0c-bb13-a9e5cea64eed</guid>
-            <pubDate>Sat, 26 Mar 2016 17:20:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
