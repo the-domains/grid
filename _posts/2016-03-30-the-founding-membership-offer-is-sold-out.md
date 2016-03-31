@@ -6,9 +6,9 @@ isBasedOnUrl: 'http://thegrid.us6.list-manage.com/subscribe?u=e3e55c4321c915d4d6
 inLanguage: null
 starred: false
 keywords: []
-description: 'We’ll be in closed beta with our existing Founding Members until we launch. If youmissed theFounding Membership offer, we’ll still have a place for you.'
-datePublished: '2016-03-30T21:44:35.409Z'
-dateModified: '2016-03-30T21:44:30.539Z'
+description: 'We’ll be in closed beta with our existing Founding Members until we launch. If you missed the Founding Membership offer, we’ll still have a place for you.'
+datePublished: '2016-03-31T02:39:14.786Z'
+dateModified: '2016-03-31T02:39:02.487Z'
 title: 'The Founding Membership offer is sold out!'
 author: []
 sourcePath: _posts/2016-03-30-the-founding-membership-offer-is-sold-out.md
@@ -25,4 +25,4 @@ _type: MediaObject
 # The Founding Membership offer is sold out!
 
 We'll be in closed beta with our existing Founding Members until we launch. If you missed the Founding Membership offer, we'll still have a place for you.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9552c9e-c93e-4638-8832-fa1c5ca2deae.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbf3f4d4-3feb-473c-8b24-613f8207323a.gif)
