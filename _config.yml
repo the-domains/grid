@@ -1,8 +1,13 @@
 name: The Grid
 favicon: 'https://passport.thegrid.io/favicon.ico'
 layout_spectrum: 0.23066
-typography_spectrum: 0.13504
+typography_spectrum: 0.21216
 title: Join the Evolution
+navigation:
+  - url: 'https://blog.thegrid.io/'
+    name: Blog
+  - url: 'https://thegrid.ai/thegridsupport/'
+    name: Support
 cta:
   domain: //s3-us-west-2.amazonaws.com
   bucket: /cdn.thegrid.io
@@ -26,11 +31,6 @@ color:
   lightness: 0.75
   saturation: 0
   rhythmicContrast: 1
-navigation:
-- url: 'https://blog.thegrid.io/'
-  name: Blog
-- url: 'https://thegrid.ai/thegridsupport/'
-  name: Support
 purpose:
   - name: sales
     item: 98c08669-5ed5-4e19-849a-4ba4dd308798
