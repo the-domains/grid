@@ -6,7 +6,7 @@ title: Join the Evolution
 navigation:
   - url: 'https://blog.thegrid.io/'
     name: Blog
-  - url: 'https://thegrid.ai/thegridsupport/'
+  - url: 'https://support.thegrid.io/'
     name: Support
 cta:
   domain: //s3-us-west-2.amazonaws.com
