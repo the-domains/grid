@@ -8,6 +8,8 @@ navigation:
     name: Blog
   - url: 'https://support.thegrid.io/'
     name: Support
+  - url: 'http://status.thegrid.io/'
+    name: Status
 cta:
   domain: //s3-us-west-2.amazonaws.com
   bucket: /cdn.thegrid.io
