@@ -1,7 +1,7 @@
 name: The Grid
 favicon: 'https://passport.thegrid.io/favicon.ico'
-layout_spectrum: 0.13419235520996153
-typography_spectrum: 0.21216
+layout_spectrum: 0.452315469738096
+typography_spectrum: 0.22450116905383766
 style: the-composer
 title: Join the Evolution
 navigation:
@@ -25,15 +25,15 @@ opengraph:
   appId: '1517733501804443'
 color:
   brandColors:
-    - '#ffe54c'
-    - '#94b7b9'
-    - '#ccffff'
-    - '#1b1b21'
-    - '#687e82'
-  brandStrength: 0
-  lightness: 0.75
-  saturation: 0
-  rhythmicContrast: 1
+    - '#F6F792'
+    - '#333745'
+    - '#77C4D3'
+    - '#DAEDE2'
+    - '#EA2E49'
+  brandStrength: 0.6305408640764654
+  lightness: 0.6788501695264131
+  saturation: 0.8077160366810858
+  rhythmicContrast: 0.17535254266113043
 purpose:
   - name: sales
     item: 98c08669-5ed5-4e19-849a-4ba4dd308798
