@@ -4,26 +4,25 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=OXA4-5x31V0'
 inLanguage: null
-starred: true
 keywords: []
-description: 'Content is power. Power your content on The Grid. '
-datePublished: '2016-03-31T04:03:09.556Z'
-dateModified: '2016-03-31T04:03:05.658Z'
+description: Content is power. Power your content on The Grid.
+datePublished: '2016-07-06T19:06:17.745Z'
+dateModified: '2016-07-06T19:06:17.242Z'
 author:
   - name: The Grid
     url: 'https://www.youtube.com/user/TheGridio'
     avatar: {}
 related: []
 app_links: []
-title: 'The Grid | AI Websites That Design Themselves'
+title: The Grid | AI Websites That Design Themselves
 sourcePath: _posts/2016-03-16-the-grid-or-ai-websites-that-design-themselves.md
-published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
