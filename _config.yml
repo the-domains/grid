@@ -33,7 +33,7 @@ color:
   brandStrength: 0.6305408640764654
   lightness: 0.6788501695264131
   saturation: 0.8077160366810858
-  rhythmicContrast: 1
+  rhythmicContrast: 0.25
 purpose:
   - name: sales
     item: 98c08669-5ed5-4e19-849a-4ba4dd308798
