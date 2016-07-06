@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-06T19:15:04.931Z'
+datePublished: '2016-07-06T19:17:43.539Z'
 sourcePath: _posts/2016-03-30-the-founding-membership-offer-is-sold-out.md
 inFeed: true
 isBasedOnUrl: >-
@@ -11,7 +11,7 @@ author:
   - name: ''
     url: >-
       http://thegrid.us6.list-manage.com/subscribe?u=e3e55c4321c915d4d6fb9f8f0&id=a1b15cc499
-dateModified: '2016-07-06T19:14:57.380Z'
+dateModified: '2016-07-06T19:17:39.222Z'
 title: The Founding Membership offer is sold out!
 publisher: null
 description: >-
