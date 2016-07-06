@@ -30,9 +30,9 @@ color:
     - '#fefefe'
     - '#0c7da7'
     - '#0b3f87'
-  brandStrength: 0.6305408640764654
+  brandStrength: 0.625
   lightness: 0.5
-  saturation: 0
+  saturation: 0.8125
   rhythmicContrast: 0.25
 purpose:
   - name: sales
