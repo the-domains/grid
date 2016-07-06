@@ -32,7 +32,7 @@ color:
     - '#0b3f87'
   brandStrength: 0.6305408640764654
   lightness: 0.5
-  saturation: 0.8077160366810858
+  saturation: 0.1875
   rhythmicContrast: 0.25
 purpose:
   - name: sales
