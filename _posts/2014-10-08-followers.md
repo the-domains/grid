@@ -1,29 +1,25 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: ''
-inLanguage: null
-keywords: []
-description: >-
-  But it doesn't end there. The Grid can track changes on any website, allowing
-  you to follow the entire Internet.
-datePublished: '2016-08-30T05:34:58.455Z'
-dateModified: '2016-08-30T05:34:47.062Z'
+datePublished: '2016-08-30T05:35:17.229Z'
 sourcePath: _posts/2014-10-08-followers.md
+inFeed: true
+isBasedOnUrl: ''
+authors: []
+hasPage: false
+keywords: []
 author:
   - name: ''
     url: ''
 via: {}
+dateModified: '2016-08-30T05:35:16.707Z'
 title: 'Website, Meet Your Followers'
 tags:
   - ''
-authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
+description: >-
+  But it doesn't end there. The Grid can track changes on any website, allowing
+  you to follow the entire Internet.
+inLanguage: null
+inNav: false
 starred: false
 _context: 'http://schema.org'
 _type: Blurb
