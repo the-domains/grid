@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T05:45:29.684Z'
+datePublished: '2016-08-30T05:45:30.927Z'
 sourcePath: _posts/2016-03-31-this-is-not-another-do-it-yourself-website-builder.md
 inFeed: true
 authors: []
@@ -8,7 +8,7 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-30T05:45:29.230Z'
+dateModified: '2016-08-30T05:45:30.578Z'
 title: Hello World.
 publisher: {}
 description: >-
@@ -22,7 +22,7 @@ description: >-
 inLanguage: null
 inNav: false
 via: {}
-starred: false
+starred: true
 url: hello-world/index.html
 _type: Article
 
