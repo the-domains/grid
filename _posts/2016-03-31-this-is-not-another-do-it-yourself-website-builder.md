@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-06T20:28:24.123Z'
+datePublished: '2016-08-30T05:45:29.684Z'
 sourcePath: _posts/2016-03-31-this-is-not-another-do-it-yourself-website-builder.md
 inFeed: true
 authors: []
@@ -8,9 +8,9 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-06T20:28:23.657Z'
+dateModified: '2016-08-30T05:45:29.230Z'
 title: Hello World.
-publisher: null
+publisher: {}
 description: >-
   The Grid harnesses the power of artificial intelligence to take everything you
   throw at it - videos, images, text, urls and more - and automatically shape
@@ -21,7 +21,8 @@ description: >-
   yours.
 inLanguage: null
 inNav: false
-starred: true
+via: {}
+starred: false
 url: hello-world/index.html
 _type: Article
 
