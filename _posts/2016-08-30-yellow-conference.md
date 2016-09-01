@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T02:01:55.581Z'
+datePublished: '2016-08-30T02:24:43.055Z'
 sourcePath: _posts/2016-08-30-yellow-conference.md
 isBasedOnUrl: 'http://yellow.community/'
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-30T02:01:55.170Z'
+dateModified: '2016-08-30T02:24:42.601Z'
 title: >-
   Yellow Co. exists to gather and equip creative women to use their passion,
   strengths, and influence to serve the greater good.
