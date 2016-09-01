@@ -1,18 +1,7 @@
+name: Grid
+favicon: 'https://passport.thegrid.io/favicon.ico'
 layout_spectrum: 0.835347325541079
 typography_spectrum: 0.38405128568410873
-color:
-  brandColors:
-    - '#0ECCD8'
-    - '#142C4D'
-    - '#FFFFFF'
-    - '#FF667F'
-    - '#9D8EA2'
-  brandStrength: 0.6235902858898044
-  lightness: 0.26987025258131325
-  saturation: 0.8725575250573456
-  rhythmicContrast: 0.030576986027881503
-name: The Grid
-favicon: 'https://passport.thegrid.io/favicon.ico'
 title: Join the Evolution
 navigation:
   - url: 'https://blog.thegrid.io/'
@@ -36,4 +25,15 @@ opengraph:
   image: 'http://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/purus-fb.png'
   type: website
   appId: '1517733501804443'
+color:
+  brandColors:
+    - '#0ECCD8'
+    - '#142C4D'
+    - '#FFFFFF'
+    - '#FF667F'
+    - '#9D8EA2'
+  brandStrength: 0
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
