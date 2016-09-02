@@ -1,42 +1,39 @@
-typography_spectrum: 0.38405128568410873
-color:
-  brandColors:
-    - '#072641'
-    - '#001a33'
-    - '#00223c'
-    - '#001c47'
-    - '#00002b'
-  brandStrength: 0
-  lightness: 0.9375
-  saturation: 1
-  rhythmicContrast: 0.5
-opengraph:
-  image: 'http://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/purus-fb.png'
-  type: website
-  appId: '1517733501804443'
-layout_spectrum: 1
-analytics:
-  google: UA-50607580-1
-  facebook: '295556487279234'
-  twitter: l4y05
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f7c6d81-df83-4c0d-bd3e-9d7bbb3e19d9.png
 name: Grid
+favicon: 'https://passport.thegrid.io/favicon.ico'
+layout_spectrum: 1
+typography_spectrum: 0.38405128568410873
+title: Join the Evolution
+navigation:
+  - url: 'https://blog.thegrid.io/'
+    name: Blog
+    type: external
+  - url: 'https://support.thegrid.io/'
+    name: Support
+    type: external
+  - url: 'http://status.thegrid.io/'
+    name: Status
+    type: external
 cta:
   domain: //s3-us-west-2.amazonaws.com
   bucket: /cdn.thegrid.io
   version: 0.2.8
-navigation:
-  - name: Blog
-    url: 'https://blog.thegrid.io/'
-    type: external
-  - name: Support
-    url: 'https://support.thegrid.io/'
-    type: external
-  - name: Status
-    url: 'http://status.thegrid.io/'
-    type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/86627753-a8a0-4898-b985-6162d801ab99.png
-title: Join the Evolution
+analytics:
+  google: UA-50607580-1
+  facebook: '295556487279234'
+  twitter: l4y05
+opengraph:
+  image: 'http://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/purus-fb.png'
+  type: website
+  appId: '1517733501804443'
+color:
+  brandColors:
+    - '#3bd1dd'
+    - '#f99d98'
+    - '#fefefe'
+    - '#0c7da7'
+    - '#0b3f87'
+  brandStrength: 0
+  lightness: 0.9375
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
