@@ -4,7 +4,7 @@
         <description><![CDATA[Join the Evolution]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 05:53:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 18:59:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello World.]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/grid/hello-world/index.html</link>
             <guid isPermaLink="false">cf375e15-9fc0-4cb1-b4b5-4c6f07c9eac6</guid>
             <pubDate>Tue, 30 Aug 2016 05:53:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>@thegrid absolutely loving the new designs being created by the AI engine behind version 2!</p>]]></description>
+            <link>https://twitter.com/SKapoor85/status/769544944516161536</link>
+            <guid isPermaLink="false">897ece60-762e-41c0-ba7f-3037f1b2b805</guid>
+            <pubDate>Tue, 30 Aug 2016 18:59:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Seth's passion for the visual story has led him to creating both still images and video for a variety of clients across the country. Be it a campaign for a fortune 50 company, a new startup, or local non profit, Seth invests himself completely in the project at hand.]]></title>
