@@ -4,7 +4,7 @@
         <description><![CDATA[Join the Evolution]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 19:40:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 19:40:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello World.]]></title>
@@ -12,6 +12,20 @@
             <link>https://thegrid.ai/grid/hello-world/index.html</link>
             <guid isPermaLink="false">cf375e15-9fc0-4cb1-b4b5-4c6f07c9eac6</guid>
             <pubDate>Tue, 30 Aug 2016 05:53:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>got the @thegrid beta today. #holyshit this is incredible!</p>]]></description>
+            <link>https://twitter.com/ivebengreat/status/702716932202602496</link>
+            <guid isPermaLink="false">3c36189e-e7b0-4d5d-abb6-d799c28ea45b</guid>
+            <pubDate>Tue, 30 Aug 2016 19:40:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This is what The Grid's 'AI' website builder looks like]]></title>
+            <description><![CDATA[<article><h1>This is what The Grid's 'AI' website builder looks like</h1><p>You might have heard about The Grid - it's been endlessly running banner advertising on every tech website out there for the last few months. What you might not know is what it actually is. On first look at its landing page, I thought it wasn't real.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d4a2ccf0b30dbca782187d92efd4ed7a/noop.jpg?input=http%3A%2F%2Fcdn1.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2015%2F07%2Fkeychain.jpg"></article>]]></description>
+            <link>http://thenextweb.com/dd/2015/07/31/this-is-what-the-grids-ai-website-builder-looks-like/</link>
+            <guid isPermaLink="false">6702e5cb-5f4e-4227-a458-36558a3abf2a</guid>
+            <pubDate>Tue, 30 Aug 2016 19:40:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is The Grid a better web designer than you?]]></title>
@@ -61,20 +75,6 @@
             <link>https://www.youtube.com/watch?v=OXA4-5x31V0</link>
             <guid isPermaLink="false">b7c3af44-4064-4264-93d7-1f33935e88a6</guid>
             <pubDate>Wed, 06 Jul 2016 19:06:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>@thegrid guys you are creating something awesome, the new version is faster and i can now see what i am doing! Xxx</p>]]></description>
-            <link>https://twitter.com/hazelCcopcutt/status/743462941782052864</link>
-            <guid isPermaLink="false">734fca59-f753-44a1-974f-6d3e826b6f28</guid>
-            <pubDate>Wed, 06 Jul 2016 18:57:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>https://thegrid.io - "AI" website design. Conceptually feels very next level, an obvious, natural progression just waiting to happen.</p>]]></description>
-            <link>https://twitter.com/jasonfried/status/522492212144525312</link>
-            <guid isPermaLink="false">fef954a0-725c-4d4e-99ec-4f18b4e07b6a</guid>
-            <pubDate>Sat, 26 Mar 2016 17:47:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
