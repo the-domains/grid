@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T19:05:20.542Z'
+datePublished: '2016-08-30T19:10:30.991Z'
 sourcePath: _posts/2016-08-30-yellow-conference.md
 isBasedOnUrl: 'http://yellow.community/'
 keywords:
@@ -16,8 +16,8 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-30T19:05:19.459Z'
-title: Built on The Grid
+dateModified: '2016-08-30T19:10:30.469Z'
+title: Built on The Grid Yellow Conference
 app_links: []
 publisher:
   url: 'http://yellow.community'
@@ -37,7 +37,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Built on The Grid
+# Built on The Grid Yellow Conference
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6630496bb37803c758343e037920644484dc550.jpg)
 
 Yellow Co. exists to gather and equip creative women to use their passion, strengths, and influence to serve the greater good.
