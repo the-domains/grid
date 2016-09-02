@@ -4,7 +4,7 @@
         <description><![CDATA[Join the Evolution]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 19:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 19:40:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello World.]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/grid/hello-world/index.html</link>
             <guid isPermaLink="false">cf375e15-9fc0-4cb1-b4b5-4c6f07c9eac6</guid>
             <pubDate>Tue, 30 Aug 2016 05:53:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is The Grid a better web designer than you?]]></title>
+            <description><![CDATA[<article><h1>Is The Grid a better web designer than you?</h1><p>Unless you've developed the enviable skill of ignoring adverts on Twitter, you can't have failed to notice The Grid, a new service promising "AI websites that design themselves." The Grid "is not another do-it-yourself website builder," the difference according their site, is that The Grid boasts an advanced AI (artificial intelligence) that can build custom solutions for its clients in mere seconds.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3d62b6ff8dc1f7f9b1010c076dfa33a5/noop.jpg?input=http%3A%2F%2Fnetdna.webdesignerdepot.com%2Fuploads%2F2014%2F12%2Ffeatured1.jpg"></article>]]></description>
+            <link>http://www.webdesignerdepot.com/2014/12/is-the-grid-a-better-web-designer-than-you/</link>
+            <guid isPermaLink="false">980dcd2b-49a5-4fb8-8c93-e910c74ebc9d</guid>
+            <pubDate>Tue, 30 Aug 2016 19:40:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/jasonfried/status/522492212144525312</link>
             <guid isPermaLink="false">fef954a0-725c-4d4e-99ec-4f18b4e07b6a</guid>
             <pubDate>Sat, 26 Mar 2016 17:47:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Site As Colorful As You]]></title>
-            <description><![CDATA[<article><h1>A Site As Colorful As You</h1><p>Our algorithms expertly analyze your media and apply color palettes that keep your messaging consistent and unique. The Grid also detects color contrasts, automatically adjusting typography color to maximize legibility.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d34fd964c6c62d800e9d6204cc437985070a191.png"></article>]]></description>
-            <link>https://thegrid.ai/grid/a-site-as-colorful-as-you/index.html</link>
-            <guid isPermaLink="false">b823ce95-88f8-4ac7-9df2-d061610a75d2</guid>
-            <pubDate>Sat, 26 Mar 2016 17:24:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
