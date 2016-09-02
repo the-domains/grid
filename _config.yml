@@ -28,14 +28,14 @@ cta:
   version: 0.2.8
 navigation:
   - name: Blog
-    type: external
     url: 'https://blog.thegrid.io/'
+    type: external
   - name: Support
-    type: external
     url: 'https://support.thegrid.io/'
-  - name: Status
     type: external
+  - name: Status
     url: 'http://status.thegrid.io/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/86627753-a8a0-4898-b985-6162d801ab99.png
 title: Join the Evolution
