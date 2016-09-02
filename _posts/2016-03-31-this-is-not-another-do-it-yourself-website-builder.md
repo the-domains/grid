@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T00:19:24.325Z'
+datePublished: '2016-08-31T00:46:09.978Z'
 sourcePath: _posts/2016-03-31-this-is-not-another-do-it-yourself-website-builder.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-31T00:19:23.844Z'
+dateModified: '2016-08-31T00:46:09.385Z'
 title: 'Finally, A Website That Designs Itself For You (DIFY)'
 publisher: {}
 description: >-
@@ -22,7 +22,7 @@ description: >-
   yours.
 inLanguage: null
 inNav: false
-starred: false
+starred: true
 url: hello-world/index.html
 _type: Article
 
