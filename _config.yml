@@ -1,30 +1,4 @@
-name: Grid
-favicon: 'https://passport.thegrid.io/favicon.ico'
-layout_spectrum: 1
 typography_spectrum: 0.38405128568410873
-title: Join the Evolution
-navigation:
-  - url: 'https://blog.thegrid.io/'
-    name: Blog
-    type: external
-  - url: 'https://support.thegrid.io/'
-    name: Support
-    type: external
-  - url: 'http://status.thegrid.io/'
-    name: Status
-    type: external
-cta:
-  domain: //s3-us-west-2.amazonaws.com
-  bucket: /cdn.thegrid.io
-  version: 0.2.8
-analytics:
-  google: UA-50607580-1
-  facebook: '295556487279234'
-  twitter: l4y05
-opengraph:
-  image: 'http://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/purus-fb.png'
-  type: website
-  appId: '1517733501804443'
 color:
   brandColors:
     - '#151d28'
@@ -36,4 +10,33 @@ color:
   lightness: 0.9375
   saturation: 1
   rhythmicContrast: 0.5
+opengraph:
+  image: 'http://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/purus-fb.png'
+  type: website
+  appId: '1517733501804443'
+layout_spectrum: 1
+analytics:
+  google: UA-50607580-1
+  facebook: '295556487279234'
+  twitter: l4y05
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/77b42e4e-b4c5-4724-acad-63c48510ace4.png
+name: Grid
+cta:
+  domain: //s3-us-west-2.amazonaws.com
+  bucket: /cdn.thegrid.io
+  version: 0.2.8
+navigation:
+  - name: Blog
+    type: external
+    url: 'https://blog.thegrid.io/'
+  - name: Support
+    type: external
+    url: 'https://support.thegrid.io/'
+  - name: Status
+    type: external
+    url: 'http://status.thegrid.io/'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f66afad-cf78-483b-a74c-1098b5e54410.png
+title: Join the Evolution
 purpose: []
