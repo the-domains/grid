@@ -4,7 +4,7 @@
         <description><![CDATA[Join the Evolution]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 19:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 19:18:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello World.]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/grid/hello-world/index.html</link>
             <guid isPermaLink="false">cf375e15-9fc0-4cb1-b4b5-4c6f07c9eac6</guid>
             <pubDate>Tue, 30 Aug 2016 05:53:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>@thegrid team is full of geniuses! They are creating a live re-cap website of #Circles2015! </p>]]></description>
+            <link>https://twitter.com/CirclesConf/status/642087249325092865</link>
+            <guid isPermaLink="false">db07667a-9bb2-44da-bc48-f9eede9bfedc</guid>
+            <pubDate>Tue, 30 Aug 2016 19:18:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Built on The Grid Fifty-Two Photos]]></title>
