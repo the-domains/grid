@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T00:16:18.573Z'
+datePublished: '2016-08-31T00:18:01.541Z'
 isBasedOnUrl: 'https://www.youtube.com/watch?v=aEfpARsP8Fg&feature=youtu.be'
 keywords: []
 related: []
@@ -8,7 +8,7 @@ author:
     url: 'https://www.youtube.com/user/TheGridio'
     avatar: {}
 via: {}
-dateModified: '2016-08-31T00:16:13.906Z'
+dateModified: '2016-08-31T00:18:00.672Z'
 title: Join The Evolution
 app_links: []
 publisher:
@@ -17,8 +17,8 @@ publisher:
   favicon: 'https://www.youtube.com/favicon.ico'
   domain: www.youtube.com
 description: ''
-starred: false
 sourcePath: _posts/2016-08-31-join-the-evolution.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
