@@ -4,7 +4,7 @@
         <description><![CDATA[Join the Evolution]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 00:52:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 00:52:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Built on The Grid Fifty-Two Photos]]></title>
@@ -12,6 +12,13 @@
             <link>http://fiftytwo.photos/</link>
             <guid isPermaLink="false">ec96bf49-b228-4f2a-93ed-7ace5914c976</guid>
             <pubDate>Wed, 31 Aug 2016 00:49:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Join The Evolution]]></title>
+            <description><![CDATA[<article><h1>Join The Evolution</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/fa96c9c3edb7668ccaa0549dc5c50352/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FaEfpARsP8Fg%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=aEfpARsP8Fg&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">957e5e39-7a94-4e9e-b2d8-58e7ac4bf1b5</guid>
+            <pubDate>Wed, 31 Aug 2016 00:52:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finally, A Website That Designs Itself For You (DIFY)]]></title>
