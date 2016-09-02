@@ -4,7 +4,7 @@
         <description><![CDATA[Join the Evolution]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 19:53:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 20:00:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Finally, A Website That Designs Itself For You (DIFY)]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/grid/hello-world/index.html</link>
             <guid isPermaLink="false">cf375e15-9fc0-4cb1-b4b5-4c6f07c9eac6</guid>
             <pubDate>Tue, 30 Aug 2016 19:52:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[There is no grid* - chriswharton.me]]></title>
+            <description><![CDATA[<article><h1>There is no grid* - chriswharton.me</h1><p>There has been a healthy discussion based on this post, please read the edit I added summarising these discussions at the end of the post. I don't use a pre-defined grid. I never have. I don't design to a grid in Photoshop. I don't code to a grid and I don't use a grid based framework.</p></article>]]></description>
+            <link>https://chriswharton.me/2016/06/there-is-no-grid/?utm_source=designernews</link>
+            <guid isPermaLink="false">ef0e6728-05b2-4eb5-a551-2815ce2ad1d2</guid>
+            <pubDate>Tue, 30 Aug 2016 20:00:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/grid/build-and-manage-your-websites-from-your-phone-or-desktop/index.html</link>
             <guid isPermaLink="false">7f6be21b-a60e-45d2-be54-5b9e5a6a9be4</guid>
             <pubDate>Sat, 23 Jul 2016 14:47:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid | AI Websites That Design Themselves]]></title>
-            <description><![CDATA[<article><h1>The Grid | AI Websites That Design Themselves</h1><p>Content is power. Power your content on The Grid.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d045756c3522a64a9cb69b66e8c9622b/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FOXA4-5x31V0%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=OXA4-5x31V0</link>
-            <guid isPermaLink="false">b7c3af44-4064-4264-93d7-1f33935e88a6</guid>
-            <pubDate>Wed, 06 Jul 2016 19:06:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
