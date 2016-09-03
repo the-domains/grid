@@ -1,31 +1,10 @@
-layout_spectrum: 0.15443988773040473
+name: The Grid
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/31a78343-dca7-494c-8e82-2a2b582bffc0.png
+layout_spectrum: 1
 typography_spectrum: 0.5011249287053943
-color:
-  brandColors:
-    - '#FFFFFF'
-    - '#171718'
-    - '#21303D'
-    - '#D0B283'
-    - '#515151'
-  brandStrength: 0.21280475216917694
-  lightness: 0.8937313451897353
-  saturation: 0.8758320389315486
-  rhythmicContrast: 0.352135751163587
-opengraph:
-  image: 'http://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/purus-fb.png'
-  type: website
-  appId: '1517733501804443'
-analytics:
-  google: UA-50607580-1
-  facebook: '295556487279234'
-  twitter: l4y05
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0676b3a3-d769-4818-83fd-a78b993fccbf.png
-name: Grid
-cta:
-  domain: //s3-us-west-2.amazonaws.com
-  bucket: /cdn.thegrid.io
-  version: 0.2.8
 navigation:
   - name: Blog
     url: 'https://blog.thegrid.io/'
@@ -36,7 +15,28 @@ navigation:
   - name: Status
     url: 'http://status.thegrid.io/'
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/31a78343-dca7-494c-8e82-2a2b582bffc0.png
 title: Join the Evolution
+cta:
+  domain: //s3-us-west-2.amazonaws.com
+  bucket: /cdn.thegrid.io
+  version: 0.2.8
+analytics:
+  google: UA-50607580-1
+  facebook: '295556487279234'
+  twitter: l4y05
+opengraph:
+  image: 'http://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/purus-fb.png'
+  type: website
+  appId: '1517733501804443'
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#171718'
+    - '#21303D'
+    - '#D0B283'
+    - '#515151'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
