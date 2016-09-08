@@ -51,14 +51,14 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/TommyJohans1/status/773419276455800832'
-datePublished: '2016-09-08T23:34:24.516Z'
-dateModified: '2016-09-08T23:34:17.790Z'
+datePublished: '2016-09-08T23:36:22.347Z'
+dateModified: '2016-09-08T23:36:21.952Z'
 title: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2016-09-08-thegrid-offers-the-solution-i-been-looking-for-in-a-evercha.md
+starred: false
 _type: Comment
 _context: 'http://schema.org'
 
