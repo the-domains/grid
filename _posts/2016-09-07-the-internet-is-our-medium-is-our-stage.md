@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-08T23:38:37.636Z'
+datePublished: '2016-09-08T23:38:54.370Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-08T23:38:37.147Z'
+dateModified: '2016-09-08T23:38:53.838Z'
 title: The Internet is our medium is our stage
 publisher: {}
 description: >-
