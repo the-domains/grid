@@ -44,7 +44,7 @@ description: AI websites that design themselves
 purpose:
   - type: external
     url: 'https://www.youtube.com/watch?v=aEfpARsP8Fg'
-    label: play video
+    label: Watch Video
   - type: external
     url: 'https://plans.thegrid.io/pro/'
     label: Get on The Grid
