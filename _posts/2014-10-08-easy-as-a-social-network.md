@@ -1,30 +1,27 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: false
 keywords: []
 description: >
   Never again change your content to fit a cookie-cutter social network or
   today's hot website template. Just throw in videos, images, text, products and
-  more and magically get a website that looks like it was pored over by
-  a million-dollar design team. Once and for all, content is king.
-datePublished: '2016-03-26T17:23:47.338Z'
-dateModified: '2016-03-26T16:03:52.160Z'
+  more and magically get a website that looks like it was pored over by a
+  million-dollar design team. Once and for all, content is king.
+datePublished: '2016-09-08T22:58:26.442Z'
+dateModified: '2016-09-08T22:58:25.966Z'
 title: As Easy As A Social Network
-author: []
-published: true
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2014-10-08-easy-as-a-social-network.md
 tags:
   - ''
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: false
 _type: Blurb
 _context: 'http://schema.org'
 
