@@ -51,15 +51,14 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/hazelCcopcutt/status/743462941782052864'
-datePublished: '2016-07-06T18:57:51.094Z'
-dateModified: '2016-07-06T18:57:29.562Z'
+datePublished: '2016-09-08T23:35:36.770Z'
+dateModified: '2016-09-08T23:35:36.418Z'
 title: ''
-starred: false
 sourcePath: >-
   _posts/2016-07-06-thegrid-guys-you-are-creating-something-awesome-the-new-ve.md
+via: {}
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: Comment
 _context: 'http://schema.org'
 
