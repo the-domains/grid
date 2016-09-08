@@ -4,9 +4,9 @@
         <description><![CDATA[Join the Evolution]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 08 Sep 2016 23:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2016 23:38:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 Sep 2016 23:38:40 GMT</pubDate>
+        <pubDate>Thu, 08 Sep 2016 23:38:41 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Checkout Molly, the AI robot from @thegrid, who is live-building our community website! Mind. Freakin' Blown. https://t.co/YaXwoNUjcU</p>]]></description>
@@ -64,18 +64,18 @@
             <pubDate>Thu, 08 Sep 2016 23:12:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Circles Conference]]></title>
-            <description><![CDATA[<article><h1>Circles Conference</h1><h2>on the grid</h2><p>Crafted experiences for creatives, makers, and adventurers.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f4e81fc-6cae-45c3-9bc5-9fb84dcacbb2.png"></article>]]></description>
-            <link>http://circles.community/</link>
-            <guid isPermaLink="false">c9d4fe99-d6fa-48a6-a6be-fcb1242f9e7e</guid>
-            <pubDate>Thu, 08 Sep 2016 23:38:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>TheGrid offers the solution i been looking for, in a everchanging Web enviorment! @d4tocchini @thegrid https://t.co/VUtjoRI9y4 #travel</p>]]></description>
             <link>https://twitter.com/TommyJohans1/status/773419276455800832</link>
             <guid isPermaLink="false">7d361750-2914-4c52-9656-4efa22c63507</guid>
             <pubDate>Thu, 08 Sep 2016 23:36:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Circles Conference]]></title>
+            <description><![CDATA[<article><h1>Circles Conference</h1><h2>on the grid</h2><p>Crafted experiences for creatives, makers, and adventurers.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f4e81fc-6cae-45c3-9bc5-9fb84dcacbb2.png"></article>]]></description>
+            <link>http://circles.community/</link>
+            <guid isPermaLink="false">c9d4fe99-d6fa-48a6-a6be-fcb1242f9e7e</guid>
+            <pubDate>Thu, 08 Sep 2016 23:38:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
