@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-08T23:36:39.515Z'
+datePublished: '2016-09-08T23:36:52.202Z'
 sourcePath: _posts/2016-09-08-thegrid-now-off-beta-working-in-a-live-environment-loving.md
 inFeed: true
 isBasedOnUrl: 'https://twitter.com/JonAdaskin/status/773965852190269440'
@@ -23,7 +23,7 @@ author:
       width: 73
       height: 73
 via: {}
-dateModified: '2016-09-08T23:36:38.721Z'
+dateModified: '2016-09-08T23:36:51.838Z'
 title: ''
 app_links:
   - path: >-
