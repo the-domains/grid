@@ -48,8 +48,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/CirclesConf/status/642087249325092865'
-datePublished: '2016-09-08T23:35:36.776Z'
-dateModified: '2016-09-08T23:35:36.418Z'
+datePublished: '2016-09-08T23:35:42.955Z'
+dateModified: '2016-09-08T23:35:42.202Z'
 title: ''
 sourcePath: _posts/2016-03-26-thegrid-team-is-full-of-geniuses-they-are-creating-a-live.md
 via: {}
