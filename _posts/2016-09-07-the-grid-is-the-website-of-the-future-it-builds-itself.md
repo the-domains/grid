@@ -28,12 +28,12 @@ app_links: []
 isBasedOnUrl: >-
   https://www.fastcompany.com/3037187/the-grid-is-building-the-website-of-the-future-it-designs-itself
 title: 'The Grid Is The Website Of The Future: It Builds Itself'
-datePublished: '2016-09-08T23:04:35.390Z'
-dateModified: '2016-09-08T23:04:35.041Z'
+datePublished: '2016-09-08T23:35:42.951Z'
+dateModified: '2016-09-08T23:35:42.202Z'
 via: {}
 sourcePath: _posts/2016-09-07-the-grid-is-the-website-of-the-future-it-builds-itself.md
-starred: false
 inFeed: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
