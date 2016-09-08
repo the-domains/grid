@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-08T22:51:44.435Z'
+datePublished: '2016-09-08T22:52:37.876Z'
 inFeed: true
 isBasedOnUrl: 'https://twitter.com/narrowd/status/770989882592399360'
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-09-08T22:51:28.460Z'
+dateModified: '2016-09-08T22:52:37.522Z'
 title: ''
 app_links:
   - path: >-
@@ -29,8 +29,8 @@ description: >-
   Almost 2 years on @thegrid. Most interesting, challenging work of my life.
   Reluctantly sharing more. Much to do https://t.co/w6Lra8Sidr
 inLanguage: en
-starred: false
 sourcePath: _posts/2016-09-08-almost-2-years-on-thegrid-most-interesting-challenging-wo.md
+starred: false
 _context: 'http://schema.org'
 _type: Comment
 
