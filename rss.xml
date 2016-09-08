@@ -4,9 +4,9 @@
         <description><![CDATA[Join the Evolution]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 08 Sep 2016 23:39:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2016 23:40:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 Sep 2016 23:39:00 GMT</pubDate>
+        <pubDate>Thu, 08 Sep 2016 23:40:31 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Checkout Molly, the AI robot from @thegrid, who is live-building our community website! Mind. Freakin' Blown. https://t.co/YaXwoNUjcU</p>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Thu, 08 Sep 2016 23:12:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Bean a founder member of @thegrid for ages! Only powered it up today. 1 hour in, I'm having a blast, loving what it's coming up with. 😀</p>]]></description>
+            <link>https://twitter.com/Tidiain/status/774028774115463168</link>
+            <guid isPermaLink="false">e062d169-e19f-4ba0-b95d-54adf41461c5</guid>
+            <pubDate>Thu, 08 Sep 2016 23:40:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Internet is our medium is our stage]]></title>
             <description><![CDATA[<article><h1>The Internet is our medium is our stage</h1><p>The Internet is our medium is our stage. Nothing is that doesn’t act, it is the website that describes a scratch but not the itch.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d01fa7f-7bd7-4048-b77c-f079467c4309.png"></article>]]></description>
             <link>https://thegrid.ai/grid/the-internet-is-our-medium-is-our-stage/index.html</link>
@@ -69,13 +76,6 @@
             <link>http://circles.community/</link>
             <guid isPermaLink="false">c9d4fe99-d6fa-48a6-a6be-fcb1242f9e7e</guid>
             <pubDate>Thu, 08 Sep 2016 23:38:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 2015 Innovation By Design Awards Winners: Web Design]]></title>
-            <description><![CDATA[<article><h1>The 2015 Innovation By Design Awards Winners: Web Design</h1><p>There's nothing the web can't do. This year's finalist and winner in the web category of the Innovation By Design Awards represent a range of novel design solutions, from busting internet rumors before they go viral (Emergent) to reimagining office-communication without email (Slack) to using AI to help design page layouts (The Grid).</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f2ab1df-12d9-4444-9f2e-0863028523cc.png"></article>]]></description>
-            <link>https://www.fastcodesign.com/3049915/innovation-by-design/the-2015-innovation-by-design-awards-winners-web-design</link>
-            <guid isPermaLink="false">844b3879-abb8-4eac-9ff6-cac25d2654a7</guid>
-            <pubDate>Thu, 08 Sep 2016 23:38:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
