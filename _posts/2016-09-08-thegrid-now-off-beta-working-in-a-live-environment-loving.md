@@ -34,8 +34,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/JonAdaskin/status/773965852190269440'
-datePublished: '2016-09-08T23:35:36.785Z'
-dateModified: '2016-09-08T23:35:36.418Z'
+datePublished: '2016-09-08T23:35:42.958Z'
+dateModified: '2016-09-08T23:35:42.202Z'
 title: ''
 via: {}
 inFeed: true
