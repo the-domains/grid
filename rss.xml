@@ -4,9 +4,9 @@
         <description><![CDATA[Join the Evolution]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 08 Sep 2016 23:35:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2016 23:35:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 Sep 2016 23:35:19 GMT</pubDate>
+        <pubDate>Thu, 08 Sep 2016 23:35:28 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Checkout Molly, the AI robot from @thegrid, who is live-building our community website! Mind. Freakin' Blown. https://t.co/YaXwoNUjcU</p>]]></description>
@@ -20,13 +20,6 @@
             <link>https://twitter.com/JonAdaskin/status/712341335253000192</link>
             <guid isPermaLink="false">6eb542e5-3376-4c6f-9819-1f2c48c35d41</guid>
             <pubDate>Thu, 08 Sep 2016 23:35:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>@thegrid now off beta, working in a live environment! LOVING it! Site is coming along! https://t.co/ppPNXboA0m #part_of_something_big</p>]]></description>
-            <link>https://twitter.com/JonAdaskin/status/773965852190269440</link>
-            <guid isPermaLink="false">ae87048d-da64-4e6f-a46d-6d61f19fee80</guid>
-            <pubDate>Thu, 08 Sep 2016 23:34:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -76,6 +69,13 @@
             <link>http://fiftytwo.photos/</link>
             <guid isPermaLink="false">ec96bf49-b228-4f2a-93ed-7ace5914c976</guid>
             <pubDate>Thu, 08 Sep 2016 23:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>@thegrid now off beta, working in a live environment! LOVING it! Site is coming along! https://t.co/ppPNXboA0m #part_of_something_big</p>]]></description>
+            <link>https://twitter.com/JonAdaskin/status/773965852190269440</link>
+            <guid isPermaLink="false">ae87048d-da64-4e6f-a46d-6d61f19fee80</guid>
+            <pubDate>Thu, 08 Sep 2016 23:35:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
