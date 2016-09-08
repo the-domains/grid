@@ -49,13 +49,13 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/Tidiain/status/774028774115463168'
-datePublished: '2016-09-08T23:40:31.022Z'
-dateModified: '2016-09-08T23:40:26.552Z'
+datePublished: '2016-09-08T23:41:08.834Z'
+dateModified: '2016-09-08T23:41:08.452Z'
 title: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-09-08-bean-a-founder-member-of-thegrid-for-ages-only-powered-it.md
+starred: false
 _type: Comment
 _context: 'http://schema.org'
 
