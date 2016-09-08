@@ -51,8 +51,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/jasonfried/status/522492212144525312'
-datePublished: '2016-09-08T23:04:35.390Z'
-dateModified: '2016-09-08T23:04:35.041Z'
+datePublished: '2016-09-08T23:36:06.004Z'
+dateModified: '2016-09-08T23:36:05.536Z'
 title: ''
 sourcePath: _posts/2016-03-25-httpsthegridio-ai-website-design-conceptually-feels.md
 via: {}
