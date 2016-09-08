@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-08T22:58:09.276Z'
+datePublished: '2016-09-08T22:58:14.172Z'
 inFeed: true
 isBasedOnUrl: 'http://yellow.community/'
 author: []
 via: {}
-dateModified: '2016-09-08T22:58:08.876Z'
+dateModified: '2016-09-08T22:58:13.478Z'
 title: Yellow Conference
 id: cdc05dfa-27c3-485b-813a-7253da1bc404
 publisher:
