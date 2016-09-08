@@ -45,14 +45,12 @@ app_links: []
 isBasedOnUrl: >-
   http://thenextweb.com/dd/2015/07/31/this-is-what-the-grids-ai-website-builder-looks-like/
 title: This is what The Grid's 'AI' website builder looks like
-datePublished: '2016-08-30T19:40:45.245Z'
-dateModified: '2016-08-30T19:38:11.740Z'
+datePublished: '2016-09-08T23:06:00.319Z'
+dateModified: '2016-09-08T23:05:59.871Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-30-this-is-what-the-grids-ai-website-builder-looks-like.md
 inFeed: true
-hasPage: false
-inNav: false
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
