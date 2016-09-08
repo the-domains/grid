@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-09-08T23:27:28.992Z'
+datePublished: '2016-09-08T23:27:41.103Z'
+sourcePath: _posts/2016-09-08-circles-conference.md
 inFeed: true
+isBasedOnUrl: 'http://circles.community/'
 author: []
 via: {}
-dateModified: '2016-09-08T23:27:28.717Z'
+dateModified: '2016-09-08T23:27:40.551Z'
 title: Circles Conference
 publisher: {}
-description: 'Crafted experiences for creatives, makers, and adventurers. '
-isBasedOnUrl: 'http://circles.community/'
-sourcePath: _posts/2016-09-08-circles-conference.md
+description: 'Crafted experiences for creatives, makers, and adventurers.'
 starred: false
 _type: MediaObject
 
@@ -19,6 +19,6 @@ _type: MediaObject
 
 # [Circles Conference][0]
 
-Crafted experiences for creatives, makers, and adventurers. 
+Crafted experiences for creatives, makers, and adventurers.
 
 [0]: http://circles.community/ "Circles Conf Community"
