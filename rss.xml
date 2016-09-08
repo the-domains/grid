@@ -4,9 +4,9 @@
         <description><![CDATA[Join the Evolution]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 08 Sep 2016 23:04:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2016 23:04:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 Sep 2016 23:04:15 GMT</pubDate>
+        <pubDate>Thu, 08 Sep 2016 23:04:30 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Checkout Molly, the AI robot from @thegrid, who is live-building our community website! Mind. Freakin' Blown. https://t.co/YaXwoNUjcU</p>]]></description>
@@ -27,13 +27,6 @@
             <link>https://www.fastcompany.com/3037187/the-grid-is-building-the-website-of-the-future-it-designs-itself</link>
             <guid isPermaLink="false">23d09e53-c1a0-4089-aaee-99031538918b</guid>
             <pubDate>Wed, 07 Sep 2016 13:35:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>https://thegrid.io - "AI" website design. Conceptually feels very next level, an obvious, natural progression just waiting to happen.</p>]]></description>
-            <link>https://twitter.com/jasonfried/status/522492212144525312</link>
-            <guid isPermaLink="false">fef954a0-725c-4d4e-99ec-4f18b4e07b6a</guid>
-            <pubDate>Wed, 07 Sep 2016 13:35:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Yellow Conference]]></title>
@@ -76,6 +69,13 @@
             <link>https://thegrid.ai/grid/the-internet-is-our-medium-is-our-stage/index.html</link>
             <guid isPermaLink="false">d7d7b6fe-fd96-4110-985a-13697a27f30a</guid>
             <pubDate>Wed, 07 Sep 2016 16:32:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://thegrid.io - "AI" website design. Conceptually feels very next level, an obvious, natural progression just waiting to happen.</p>]]></description>
+            <link>https://twitter.com/jasonfried/status/522492212144525312</link>
+            <guid isPermaLink="false">fef954a0-725c-4d4e-99ec-4f18b4e07b6a</guid>
+            <pubDate>Thu, 08 Sep 2016 23:04:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
