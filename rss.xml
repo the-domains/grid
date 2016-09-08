@@ -4,9 +4,9 @@
         <description><![CDATA[Join the Evolution]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 08 Sep 2016 22:58:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2016 22:58:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 Sep 2016 22:58:06 GMT</pubDate>
+        <pubDate>Thu, 08 Sep 2016 22:58:09 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Checkout Molly, the AI robot from @thegrid, who is live-building our community website! Mind. Freakin' Blown. https://t.co/YaXwoNUjcU</p>]]></description>
@@ -57,6 +57,13 @@
             <pubDate>Wed, 07 Sep 2016 13:35:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Yellow Conference]]></title>
+            <description><![CDATA[<article><h1>Yellow Conference</h1><h2>Built on The Grid</h2><p>Yellow Co. exists to gather and equip creative women to use their passion, strengths, and influence to serve the greater good.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/740c6d6a-c367-4544-8c85-0140376d6c87.png"></article>]]></description>
+            <link>http://yellow.community/</link>
+            <guid isPermaLink="false">cdc05dfa-27c3-485b-813a-7253da1bc404</guid>
+            <pubDate>Thu, 08 Sep 2016 22:58:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>got the @thegrid beta today. #holyshit this is incredible!</p>]]></description>
             <link>https://twitter.com/ivebengreat/status/702716932202602496</link>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/grid/the-internet-is-our-medium-is-our-stage/index.html</link>
             <guid isPermaLink="false">d7d7b6fe-fd96-4110-985a-13697a27f30a</guid>
             <pubDate>Wed, 07 Sep 2016 16:32:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yellow Conference]]></title>
-            <description><![CDATA[<article><h1>Yellow Conference</h1><h2>Built on The Grid</h2><p>Yellow Co. exists to gather and equip creative women to use their passion, strengths, and influence to serve the greater good.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/740c6d6a-c367-4544-8c85-0140376d6c87.png"></article>]]></description>
-            <link>http://yellow.community/</link>
-            <guid isPermaLink="false">cdc05dfa-27c3-485b-813a-7253da1bc404</guid>
-            <pubDate>Thu, 08 Sep 2016 22:58:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
