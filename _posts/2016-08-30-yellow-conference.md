@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-08T22:57:41.064Z'
+datePublished: '2016-09-08T22:58:06.209Z'
 inFeed: true
 isBasedOnUrl: 'http://yellow.community/'
 author: []
 via: {}
-dateModified: '2016-09-08T22:57:40.270Z'
+dateModified: '2016-09-08T22:58:05.790Z'
 title: Yellow Conference
 id: cdc05dfa-27c3-485b-813a-7253da1bc404
 publisher:
@@ -16,8 +16,8 @@ publisher:
 description: >-
   Yellow Co. exists to gather and equip creative women to use their passion,
   strengths, and influence to serve the greater good.
-starred: false
 sourcePath: _posts/2016-08-30-yellow-conference.md
+starred: false
 _type: MediaObject
 
 ---
