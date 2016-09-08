@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-09-08T23:20:44.125Z'
+datePublished: '2016-09-08T23:20:51.387Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-08T23:20:40.770Z'
+dateModified: '2016-09-08T23:20:50.883Z'
 title: Circles Conference
 publisher: {}
 description: 'Crafted experiences for creatives, makers, and adventurers. '
 isBasedOnUrl: 'http://circles.community/'
-starred: false
 sourcePath: _posts/2016-09-08-circles-conference.md
+starred: false
 _type: MediaObject
 
 ---
