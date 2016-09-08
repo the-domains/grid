@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-08T23:38:56.621Z'
+datePublished: '2016-09-08T23:38:59.479Z'
 sourcePath: _posts/2016-09-07-the-2015-innovation-by-design-awards-winners-web-design.md
 isBasedOnUrl: >-
   https://www.fastcodesign.com/3049915/innovation-by-design/the-2015-innovation-by-design-awards-winners-web-design
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-09-08T23:38:56.293Z'
+dateModified: '2016-09-08T23:38:59.036Z'
 title: 'The 2015 Innovation By Design Awards Winners: Web Design'
 app_links: []
 publisher:
