@@ -1,24 +1,12 @@
 ---
-datePublished: '2016-08-30T19:10:30.991Z'
-sourcePath: _posts/2016-08-30-yellow-conference.md
+datePublished: '2016-09-08T22:57:41.064Z'
+inFeed: true
 isBasedOnUrl: 'http://yellow.community/'
-keywords:
-  - yellow2016
-  - yellowconf
-  - jessicahische
-  - live_fully
-  - iamthatgirl
-  - solopreneur
-  - urself
-  - value
-  - crazy
-  - believe
-related: []
 author: []
 via: {}
-dateModified: '2016-08-30T19:10:30.469Z'
-title: Built on The Grid Yellow Conference
-app_links: []
+dateModified: '2016-09-08T22:57:40.270Z'
+title: Yellow Conference
+id: cdc05dfa-27c3-485b-813a-7253da1bc404
 publisher:
   url: 'http://yellow.community'
   name: Yellow
@@ -28,16 +16,16 @@ publisher:
 description: >-
   Yellow Co. exists to gather and equip creative women to use their passion,
   strengths, and influence to serve the greater good.
-inLanguage: en
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_context: 'http://schema.org'
+sourcePath: _posts/2016-08-30-yellow-conference.md
 _type: MediaObject
 
 ---
-# Built on The Grid Yellow Conference
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6630496bb37803c758343e037920644484dc550.jpg)
+### _Built on The Grid_
+
+# [Yellow Conference][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/740c6d6a-c367-4544-8c85-0140376d6c87.png)
 
 Yellow Co. exists to gather and equip creative women to use their passion, strengths, and influence to serve the greater good.
+
+[0]: http://yellow.community/ "The Yellow Conference"
