@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-08T22:52:37.876Z'
+datePublished: '2016-09-08T23:35:33.255Z'
 inFeed: true
 isBasedOnUrl: 'https://twitter.com/narrowd/status/770989882592399360'
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-09-08T22:52:37.522Z'
+dateModified: '2016-09-08T23:35:32.782Z'
 title: ''
 app_links:
   - path: >-
