@@ -34,13 +34,13 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/JonAdaskin/status/773965852190269440'
-datePublished: '2016-09-08T23:34:25.914Z'
-dateModified: '2016-09-08T23:33:42.470Z'
+datePublished: '2016-09-08T23:34:54.918Z'
+dateModified: '2016-09-08T23:34:54.537Z'
 title: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-09-08-thegrid-now-off-beta-working-in-a-live-environment-loving.md
+starred: false
 _type: Comment
 _context: 'http://schema.org'
 
