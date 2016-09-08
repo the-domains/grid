@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T19:18:16.910Z'
+datePublished: '2016-09-08T23:37:02.670Z'
 isBasedOnUrl: 'https://twitter.com/CirclesConf/status/642087249325092865'
 keywords:
   - thegrid
@@ -32,7 +32,7 @@ author:
           - 151
           - 151
 via: {}
-dateModified: '2016-08-30T19:00:32.698Z'
+dateModified: '2016-09-08T23:37:02.379Z'
 title: ''
 app_links:
   - path: >-
@@ -49,11 +49,9 @@ description: >-
   @thegrid team is full of geniuses! They are creating a live re-cap website of
   #Circles2015! 
 inLanguage: en
-starred: false
 sourcePath: _posts/2016-08-30-thegrid-team-is-full-of-geniuses-they-are-creating-a-live.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: Comment
 
