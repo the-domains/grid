@@ -4,9 +4,9 @@
         <description><![CDATA[Join the Evolution]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 08 Sep 2016 23:04:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2016 23:06:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 Sep 2016 23:04:37 GMT</pubDate>
+        <pubDate>Thu, 08 Sep 2016 23:06:01 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Checkout Molly, the AI robot from @thegrid, who is live-building our community website! Mind. Freakin' Blown. https://t.co/YaXwoNUjcU</p>]]></description>
@@ -34,13 +34,6 @@
             <link>http://itwstories.sostudiosfilm.com/</link>
             <guid isPermaLink="false">88d5f810-02ee-4ddc-a476-bb7b1e34f365</guid>
             <pubDate>Thu, 08 Sep 2016 23:02:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This is what The Grid's 'AI' website builder looks like]]></title>
-            <description><![CDATA[<article><h1>This is what The Grid's 'AI' website builder looks like</h1><p>You might have heard about The Grid - it's been endlessly running banner advertising on every tech website out there for the last few months. What you might not know is what it actually is. On first look at its landing page, I thought it wasn't real.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d4a2ccf0b30dbca782187d92efd4ed7a/noop.jpg?input=http%3A%2F%2Fcdn1.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2015%2F07%2Fkeychain.jpg"></article>]]></description>
-            <link>http://thenextweb.com/dd/2015/07/31/this-is-what-the-grids-ai-website-builder-looks-like/</link>
-            <guid isPermaLink="false">6702e5cb-5f4e-4227-a458-36558a3abf2a</guid>
-            <pubDate>Wed, 07 Sep 2016 16:32:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -76,6 +69,13 @@
             <link>https://www.fastcompany.com/3037187/the-grid-is-building-the-website-of-the-future-it-designs-itself</link>
             <guid isPermaLink="false">23d09e53-c1a0-4089-aaee-99031538918b</guid>
             <pubDate>Thu, 08 Sep 2016 23:04:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This is what The Grid's 'AI' website builder looks like]]></title>
+            <description><![CDATA[<article><h1>This is what The Grid's 'AI' website builder looks like</h1><p>You might have heard about The Grid - it's been endlessly running banner advertising on every tech website out there for the last few months. What you might not know is what it actually is. On first look at its landing page, I thought it wasn't real.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d4a2ccf0b30dbca782187d92efd4ed7a/noop.jpg?input=http%3A%2F%2Fcdn1.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2015%2F07%2Fkeychain.jpg"></article>]]></description>
+            <link>http://thenextweb.com/dd/2015/07/31/this-is-what-the-grids-ai-website-builder-looks-like/</link>
+            <guid isPermaLink="false">6702e5cb-5f4e-4227-a458-36558a3abf2a</guid>
+            <pubDate>Thu, 08 Sep 2016 23:06:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
