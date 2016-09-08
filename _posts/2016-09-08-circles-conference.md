@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-08T23:38:37.630Z'
+datePublished: '2016-09-08T23:38:39.547Z'
 sourcePath: _posts/2016-09-08-circles-conference.md
 inFeed: true
 isBasedOnUrl: 'http://circles.community/'
 author: []
 via: {}
-dateModified: '2016-09-08T23:38:37.147Z'
+dateModified: '2016-09-08T23:38:39.075Z'
 title: Circles Conference
 publisher: {}
 description: 'Crafted experiences for creatives, makers, and adventurers.'
