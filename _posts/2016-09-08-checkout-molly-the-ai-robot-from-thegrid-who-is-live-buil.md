@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-08T22:46:19.675Z'
+datePublished: '2016-09-08T22:52:25.835Z'
 inFeed: true
 hasPage: true
 keywords:
@@ -33,7 +33,7 @@ author:
           - 144
           - 143
 via: {}
-dateModified: '2016-09-08T22:46:08.235Z'
+dateModified: '2016-09-08T22:52:24.985Z'
 title: ''
 app_links:
   - path: >-
@@ -50,8 +50,8 @@ description: >-
   Checkout Molly, the AI robot from @thegrid, who is live-building our community
   website! Mind. Freakin' Blown. https://t.co/YaXwoNUjcU
 inLanguage: en
-starred: false
 sourcePath: _posts/2016-09-08-checkout-molly-the-ai-robot-from-thegrid-who-is-live-buil.md
+starred: false
 url: checkout-molly-the-ai-robot-from-thegrid-who-is-live-buil/index.html
 _context: 'http://schema.org'
 _type: Comment
