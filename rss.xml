@@ -4,9 +4,9 @@
         <description><![CDATA[Join the Evolution]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 08 Sep 2016 22:46:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2016 22:52:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 Sep 2016 22:46:20 GMT</pubDate>
+        <pubDate>Thu, 08 Sep 2016 22:52:51 GMT</pubDate>
         <item>
             <title><![CDATA[FP049: Changing the World (Wide Web) with Dan Tocchini founder of the Grid.io - Foundr]]></title>
             <description><![CDATA[<article><h1>FP049: Changing the World (Wide Web) with Dan Tocchini founder of the Grid.io - Foundr</h1><p>Dan Tocchini wants to change how we use the web. His website design startup The Grid have had almost 50,000 founding members and they might just pull it off. For all of the advances in how we use the Internet in recent years, the options for the average person who needs to make a website can still be simultaneously dizzying and uninspiring.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8dad85c5cfa41174bbe6cc79cf303b8e/noop.jpg?input=https%3A%2F%2Ffoundrmag.com%2Fwp-content%2Fuploads%2F2015%2F07%2Fdan-tocchini.jpg"></article>]]></description>
@@ -44,6 +44,13 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/ab66f6827b59d2cc3c5aefcdb58216ab/croprotate.png?cropheight=1682&cropwidth=677&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F015e9ec3-5325-482d-bbf6-c38e7265bbaa.png&x=83&y=0">]]></description>
+            <link>https://twitter.com/narrowd/status/770989882592399360</link>
+            <guid isPermaLink="false">af3efa6a-418b-47dd-b5e4-c18689c89f81</guid>
+            <pubDate>Thu, 08 Sep 2016 22:51:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Checkout Molly, the AI robot from @thegrid, who is live-building our community website! Mind. Freakin' Blown. https://t.co/YaXwoNUjcU</p>]]></description>
             <link>https://thegrid.ai/grid/checkout-molly-the-ai-robot-from-thegrid-who-is-live-buil/index.html</link>
             <guid isPermaLink="false">2625d760-fb61-4de5-9209-02784d615401</guid>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/grid/the-internet-is-our-medium-is-our-stage/index.html</link>
             <guid isPermaLink="false">d7d7b6fe-fd96-4110-985a-13697a27f30a</guid>
             <pubDate>Wed, 07 Sep 2016 16:32:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 2015 Innovation By Design Awards Winners: Web Design]]></title>
-            <description><![CDATA[<article><h1>The 2015 Innovation By Design Awards Winners: Web Design</h1><p>There's nothing the web can't do. This year's finalist and winner in the web category of the Innovation By Design Awards represent a range of novel design solutions, from busting internet rumors before they go viral (Emergent) to reimagining office-communication without email (Slack) to using AI to help design page layouts (The Grid).</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f2ab1df-12d9-4444-9f2e-0863028523cc.png"></article>]]></description>
-            <link>https://www.fastcodesign.com/3049915/innovation-by-design/the-2015-innovation-by-design-awards-winners-web-design</link>
-            <guid isPermaLink="false">844b3879-abb8-4eac-9ff6-cac25d2654a7</guid>
-            <pubDate>Wed, 07 Sep 2016 16:32:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
