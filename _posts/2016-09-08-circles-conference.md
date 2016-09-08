@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-08T23:20:51.387Z'
+datePublished: '2016-09-08T23:27:28.992Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-08T23:20:50.883Z'
+dateModified: '2016-09-08T23:27:28.717Z'
 title: Circles Conference
 publisher: {}
 description: 'Crafted experiences for creatives, makers, and adventurers. '
