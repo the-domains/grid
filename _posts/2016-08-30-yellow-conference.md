@@ -1,31 +1,27 @@
 ---
-datePublished: '2016-09-08T22:58:14.172Z'
+datePublished: '2016-09-08T23:04:14.942Z'
+sourcePath: _posts/2016-08-30-yellow-conference.md
 inFeed: true
 isBasedOnUrl: 'http://yellow.community/'
 author: []
 via: {}
-dateModified: '2016-09-08T22:58:13.478Z'
-title: Yellow Conference
+dateModified: '2016-09-08T23:04:14.513Z'
+title: The Yellow Conference
 id: cdc05dfa-27c3-485b-813a-7253da1bc404
-publisher:
-  url: 'http://yellow.community'
-  name: Yellow
-  favicon: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f348b42-90b0-4d18-bee4-a57cd34c0758.png
-  domain: yellow.community
+publisher: {}
 description: >-
   Yellow Co. exists to gather and equip creative women to use their passion,
   strengths, and influence to serve the greater good.
-sourcePath: _posts/2016-08-30-yellow-conference.md
 starred: false
 _type: MediaObject
 
 ---
 ### _Built on The Grid_
 
-# [Yellow Conference][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/740c6d6a-c367-4544-8c85-0140376d6c87.png)
+# [The Yellow Conference][0]
 
-Yellow Co. exists to gather and equip creative women to use their passion, strengths, and influence to serve the greater good.
+[Yellow Co.][1] exists to gather and equip creative women to use their passion, strengths, and influence to serve the greater good.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83358f6a-2e79-4338-8b6f-0cd040c593d8.png)
 
 [0]: http://yellow.community/ "The Yellow Conference"
+[1]: http://yellow.community/
