@@ -46,8 +46,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/ivebengreat/status/702716932202602496'
-datePublished: '2016-09-08T22:52:37.876Z'
-dateModified: '2016-09-08T22:52:37.522Z'
+datePublished: '2016-09-08T23:35:03.678Z'
+dateModified: '2016-09-08T23:35:03.319Z'
 title: ''
 sourcePath: _posts/2016-04-01-got-the-thegrid-beta-today-holyshit-this-is-incredible.md
 via: {}
