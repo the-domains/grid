@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-09T12:34:59.681Z'
+datePublished: '2016-09-09T12:35:13.737Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-09T12:34:43.706Z'
+dateModified: '2016-09-09T12:35:13.436Z'
 title: A Site As Colorful As You
 publisher: {}
 description: >-
@@ -13,8 +13,8 @@ description: >-
   your media, sifting through millions of unique color combinations searching
   for the perfect application of your palette. Our web & mobile apps are colored
   by the same designers in the machines that slave over your pixels.
-starred: false
 sourcePath: _posts/2016-09-09-a-site-as-colorful-as-you.md
+starred: false
 _type: Blurb
 
 ---
