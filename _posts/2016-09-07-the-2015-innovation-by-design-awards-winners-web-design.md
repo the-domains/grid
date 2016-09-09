@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-09T11:54:14.742Z'
+datePublished: '2016-09-09T12:39:07.211Z'
 sourcePath: _posts/2016-09-07-the-2015-innovation-by-design-awards-winners-web-design.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-09-09T11:54:14.337Z'
+dateModified: '2016-09-09T12:39:06.928Z'
 title: >-
   Fast Company Magazine, The 2015 Innovation By Design Awards Winners: Web
   Design
