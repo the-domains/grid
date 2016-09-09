@@ -9,8 +9,8 @@ description: >
   today's hot website template. Just throw in videos, images, text, products and
   more and magically get a website that looks like it was pored over by a
   million-dollar design team. Once and for all, content is king.
-datePublished: '2016-09-09T10:20:55.117Z'
-dateModified: '2016-09-09T10:20:54.734Z'
+datePublished: '2016-09-09T10:21:04.090Z'
+dateModified: '2016-09-09T10:21:02.709Z'
 title: As Easy As A Social Network
 author:
   - name: ''
