@@ -1,23 +1,21 @@
 ---
-datePublished: '2016-09-08T23:38:54.370Z'
+datePublished: '2016-09-09T11:07:44.770Z'
+sourcePath: _posts/2016-09-07-the-internet-is-our-medium-is-our-stage.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-08T23:38:53.838Z'
+dateModified: '2016-09-09T11:07:43.288Z'
 title: The Internet is our medium is our stage
 publisher: {}
 description: >-
   The Internet is our medium is our stage. Nothing is that doesn’t act, it is
   the website that describes a scratch but not the itch.
-sourcePath: _posts/2016-09-07-the-internet-is-our-medium-is-our-stage.md
-hasPage: true
 starred: false
 url: the-internet-is-our-medium-is-our-stage/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d01fa7f-7bd7-4048-b77c-f079467c4309.png)
-
 # The Internet is our medium is our stage
 
 > "An individual can put up a website, if they put enough work into, looks just as impressive as the largest company in the world... It's a very profound thing and a very good thing." - Steve Jobs
