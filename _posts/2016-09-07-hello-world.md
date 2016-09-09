@@ -1,21 +1,16 @@
 ---
-datePublished: '2016-09-09T10:36:47.934Z'
+datePublished: '2016-09-09T11:38:34.726Z'
+sourcePath: _posts/2016-09-07-hello-world.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-09T10:36:47.508Z'
+dateModified: '2016-09-09T11:38:34.327Z'
 title: Hello World
 publisher: {}
 description: >-
-  This is not another do-it-yourself website builder. The Grid harnesses the
-  power of artificial intelligence to take everything you throw at it - videos,
-  images, text, urls and more - and automatically shape them into a custom
-  website unique to you. As your needs grow, it evolves with you, effortlessly
-  adapting to your needs. Want to add e-commerce? Social feeds? A different
-  layout? The Grid just takes care of it. This is not a website builder. This is
-  your personal AI web developer. Its first masterpiece is the website you're
-  looking at right now. Its next one could be yours.
-sourcePath: _posts/2016-09-07-hello-world.md
+  The Internet is our medium is our stage. Nothing is that doesn’t act, it is
+  the website that describes a scratch but not the itch. This is not another
+  do-it-yourself website builder.  This is your new AI web developer.
 starred: false
 _type: Blurb
 
@@ -26,4 +21,6 @@ _type: Blurb
 
 # Hello World
 
-This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs. Want to add e-commerce? Social feeds? A different layout? The Grid just takes care of it. This is not a website builder. This is your personal AI web developer. Its first masterpiece is the website you're looking at right now. Its next one could be yours.
+The Internet is our medium is our stage. Nothing is that doesn't act, it is the website that describes a scratch but not the itch. This is not another do-it-yourself website builder. This is your new AI web developer.
+
+They said it couldn't be done, it's a sham... Rest assured, after 6 years of hard research & the most successful pre-order campaign in non-gaming consumer software history, we're only getting started.
