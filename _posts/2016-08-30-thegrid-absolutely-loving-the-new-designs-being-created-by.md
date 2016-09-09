@@ -51,14 +51,14 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/SKapoor85/status/769544944516161536'
-datePublished: '2016-09-09T11:47:34.109Z'
-dateModified: '2016-09-09T11:47:33.699Z'
+datePublished: '2016-09-09T13:03:52.701Z'
+dateModified: '2016-09-09T13:03:52.362Z'
 title: ''
 via: {}
 sourcePath: >-
   _posts/2016-08-30-thegrid-absolutely-loving-the-new-designs-being-created-by.md
-starred: false
 inFeed: true
+starred: false
 _type: Comment
 _context: 'http://schema.org'
 
