@@ -4,9 +4,9 @@
         <description><![CDATA[Join the Evolution]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Sep 2016 11:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2016 11:22:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Sep 2016 11:22:12 GMT</pubDate>
+        <pubDate>Fri, 09 Sep 2016 11:22:15 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Checkout Molly, the AI robot from @thegrid, who is live-building our community website! Mind. Freakin' Blown. https://t.co/YaXwoNUjcU</p>]]></description>
@@ -43,13 +43,6 @@
             <pubDate>Fri, 09 Sep 2016 09:42:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Bean a founder member of @thegrid for ages! Only powered it up today. 1 hour in, I'm having a blast, loving what it's coming up with. 😀</p>]]></description>
-            <link>https://twitter.com/Tidiain/status/774028774115463168</link>
-            <guid isPermaLink="false">e062d169-e19f-4ba0-b95d-54adf41461c5</guid>
-            <pubDate>Fri, 09 Sep 2016 11:22:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fifty-Two Photos]]></title>
             <description><![CDATA[<article><h1>Fifty-Two Photos</h1><h2>on the grid</h2><p>Seth's passion for the visual story has led him to creating both still images & video for…</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8324d081-79fb-4e5e-b118-a2ce55803ded.png"></article>]]></description>
             <link>http://fiftytwo.photos/</link>
@@ -76,6 +69,13 @@
             <link>http://circles.community/</link>
             <guid isPermaLink="false">c9d4fe99-d6fa-48a6-a6be-fcb1242f9e7e</guid>
             <pubDate>Fri, 09 Sep 2016 05:35:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Bean a founder member of @thegrid for ages! Only powered it up today. 1 hour in, I'm having a blast, loving what it's coming up with. 😀</p>]]></description>
+            <link>https://twitter.com/Tidiain/status/774028774115463168</link>
+            <guid isPermaLink="false">e062d169-e19f-4ba0-b95d-54adf41461c5</guid>
+            <pubDate>Fri, 09 Sep 2016 11:22:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
