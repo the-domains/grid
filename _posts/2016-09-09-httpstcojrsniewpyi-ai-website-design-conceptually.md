@@ -51,13 +51,13 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/jasonfried/status/522492212144525312'
-datePublished: '2016-09-09T00:01:34.650Z'
-dateModified: '2016-09-09T00:00:28.536Z'
+datePublished: '2016-09-09T00:02:27.531Z'
+dateModified: '2016-09-09T00:02:27.071Z'
 title: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-09-09-httpstcojrsniewpyi-ai-website-design-conceptually.md
+starred: false
 _type: Comment
 _context: 'http://schema.org'
 
