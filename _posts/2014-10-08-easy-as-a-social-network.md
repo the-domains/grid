@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-09T13:13:01.936Z'
+datePublished: '2016-09-09T13:13:21.822Z'
 sourcePath: _posts/2014-10-08-easy-as-a-social-network.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-09T13:13:01.337Z'
+dateModified: '2016-09-09T13:13:21.498Z'
 title: As Easy As A Social Network
 tags:
   - ''
