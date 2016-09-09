@@ -4,9 +4,9 @@
         <description><![CDATA[Join the Evolution]]></description>
         <link>https://thegrid.ai/grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Sep 2016 13:03:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2016 13:04:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Sep 2016 13:03:53 GMT</pubDate>
+        <pubDate>Fri, 09 Sep 2016 13:04:01 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Checkout Molly, the AI robot from @thegrid, who is live-building our community website! Mind. Freakin' Blown. https://t.co/YaXwoNUjcU</p>]]></description>
@@ -57,6 +57,13 @@
             <pubDate>Fri, 09 Sep 2016 05:35:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Into The World Stories]]></title>
+            <description><![CDATA[<article><h1>Into The World Stories</h1><h2>on the grid</h2><p>Every child has a favourite place known only to himself/herself…</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab370140-5f4d-434c-ad95-a643d54a8714.png"></article>]]></description>
+            <link>http://itwstories.sostudiosfilm.com/</link>
+            <guid isPermaLink="false">88d5f810-02ee-4ddc-a476-bb7b1e34f365</guid>
+            <pubDate>Fri, 09 Sep 2016 13:03:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Bean a founder member of @thegrid for ages! Only powered it up today. 1 hour in, I'm having a blast, loving what it's coming up with. 😀</p>]]></description>
             <link>https://twitter.com/Tidiain/status/774028774115463168</link>
@@ -69,13 +76,6 @@
             <link>https://www.fastcompany.com/3037187/the-grid-is-building-the-website-of-the-future-it-designs-itself</link>
             <guid isPermaLink="false">23d09e53-c1a0-4089-aaee-99031538918b</guid>
             <pubDate>Fri, 09 Sep 2016 11:54:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>@thegrid absolutely loving the new designs being created by the AI engine behind version 2!</p>]]></description>
-            <link>https://twitter.com/SKapoor85/status/769544944516161536</link>
-            <guid isPermaLink="false">897ece60-762e-41c0-ba7f-3037f1b2b805</guid>
-            <pubDate>Fri, 09 Sep 2016 13:03:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
