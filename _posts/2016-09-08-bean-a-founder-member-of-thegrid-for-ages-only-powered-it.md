@@ -49,8 +49,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/Tidiain/status/774028774115463168'
-datePublished: '2016-09-09T00:00:50.455Z'
-dateModified: '2016-09-09T00:00:50.072Z'
+datePublished: '2016-09-09T00:01:24.952Z'
+dateModified: '2016-09-09T00:01:24.609Z'
 title: ''
 via: {}
 inFeed: true
