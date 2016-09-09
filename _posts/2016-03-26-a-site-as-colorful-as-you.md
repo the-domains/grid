@@ -1,22 +1,23 @@
 ---
-datePublished: '2016-09-08T23:35:45.970Z'
+datePublished: '2016-09-09T11:06:53.837Z'
 sourcePath: _posts/2016-03-26-a-site-as-colorful-as-you.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
-author:
-  - name: ''
-    url: ''
-dateModified: '2016-09-08T23:35:45.732Z'
+author: []
+via: {}
+dateModified: '2016-09-09T11:06:53.337Z'
 title: A Site As Colorful As You
 publisher: {}
 description: >-
-  Our algorithms expertly analyze your media and apply color palettes that keep
-  your messaging consistent and unique. The Grid also detects color contrasts,
-  automatically adjusting typography color to maximize legibility.
+  Color is the most mystical & relative of the creative mediums. A 5 color
+  palette can be applied to your site in more than 200,000 unique ways. In less
+  time than it takes you to read this sentence, our algorithms analyzes your
+  media, sifting through millions of unique color combinations searching for the
+  perfect application of your preferred palette. Our web & mobile apps are
+  colored by the same designers in the machines that slave over your pixels.
 inLanguage: null
-via: {}
 starred: false
 url: a-site-as-colorful-as-you/index.html
 _type: Article
@@ -24,5 +25,7 @@ _type: Article
 ---
 # A Site As Colorful As You
 
-Our algorithms expertly analyze your media and apply color palettes that keep your messaging consistent and unique. The Grid also detects color contrasts, automatically adjusting typography color to maximize legibility.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d34fd964c6c62d800e9d6204cc437985070a191.png)
+## World's most advanced AI color-system
+
+Color is the most mystical & relative of the creative mediums. A 5 color palette can be applied to your site in more than 200,000 unique ways. In less time than it takes you to read this sentence, our algorithms analyzes your media, sifting through millions of unique color combinations searching for the perfect _application_ of your preferred palette. Our web & mobile apps are colored by the same designers in the machines that slave over your pixels.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/edb2e99d-1f05-47d9-a262-6c894931e488.jpg)
