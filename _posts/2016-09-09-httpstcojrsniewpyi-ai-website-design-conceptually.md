@@ -51,8 +51,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/jasonfried/status/522492212144525312'
-datePublished: '2016-09-09T00:02:27.531Z'
-dateModified: '2016-09-09T00:02:27.071Z'
+datePublished: '2016-09-09T01:55:57.104Z'
+dateModified: '2016-09-09T01:55:56.814Z'
 title: ''
 via: {}
 inFeed: true
