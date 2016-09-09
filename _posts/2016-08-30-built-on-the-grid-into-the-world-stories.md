@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-08T23:41:20.874Z'
+datePublished: '2016-09-09T02:25:55.488Z'
 sourcePath: _posts/2016-08-30-built-on-the-grid-into-the-world-stories.md
 inFeed: true
 isBasedOnUrl: 'http://itwstories.sostudiosfilm.com/'
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-09-08T23:41:20.472Z'
+dateModified: '2016-09-09T02:25:54.925Z'
 title: Into The World Stories
 app_links: []
 publisher: {}
