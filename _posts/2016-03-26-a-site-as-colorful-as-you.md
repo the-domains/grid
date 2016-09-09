@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-09T11:54:03.712Z'
+datePublished: '2016-09-09T12:32:44.857Z'
 sourcePath: _posts/2016-03-26-a-site-as-colorful-as-you.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-09T11:54:03.467Z'
+dateModified: '2016-09-09T12:32:44.473Z'
 title: A Site As Colorful As You
 publisher: {}
 description: >-
