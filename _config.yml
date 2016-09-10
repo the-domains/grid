@@ -1,4 +1,32 @@
+typography_spectrum: 0.5011249287053943
+color:
+  saturation: 1
+  brandStrength: 0.5
+  rhythmicContrast: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#171718'
+    - '#21303D'
+    - '#D0B283'
+    - '#515151'
+  lightness: 1
+github: true
+opengraph:
+  image: 'http://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/purus-fb.png'
+  type: website
+  appId: '1517733501804443'
+layout_spectrum: 1
+analytics:
+  twitter: l4y05
+  google: UA-50607580-1
+  facebook: '295556487279234'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c8e3e03-5703-4144-9cbf-d85011b48d3c.svg
 name: The Grid
+cta:
+  bucket: /cdn.thegrid.io
+  version: 0.2.8
+  domain: //s3-us-west-2.amazonaws.com
 navigation:
   - name: Blog
     url: 'https://blog.thegrid.io/'
@@ -9,11 +37,8 @@ navigation:
   - name: Login
     url: 'https://app.thegrid.io'
     type: external
-description: AI websites that design themselves
-opengraph:
-  image: 'http://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/purus-fb.png'
-  type: website
-  appId: '1517733501804443'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/31a78343-dca7-494c-8e82-2a2b582bffc0.png
 collections:
   - index:
       path: /
@@ -26,26 +51,8 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
-color:
-  saturation: 1
-  brandStrength: 0.5
-  rhythmicContrast: 1
-  brandColors:
-    - '#FFFFFF'
-    - '#171718'
-    - '#21303D'
-    - '#D0B283'
-    - '#515151'
-  lightness: 1
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c8e3e03-5703-4144-9cbf-d85011b48d3c.svg
-github: true
-cta:
-  bucket: /cdn.thegrid.io
-  version: 0.2.8
-  domain: //s3-us-west-2.amazonaws.com
 title: Join the Evolution
+description: AI websites that design themselves
 purpose:
   - type: external
     url: 'https://www.youtube.com/watch?v=aEfpARsP8Fg'
@@ -53,10 +60,3 @@ purpose:
   - type: external
     url: 'https://plans.thegrid.io/pro/'
     label: get on the Grid now
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/31a78343-dca7-494c-8e82-2a2b582bffc0.png
-typography_spectrum: 0.5011249287053943
-analytics:
-  twitter: l4y05
-  google: UA-50607580-1
-  facebook: '295556487279234'
