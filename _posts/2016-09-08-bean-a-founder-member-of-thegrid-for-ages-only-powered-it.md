@@ -1,4 +1,20 @@
 ---
+datePublished: '2016-09-11T23:22:53.453Z'
+sourcePath: _posts/2016-09-08-bean-a-founder-member-of-thegrid-for-ages-only-powered-it.md
+inFeed: true
+isBasedOnUrl: 'https://twitter.com/Tidiain/status/774028774115463168'
+keywords:
+  - location
+  - tweet
+  - learn
+  - code
+  - _uow
+  - licensedto_show
+  - superboltplays
+  - copying
+  - twitter
+  - hiccup
+related: []
 author:
   - name: tidiain
     url: 'http://twitter.com/tidiain'
@@ -23,41 +39,25 @@ author:
         - - 74
           - 78
           - 70
-related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords:
-  - location
-  - tweet
-  - learn
-  - code
-  - _uow
-  - licensedto_show
-  - superboltplays
-  - copying
-  - twitter
-  - hiccup
-description: "Bean a founder member of @thegrid for ages! Only powered it up today. 1 hour in, I'm having a blast, loving what it's coming up with. \uD83D\uDE00"
-inLanguage: en
+via: {}
+dateModified: '2016-09-11T23:22:52.711Z'
+title: ''
 app_links:
   - path: >-
       twitter/tweet?status_id=774028774115463168&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E774028774115463168
     package: com.twitter.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://twitter.com/Tidiain/status/774028774115463168'
-datePublished: '2016-09-09T13:03:49.545Z'
-dateModified: '2016-09-09T13:03:49.226Z'
-title: ''
-via: {}
-inFeed: true
-sourcePath: _posts/2016-09-08-bean-a-founder-member-of-thegrid-for-ages-only-powered-it.md
+publisher:
+  url: 'http://twitter.com'
+  name: Twitter
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
+  domain: twitter.com
+description: "Been a founder member of @thegrid for ages! Only powered it up today. 1 hour in, I'm having a blast, loving what it's coming up with. \uD83D\uDE00"
+inLanguage: en
 starred: false
-_type: Comment
 _context: 'http://schema.org'
+_type: Comment
 
 ---
-> Bean a founder member of @thegrid for ages! Only powered it up today. 1 hour in, I'm having a blast, loving what it's coming up with. 
+> Been a founder member of @thegrid for ages! Only powered it up today. 1 hour in, I'm having a blast, loving what it's coming up with. 😀
