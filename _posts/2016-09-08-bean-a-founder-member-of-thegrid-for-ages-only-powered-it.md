@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-11T23:22:53.453Z'
+datePublished: '2016-09-12T04:12:50.605Z'
 sourcePath: _posts/2016-09-08-bean-a-founder-member-of-thegrid-for-ages-only-powered-it.md
 inFeed: true
 isBasedOnUrl: 'https://twitter.com/Tidiain/status/774028774115463168'
@@ -40,7 +40,7 @@ author:
           - 78
           - 70
 via: {}
-dateModified: '2016-09-11T23:22:52.711Z'
+dateModified: '2016-09-12T04:12:50.042Z'
 title: ''
 app_links:
   - path: >-
@@ -53,11 +53,11 @@ publisher:
   name: Twitter
   favicon: 'https://abs.twimg.com/favicons/favicon.ico'
   domain: twitter.com
-description: "Been a founder member of @thegrid for ages! Only powered it up today. 1 hour in, I'm having a blast, loving what it's coming up with. \uD83D\uDE00"
+description: "Been a founding member of @thegrid for ages! Only powered it up today. 1 hour in, I'm having a blast, loving what it's coming up with. \uD83D\uDE00"
 inLanguage: en
 starred: false
 _context: 'http://schema.org'
 _type: Comment
 
 ---
-> Been a founder member of @thegrid for ages! Only powered it up today. 1 hour in, I'm having a blast, loving what it's coming up with. 😀
+> Been a founding member of @thegrid for ages! Only powered it up today. 1 hour in, I'm having a blast, loving what it's coming up with. 😀
