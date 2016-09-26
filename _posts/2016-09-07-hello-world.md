@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-09-09T11:38:34.726Z'
+datePublished: '2016-09-26T04:23:51.953Z'
 sourcePath: _posts/2016-09-07-hello-world.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-09T11:38:34.327Z'
+dateModified: '2016-09-23T13:12:04.423Z'
 title: Hello World
 publisher: {}
 description: >-
   The Internet is our medium is our stage. Nothing is that doesn’t act, it is
   the website that describes a scratch but not the itch. This is not another
-  do-it-yourself website builder.  This is your new AI web developer.
+  do-it-yourself website builder. This is your new AI web developer.
 starred: false
 _type: Blurb
 
