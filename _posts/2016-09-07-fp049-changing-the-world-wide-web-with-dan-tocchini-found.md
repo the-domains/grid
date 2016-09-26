@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-09T13:14:00.976Z'
+datePublished: '2016-09-26T04:24:57.940Z'
 sourcePath: _posts/2016-09-07-fp049-changing-the-world-wide-web-with-dan-tocchini-found.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,8 +18,10 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-09-09T13:01:50.674Z'
-title: Changing the World (Wide Web) with Dan Tocchini founder of theGrid.io - Foundr
+dateModified: '2016-09-26T04:24:57.081Z'
+title: >-
+  Changing the World (Wide Web) with Dan Tocchini founder of theGrid.io - Foundr
+  Mag
 app_links: []
 publisher:
   url: 'https://foundrmag.com'
@@ -39,4 +41,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8dad85c5cfa41174bbe6cc79cf303b8e/noop.jpg?input=https%3A%2F%2Ffoundrmag.com%2Fwp-content%2Fuploads%2F2015%2F07%2Fdan-tocchini.jpg" /><h1>Changing the World (Wide Web) with Dan Tocchini founder of theGrid.io - Foundr</h1><p>Dan Tocchini wants to change how we use the web. His website design startup The Grid have had almost 50,000 founding members and they might just pull it off. For all of the advances in how we use the Internet in recent years, the options for the average person who needs to make a website can still be simultaneously dizzying and uninspiring.</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8dad85c5cfa41174bbe6cc79cf303b8e/noop.jpg?input=https%3A%2F%2Ffoundrmag.com%2Fwp-content%2Fuploads%2F2015%2F07%2Fdan-tocchini.jpg" /><h1>Changing the World (Wide Web) with Dan Tocchini founder of theGrid.io - Foundr Mag</h1><p>Dan Tocchini wants to change how we use the web. His website design startup The Grid have had almost 50,000 founding members and they might just pull it off. For all of the advances in how we use the Internet in recent years, the options for the average person who needs to make a website can still be simultaneously dizzying and uninspiring.</p></article>
