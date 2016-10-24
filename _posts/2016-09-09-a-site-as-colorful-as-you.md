@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-10-24T14:53:18.740Z'
+datePublished: '2016-10-24T14:53:26.463Z'
 sourcePath: _posts/2016-09-09-a-site-as-colorful-as-you.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-24T14:53:18.377Z'
+dateModified: '2016-10-24T14:53:25.973Z'
 title: A Site As Colorful As You
 publisher: {}
 description: >-
   Color is the most mystical & relative of the creative mediums. A “simple“ 5
-  colors palette can be applied to your site in more than 200,000 unique ways.
-  In less time than it takes you to read this sentence, our algorithms analyzes
+  color palette can be applied to your site in more than 200,000 unique ways. In
+  less time than it takes you to read this sentence, our algorithms analyzes
   your media, sifting through millions of unique color combinations searching
   for the perfect application of your palette. Our web & mobile apps are colored
   by the same designers in the machines that slave over your pixels.
@@ -24,4 +24,4 @@ _type: Blurb
 
 ## World's most advanced AI color-system
 
-Color is the most mystical & relative of the creative mediums. A "simple" 5 colors palette can be applied to your site in more than 200,000 unique ways. In less time than it takes you to read this sentence, our algorithms analyzes your media, sifting through millions of unique color combinations searching for the perfect _application_ of your palette. Our web & mobile apps are colored by the same designers in the machines that slave over your pixels.
+Color is the most mystical & relative of the creative mediums. A "simple" 5 color palette can be applied to your site in more than 200,000 unique ways. In less time than it takes you to read this sentence, our algorithms analyzes your media, sifting through millions of unique color combinations searching for the perfect _application_ of your palette. Our web & mobile apps are colored by the same designers in the machines that slave over your pixels.
