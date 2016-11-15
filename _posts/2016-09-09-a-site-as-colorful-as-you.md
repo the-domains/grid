@@ -1,27 +1,25 @@
 ---
-datePublished: '2016-10-24T14:53:26.463Z'
+datePublished: '2016-11-15T00:08:24.103Z'
 sourcePath: _posts/2016-09-09-a-site-as-colorful-as-you.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-24T14:53:25.973Z'
-title: A Site As Colorful As You
+dateModified: '2016-11-15T00:08:23.821Z'
+title: As Colorful As You
 publisher: {}
 description: >-
-  Color is the most mystical & relative of the creative mediums. A “simple“ 5
-  color palette can be applied to your site in more than 200,000 unique ways. In
-  less time than it takes you to read this sentence, our algorithms analyzes
-  your media, sifting through millions of unique color combinations searching
-  for the perfect application of your palette. Our web & mobile apps are colored
-  by the same designers in the machines that slave over your pixels.
+  {{ 'video': {'autoplay': true, 'loop': true, 'muted': true, 'source':
+  [{'type': 'video/mp4', 'src':
+  'https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/feature_color.720x450.mp4'}]}
+  }}
 starred: false
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09ba1963-0e61-4efb-9b58-f0fd91d95ef1.jpg)
+{{ 'video': {'autoplay': true, 'loop': true, 'muted': true, 'source': \[{'type': 'video/mp4', 'src': 'https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/feature\_color.720x450.mp4'}\]} }}
 
-# A Site As Colorful As You
+# As Colorful As You
 
-## World's most advanced AI color-system
+## Even our Apps are auto-personalized to your brand, not ours
 
-Color is the most mystical & relative of the creative mediums. A "simple" 5 color palette can be applied to your site in more than 200,000 unique ways. In less time than it takes you to read this sentence, our algorithms analyzes your media, sifting through millions of unique color combinations searching for the perfect _application_ of your palette. Our web & mobile apps are colored by the same designers in the machines that slave over your pixels.
+Color is the most mystical & relative of the creative mediums. Molly can apply a _simple_ 5 color palette to your site in more than 200,000 unique ways. In less time than it takes to read this sentence, she analyzes your media, sifting through millions of unique color combinations searching for an appropriate _application_ of your palette. You can see her at work in our apps, designing each screen to fit your brand colors.
