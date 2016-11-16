@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-16T22:40:36.865Z'
+datePublished: '2016-11-16T22:49:05.685Z'
 sourcePath: _posts/2016-09-08-circles-conference.md
 inFeed: true
 isBasedOnUrl: 'http://circles.community/'
 author: []
 via: {}
-dateModified: '2016-11-16T22:40:36.018Z'
+dateModified: '2016-11-16T22:49:05.211Z'
 title: Circles Conference
 publisher: {}
 description: '{{ ''$class'': [''use-DeviceLaptop''] }}'
