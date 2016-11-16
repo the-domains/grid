@@ -1,13 +1,44 @@
-title: Join the Evolution
-content: []
+typography_spectrum: 0.5011249287053943
+color:
+  saturation: 0.2980884
+  brandStrength: 0.5
+  lightness: 0.7401433
+  brandColors:
+    - '#FFFFFF'
+    - '#171718'
+    - '#21303D'
+    - '#D0B283'
+    - '#515151'
+  rhythmicContrast: 0.8476702
 github: true
-purpose:
-  - type: external
-    url: 'https://www.youtube.com/watch?v=aEfpARsP8Fg'
-    label: play video
-  - type: external
-    url: 'https://plans.thegrid.io/pro/'
-    label: get on the Grid now
+opengraph:
+  image: 'http://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/purus-fb.png'
+  type: website
+  appId: '1517733501804443'
+layout_spectrum: 0.3984468
+analytics:
+  twitter: l4y05
+  google: UA-50607580-1
+  facebook: '295556487279234'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c8e3e03-5703-4144-9cbf-d85011b48d3c.svg
+name: The Grid
+cta:
+  bucket: /cdn.thegrid.io
+  version: 0.2.8
+  domain: //s3-us-west-2.amazonaws.com
+navigation:
+  - name: Blog
+    url: 'https://blog.thegrid.io/'
+    type: external
+  - name: Support
+    url: 'https://support.thegrid.io/'
+    type: external
+  - name: Login
+    url: 'https://app.thegrid.io'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/31a78343-dca7-494c-8e82-2a2b582bffc0.png
 collections:
   - index:
       path: /
@@ -20,44 +51,13 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: You are building a website. Better yours than Zuck's.
+content: []
 description: AI websites that design themselves
-color:
-  saturation: 0.2980884
-  brandStrength: 0.5
-  lightness: 0.7401433
-  brandColors:
-    - '#FFFFFF'
-    - '#171718'
-    - '#21303D'
-    - '#D0B283'
-    - '#515151'
-  rhythmicContrast: 0.8476702
-navigation:
-  - name: Blog
-    url: 'https://blog.thegrid.io/'
-    type: external
-  - name: Support
-    url: 'https://support.thegrid.io/'
-    type: external
-  - name: Login
-    url: 'https://app.thegrid.io'
-    type: external
-cta:
-  bucket: /cdn.thegrid.io
-  version: 0.2.8
-  domain: //s3-us-west-2.amazonaws.com
-name: The Grid
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/31a78343-dca7-494c-8e82-2a2b582bffc0.png
-analytics:
-  twitter: l4y05
-  google: UA-50607580-1
-  facebook: '295556487279234'
-opengraph:
-  image: 'http://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/images/purus-fb.png'
-  type: website
-  appId: '1517733501804443'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c8e3e03-5703-4144-9cbf-d85011b48d3c.svg
-typography_spectrum: 0.5011249287053943
-layout_spectrum: 0.3984468
+purpose:
+  - type: external
+    url: 'https://www.youtube.com/watch?v=aEfpARsP8Fg'
+    label: play video
+  - type: external
+    url: 'https://plans.thegrid.io/pro/'
+    label: get on the Grid now
