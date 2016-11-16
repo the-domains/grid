@@ -53,7 +53,7 @@ collections:
       path: '/:title/'
 title: You are building a website. Better yours than Zuck's.
 content: []
-description: AI websites that design themselves
+description: 'add content, Molly does the rest, you profit'
 purpose:
   - type: external
     url: 'https://www.youtube.com/watch?v=aEfpARsP8Fg'
