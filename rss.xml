@@ -4,9 +4,9 @@
         <description><![CDATA[Join the Evolution]]></description>
         <link>http://thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Nov 2016 21:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Nov 2016 21:13:29 GMT</lastBuildDate>
         <atom:link href="http://thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Nov 2016 21:12:31 GMT</pubDate>
+        <pubDate>Wed, 16 Nov 2016 21:12:33 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>Checkout Molly, the AI robot from @thegrid, who is live-building our community website! Mind. Freakin&apos; Blown. https://t.co/YaXwoNUjcU</blockquote>]]></description>
@@ -32,6 +32,13 @@
             <title><![CDATA[Commerce]]></title>
             <description><![CDATA[<article><h1>Commerce</h1><h2>More social, less complexity, up in seconds, no plugins required</h2><p>{{ '$class': ['use-DualBasic'] }}</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ebeadee-e2b4-4feb-8b7a-dedfa1a4a262.jpg"></article>]]></description>
             <link>http://thegrid.io/commerce/index.html</link>
+            <guid isPermaLink="false">239ce31e-a4a2-4812-ae6a-065722c7f495</guid>
+            <pubDate>Wed, 16 Nov 2016 21:12:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Commerce]]></title>
+            <description><![CDATA[<article><h1>Commerce</h1><h2>More social, less complexity, up in seconds, no plugins required</h2><p>{{ '$class': ['use-DualBasic'] }}</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ebeadee-e2b4-4feb-8b7a-dedfa1a4a262.jpg"></article>]]></description>
+            <link>http://thegrid.io/commerce/index.html</link>
             <guid isPermaLink="false">12fcbb71-8d89-481f-98c5-034d30dd94b0</guid>
             <pubDate>Wed, 16 Nov 2016 21:08:43 GMT</pubDate>
         </item>
@@ -41,6 +48,13 @@
             <link>http://circles.community/</link>
             <guid isPermaLink="false">c9d4fe99-d6fa-48a6-a6be-fcb1242f9e7e</guid>
             <pubDate>Fri, 09 Sep 2016 05:35:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>Checkout Molly, the AI robot from @thegrid, who is live-building our community website! Mind. Freakin&apos; Blown. https://t.co/YaXwoNUjcU</blockquote>]]></description>
+            <link>https://twitter.com/CirclesConf/status/773905780881764352</link>
+            <guid isPermaLink="false">04c74fc6-6a26-4c5b-b204-831c716f89bb</guid>
+            <pubDate>Wed, 16 Nov 2016 21:12:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In The Press]]></title>
