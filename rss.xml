@@ -4,9 +4,9 @@
         <description><![CDATA[Join the Evolution]]></description>
         <link>http://thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Nov 2016 21:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Nov 2016 21:13:40 GMT</lastBuildDate>
         <atom:link href="http://thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Nov 2016 21:12:33 GMT</pubDate>
+        <pubDate>Wed, 16 Nov 2016 21:12:35 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>Checkout Molly, the AI robot from @thegrid, who is live-building our community website! Mind. Freakin&apos; Blown. https://t.co/YaXwoNUjcU</blockquote>]]></description>
@@ -48,6 +48,13 @@
             <link>http://circles.community/</link>
             <guid isPermaLink="false">c9d4fe99-d6fa-48a6-a6be-fcb1242f9e7e</guid>
             <pubDate>Fri, 09 Sep 2016 05:35:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Changing the World (Wide Web) with Dan Tocchini founder of theGrid.io - Foundr Mag]]></title>
+            <description><![CDATA[<article><h1>Changing the World (Wide Web) with Dan Tocchini founder of theGrid.io - Foundr Mag</h1><p>{{ '$class': ['use-MonoBasic', 'MonoBasic-bg-filtered'] }}</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d31cf67b9b1f79b5787443fd7ad20ac59c0209e4.jpg"></article>]]></description>
+            <link>https://foundrmag.com/fp049-changing-the-world-wide-web-with-dan-tocchini-founder-of-the-grid-io/</link>
+            <guid isPermaLink="false">e66c47eb-3634-44d3-9947-ed35d8af56ce</guid>
+            <pubDate>Wed, 16 Nov 2016 21:12:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
