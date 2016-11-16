@@ -4,9 +4,9 @@
         <description><![CDATA[You are building a website. Better yours than Zuck's.]]></description>
         <link>http://thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Nov 2016 21:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Nov 2016 21:43:09 GMT</lastBuildDate>
         <atom:link href="http://thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Nov 2016 21:42:02 GMT</pubDate>
+        <pubDate>Wed, 16 Nov 2016 21:43:05 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>thegrid.io - &quot;AI&quot; website design. Conceptually feels very next level, an obvious, natural progression just waiting to happen.</blockquote>]]></description>
@@ -34,13 +34,6 @@
             <link>http://circles.community/</link>
             <guid isPermaLink="false">c9d4fe99-d6fa-48a6-a6be-fcb1242f9e7e</guid>
             <pubDate>Fri, 09 Sep 2016 05:35:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<blockquote>@thegrid thanks! The experience so far is GLORIOUS! Super easy to use, beautiful results! All I do is add pictures and text! #SmellTheRoses</blockquote>]]></description>
-            <link>https://twitter.com/JonAdaskin/status/712341335253000192</link>
-            <guid isPermaLink="false">6eb542e5-3376-4c6f-9819-1f2c48c35d41</guid>
-            <pubDate>Wed, 16 Nov 2016 21:42:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -76,6 +69,13 @@
             <link>https://foundrmag.com/fp049-changing-the-world-wide-web-with-dan-tocchini-founder-of-the-grid-io/</link>
             <guid isPermaLink="false">e66c47eb-3634-44d3-9947-ed35d8af56ce</guid>
             <pubDate>Wed, 16 Nov 2016 21:25:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>@thegrid thanks! The experience so far is GLORIOUS! Super easy to use, beautiful results! All I do is add pictures and text! #SmellTheRoses</blockquote>]]></description>
+            <link>https://twitter.com/JonAdaskin/status/712341335253000192</link>
+            <guid isPermaLink="false">6eb542e5-3376-4c6f-9819-1f2c48c35d41</guid>
+            <pubDate>Wed, 16 Nov 2016 21:43:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
