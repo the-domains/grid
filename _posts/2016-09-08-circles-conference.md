@@ -1,25 +1,24 @@
 ---
-datePublished: '2016-09-09T05:35:59.873Z'
+datePublished: '2016-11-16T21:12:32.959Z'
 sourcePath: _posts/2016-09-08-circles-conference.md
 inFeed: true
 isBasedOnUrl: 'http://circles.community/'
 author: []
 via: {}
-dateModified: '2016-09-09T05:35:59.308Z'
+dateModified: '2016-11-16T21:12:32.758Z'
 title: Circles Conference
 publisher: {}
-description: 'Crafted experiences for creatives, makers, and adventurers…'
+description: '{{ ''$class'': [''use-DeviceLaptop''] }}'
 starred: false
 _type: MediaObject
 
 ---
+{{ '$class': \['use-DeviceLaptop'\] }}
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f4e81fc-6cae-45c3-9bc5-9fb84dcacbb2.png)
 
-### _on the grid_
+### _designed by Molly_
 
 # [Circles Conference][0]
-
-Crafted experiences for creatives, makers, and adventurers...
 
 [circles.community][1]
 
