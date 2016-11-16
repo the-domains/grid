@@ -1,0 +1,24 @@
+---
+datePublished: '2016-11-16T21:12:32.618Z'
+sourcePath: _posts/2016-11-07-call-to-actions.md
+inFeed: true
+author: []
+via: {}
+dateModified: '2016-11-16T21:12:32.364Z'
+title: Call-to-actions
+publisher: {}
+description: '{{ ''$class'': [''use-DualBasic''] }}'
+starred: false
+_type: Blurb
+
+---
+{{ '$class': \['use-DualBasic'\] }}
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/411d9cfd-a95d-4157-91a0-524b840bf1d6.jpg)
+
+# Call-to-actions
+
+## Convert visitors to customers, passerbys to followers
+
+Call-to-actions are buttons to get people to sign up, buy, follow, schedule an appointment, to take the next step. Sites on the Grid have up to 2 primary call-to-actions that will take prominence site-wide. Posts on the Grid can have unlimited call-to-actions, but best keep it to l or 2\.
+
+<button data-role="cta" style="">Get your call-to-actions live now</button>
