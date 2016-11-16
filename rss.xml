@@ -4,9 +4,9 @@
         <description><![CDATA[You are building a website. Better yours than Zuck's.]]></description>
         <link>http://thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Nov 2016 21:41:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Nov 2016 21:41:33 GMT</lastBuildDate>
         <atom:link href="http://thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Nov 2016 21:41:21 GMT</pubDate>
+        <pubDate>Wed, 16 Nov 2016 21:41:32 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>thegrid.io - &quot;AI&quot; website design. Conceptually feels very next level, an obvious, natural progression just waiting to happen.</blockquote>]]></description>
@@ -69,13 +69,6 @@
             <link>https://foundrmag.com/fp049-changing-the-world-wide-web-with-dan-tocchini-founder-of-the-grid-io/</link>
             <guid isPermaLink="false">e66c47eb-3634-44d3-9947-ed35d8af56ce</guid>
             <pubDate>Wed, 16 Nov 2016 21:25:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<blockquote>@thegrid guys you are creating something awesome, the new version is faster and i can now see what i am doing! Xxx</blockquote>]]></description>
-            <link>https://twitter.com/hazelCcopcutt/status/743462941782052864</link>
-            <guid isPermaLink="false">734fca59-f753-44a1-974f-6d3e826b6f28</guid>
-            <pubDate>Wed, 16 Nov 2016 21:41:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
