@@ -53,8 +53,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/JonAdaskin/status/712341335253000192'
-datePublished: '2016-11-16T21:42:02.251Z'
-dateModified: '2016-09-09T10:22:02.461Z'
+datePublished: '2016-11-16T21:43:04.726Z'
+dateModified: '2016-11-16T21:43:04.322Z'
 title: ''
 sourcePath: _posts/2016-03-26-thegrid-thanks-the-experience-so-far-is-glorious-super-ea.md
 via: {}
