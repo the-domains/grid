@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-11-16T21:39:10.804Z'
+datePublished: '2016-11-16T21:40:07.045Z'
 sourcePath: _posts/2016-11-07-get-a-free-domain-on-us.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-16T21:39:10.415Z'
+dateModified: '2016-11-16T21:40:06.411Z'
 title: Get a free domain on us
 publisher: {}
-description: '{{}}'
+description: '{{ ''$class'': [''use-MonoBasic''] }}'
 starred: false
 _type: Blurb
 
 ---
-{{}}
+{{ '$class': \['use-MonoBasic'\] }}
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/039c7398-0593-44ac-a06f-a0698c9814f0.jpg)
 
 # Get a free domain on us
