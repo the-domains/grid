@@ -4,22 +4,15 @@
         <description><![CDATA[You are building a website. Better yours than Zuck's.]]></description>
         <link>http://thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Nov 2016 00:41:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2016 00:42:19 GMT</lastBuildDate>
         <atom:link href="http://thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Nov 2016 00:41:00 GMT</pubDate>
+        <pubDate>Thu, 17 Nov 2016 00:41:25 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>thegrid.io - &quot;AI&quot; website design. Conceptually feels very next level, an obvious, natural progression just waiting to happen.</blockquote>]]></description>
             <link>https://twitter.com/jasonfried/status/522492212144525312</link>
             <guid isPermaLink="false">94aec276-84c5-463e-b1b2-edc41bde1306</guid>
             <pubDate>Wed, 16 Nov 2016 21:05:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unlimited redesigns]]></title>
-            <description><![CDATA[<article><h1>Unlimited redesigns</h1><h2>Click redesign until Molly learns what you like</h2><p>{{ '$class': ['use-DualBasic'] }}</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef92a1ef-795a-4ae4-b2b2-639bf3f1e719.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=aEfpARsP8Fg</link>
-            <guid isPermaLink="false">f5ec679e-5e48-4bdb-adb1-67a573903724</guid>
-            <pubDate>Wed, 16 Nov 2016 21:43:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -41,6 +34,13 @@
             <link>http://circles.community/</link>
             <guid isPermaLink="false">c9d4fe99-d6fa-48a6-a6be-fcb1242f9e7e</guid>
             <pubDate>Fri, 09 Sep 2016 05:35:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unlimited redesigns]]></title>
+            <description><![CDATA[<article><h1>Unlimited redesigns</h1><h2>Click redesign until Molly learns what you like</h2><p>{{ '$class': ['use-DualBasic'] }}</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef92a1ef-795a-4ae4-b2b2-639bf3f1e719.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=aEfpARsP8Fg</link>
+            <guid isPermaLink="false">f5ec679e-5e48-4bdb-adb1-67a573903724</guid>
+            <pubDate>Thu, 17 Nov 2016 00:41:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
