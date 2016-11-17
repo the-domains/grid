@@ -4,9 +4,9 @@
         <description><![CDATA[You are building a website. Better yours than Zuck's.]]></description>
         <link>http://thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Nov 2016 00:56:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2016 00:56:11 GMT</lastBuildDate>
         <atom:link href="http://thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Nov 2016 00:55:21 GMT</pubDate>
+        <pubDate>Thu, 17 Nov 2016 00:56:10 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>thegrid.io - &quot;AI&quot; website design. Conceptually feels very next level, an obvious, natural progression just waiting to happen.</blockquote>]]></description>
@@ -20,13 +20,6 @@
             <link>http://yellow.community/</link>
             <guid isPermaLink="false">2273ef4e-c0cc-4945-a496-d10c2abcdd8d</guid>
             <pubDate>Thu, 17 Nov 2016 00:55:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid Among Fast Company's Innovation By Design Awards Winners]]></title>
-            <description><![CDATA[<article><h1>The Grid Among Fast Company's Innovation By Design Awards Winners</h1><p>{{ '$class': ['use-DualBasic'] }}</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55abc5f0-b31e-44bb-be54-361701c676f9.jpg"></article>]]></description>
-            <link>https://www.fastcodesign.com/3049915/innovation-by-design/the-2015-innovation-by-design-awards-winners-web-design</link>
-            <guid isPermaLink="false">c223db01-ea55-43af-8d08-5e89ae5e3c41</guid>
-            <pubDate>Thu, 17 Nov 2016 00:55:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Circles Conference]]></title>
@@ -76,6 +69,13 @@
             <link>https://www.youtube.com/watch?v=aEfpARsP8Fg</link>
             <guid isPermaLink="false">f5ec679e-5e48-4bdb-adb1-67a573903724</guid>
             <pubDate>Thu, 17 Nov 2016 00:54:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Grid Among Fast Company's Innovation By Design Awards Winners]]></title>
+            <description><![CDATA[<article><h1>The Grid Among Fast Company's Innovation By Design Awards Winners</h1><p>{{ '$class': ['use-DualBasic'] }}</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55abc5f0-b31e-44bb-be54-361701c676f9.jpg"></article>]]></description>
+            <link>https://www.fastcodesign.com/3049915/innovation-by-design/the-2015-innovation-by-design-awards-winners-web-design</link>
+            <guid isPermaLink="false">c223db01-ea55-43af-8d08-5e89ae5e3c41</guid>
+            <pubDate>Thu, 17 Nov 2016 00:55:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
