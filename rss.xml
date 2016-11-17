@@ -4,15 +4,22 @@
         <description><![CDATA[You are building a website. Better yours than Zuck's.]]></description>
         <link>http://thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Nov 2016 00:55:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2016 00:55:52 GMT</lastBuildDate>
         <atom:link href="http://thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Nov 2016 00:55:14 GMT</pubDate>
+        <pubDate>Thu, 17 Nov 2016 00:55:16 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>thegrid.io - &quot;AI&quot; website design. Conceptually feels very next level, an obvious, natural progression just waiting to happen.</blockquote>]]></description>
             <link>https://twitter.com/jasonfried/status/522492212144525312</link>
             <guid isPermaLink="false">94aec276-84c5-463e-b1b2-edc41bde1306</guid>
             <pubDate>Wed, 16 Nov 2016 21:05:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Yellow Conference]]></title>
+            <description><![CDATA[<article><h1>The Yellow Conference</h1><h2>designed by molly</h2><p>{{ '$class': ['use-DeviceLaptop'] }}</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83358f6a-2e79-4338-8b6f-0cd040c593d8.png"></article>]]></description>
+            <link>http://yellow.community/</link>
+            <guid isPermaLink="false">2273ef4e-c0cc-4945-a496-d10c2abcdd8d</guid>
+            <pubDate>Thu, 17 Nov 2016 00:55:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Grid Among Fast Company's Innovation By Design Awards Winners]]></title>
@@ -69,13 +76,6 @@
             <link>http://thegrid.io/commerce/index.html</link>
             <guid isPermaLink="false">12fcbb71-8d89-481f-98c5-034d30dd94b0</guid>
             <pubDate>Wed, 16 Nov 2016 21:08:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Circles Conference]]></title>
-            <description><![CDATA[<article><h1>Circles Conference</h1><h2>on the grid</h2><p>Crafted experiences for creatives, makers, and adventurers…</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f4e81fc-6cae-45c3-9bc5-9fb84dcacbb2.png"></article>]]></description>
-            <link>http://circles.community/</link>
-            <guid isPermaLink="false">c9d4fe99-d6fa-48a6-a6be-fcb1242f9e7e</guid>
-            <pubDate>Fri, 09 Sep 2016 05:35:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
