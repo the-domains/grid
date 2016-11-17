@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-11-16T21:12:31.213Z'
+datePublished: '2016-11-17T00:44:32.078Z'
 sourcePath: _posts/2016-11-09-in-the-press.md
 inFeed: true
 isBasedOnUrl: >-
   https://www.fastcodesign.com/3049915/innovation-by-design/the-2015-innovation-by-design-awards-winners-web-design
 author: []
 via: {}
-dateModified: '2016-11-16T21:12:30.990Z'
+dateModified: '2016-11-17T00:44:31.448Z'
 title: In The Press
 publisher: {}
 description: '{{ ''$class'': [''use-MultiPress''] }}'
