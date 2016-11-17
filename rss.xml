@@ -6,7 +6,7 @@
         <generator>The Grid</generator>
         <lastBuildDate>Thu, 17 Nov 2016 00:54:58 GMT</lastBuildDate>
         <atom:link href="http://thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Nov 2016 00:53:36 GMT</pubDate>
+        <pubDate>Thu, 17 Nov 2016 00:53:44 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>thegrid.io - &quot;AI&quot; website design. Conceptually feels very next level, an obvious, natural progression just waiting to happen.</blockquote>]]></description>
@@ -20,6 +20,13 @@
             <link>https://twitter.com/CirclesConf/status/773905780881764352</link>
             <guid isPermaLink="false">04c74fc6-6a26-4c5b-b204-831c716f89bb</guid>
             <pubDate>Wed, 16 Nov 2016 22:05:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In The Press]]></title>
+            <description><![CDATA[<article><h1>In The Press</h1><p>{{ '$class': ['use-MultiPress'] }}</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31ce90c8-e02d-4412-8380-41cd7c53ecf5.jpg"></article>]]></description>
+            <link>https://www.fastcodesign.com/3049915/innovation-by-design/the-2015-innovation-by-design-awards-winners-web-design</link>
+            <guid isPermaLink="false">db7cac42-3fc9-422b-87d4-d381a6c6acdc</guid>
+            <pubDate>Thu, 17 Nov 2016 00:53:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Commerce]]></title>
@@ -55,13 +62,6 @@
             <link>https://twitter.com/JonAdaskin/status/712341335253000192</link>
             <guid isPermaLink="false">6eb542e5-3376-4c6f-9819-1f2c48c35d41</guid>
             <pubDate>Thu, 17 Nov 2016 00:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In The Press]]></title>
-            <description><![CDATA[<article><h1>In The Press</h1><p>{{ '$class': ['use-MultiPress'] }}</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31ce90c8-e02d-4412-8380-41cd7c53ecf5.jpg"></article>]]></description>
-            <link>https://www.fastcodesign.com/3049915/innovation-by-design/the-2015-innovation-by-design-awards-winners-web-design</link>
-            <guid isPermaLink="false">db7cac42-3fc9-422b-87d4-d381a6c6acdc</guid>
-            <pubDate>Thu, 17 Nov 2016 00:44:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Circles Conference]]></title>
