@@ -6,20 +6,13 @@
         <generator>The Grid</generator>
         <lastBuildDate>Thu, 17 Nov 2016 00:41:56 GMT</lastBuildDate>
         <atom:link href="http://thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Nov 2016 00:40:54 GMT</pubDate>
+        <pubDate>Thu, 17 Nov 2016 00:41:00 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>thegrid.io - &quot;AI&quot; website design. Conceptually feels very next level, an obvious, natural progression just waiting to happen.</blockquote>]]></description>
             <link>https://twitter.com/jasonfried/status/522492212144525312</link>
             <guid isPermaLink="false">94aec276-84c5-463e-b1b2-edc41bde1306</guid>
             <pubDate>Wed, 16 Nov 2016 21:05:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Changing the World (Wide Web) with Dan Tocchini founder of theGrid.io - Foundr Mag]]></title>
-            <description><![CDATA[<article><h1>Changing the World (Wide Web) with Dan Tocchini founder of theGrid.io - Foundr Mag</h1><p>{{ '$class': ['use-MonoBasic', 'MonoBasic-bg-filtered'] }}</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d31cf67b9b1f79b5787443fd7ad20ac59c0209e4.jpg"></article>]]></description>
-            <link>https://foundrmag.com/fp049-changing-the-world-wide-web-with-dan-tocchini-founder-of-the-grid-io/</link>
-            <guid isPermaLink="false">e66c47eb-3634-44d3-9947-ed35d8af56ce</guid>
-            <pubDate>Wed, 16 Nov 2016 22:49:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Unlimited redesigns]]></title>
@@ -69,6 +62,13 @@
             <link>http://circles.community/</link>
             <guid isPermaLink="false">20231e2c-ac0e-43f7-b23b-04342c1e1509</guid>
             <pubDate>Thu, 17 Nov 2016 00:40:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Changing the World (Wide Web) with Dan Tocchini founder of theGrid.io - Foundr Mag]]></title>
+            <description><![CDATA[<article><h1>Changing the World (Wide Web) with Dan Tocchini founder of theGrid.io - Foundr Mag</h1><p>{{ '$class': ['use-MonoBasic', 'MonoBasic-bg-filtered'] }}</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d31cf67b9b1f79b5787443fd7ad20ac59c0209e4.jpg"></article>]]></description>
+            <link>https://foundrmag.com/fp049-changing-the-world-wide-web-with-dan-tocchini-founder-of-the-grid-io/</link>
+            <guid isPermaLink="false">e66c47eb-3634-44d3-9947-ed35d8af56ce</guid>
+            <pubDate>Thu, 17 Nov 2016 00:40:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fifty-Two Photos]]></title>
