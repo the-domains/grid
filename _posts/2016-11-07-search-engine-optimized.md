@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-17T00:55:08.481Z'
+datePublished: '2016-11-17T00:56:15.905Z'
 sourcePath: _posts/2016-11-07-search-engine-optimized.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-17T00:55:08.098Z'
+dateModified: '2016-11-17T00:56:15.407Z'
 title: Search Engine Optimized
 publisher: {}
 description: '{{ ''$class'': [''use-DualBasic''] }}'
