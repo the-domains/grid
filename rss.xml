@@ -4,9 +4,9 @@
         <description><![CDATA[You are building a website. Better yours than Zuck's.]]></description>
         <link>http://thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Nov 2016 00:44:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2016 00:44:41 GMT</lastBuildDate>
         <atom:link href="http://thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Nov 2016 00:44:32 GMT</pubDate>
+        <pubDate>Thu, 17 Nov 2016 00:44:36 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>thegrid.io - &quot;AI&quot; website design. Conceptually feels very next level, an obvious, natural progression just waiting to happen.</blockquote>]]></description>
@@ -20,6 +20,13 @@
             <link>https://twitter.com/CirclesConf/status/773905780881764352</link>
             <guid isPermaLink="false">04c74fc6-6a26-4c5b-b204-831c716f89bb</guid>
             <pubDate>Wed, 16 Nov 2016 22:05:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Commerce]]></title>
+            <description><![CDATA[<article><h1>Commerce</h1><h2>More social, less complexity, up in seconds, no plugins required</h2><p>{{ '$class': ['use-DualBasic'] }}</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ebeadee-e2b4-4feb-8b7a-dedfa1a4a262.jpg"></article>]]></description>
+            <link>http://thegrid.io/commerce/index.html</link>
+            <guid isPermaLink="false">239ce31e-a4a2-4812-ae6a-065722c7f495</guid>
+            <pubDate>Thu, 17 Nov 2016 00:44:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Commerce]]></title>
@@ -69,13 +76,6 @@
             <link>https://foundrmag.com/fp049-changing-the-world-wide-web-with-dan-tocchini-founder-of-the-grid-io/</link>
             <guid isPermaLink="false">e66c47eb-3634-44d3-9947-ed35d8af56ce</guid>
             <pubDate>Thu, 17 Nov 2016 00:40:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fifty-Two Photos]]></title>
-            <description><![CDATA[<article><h1>Fifty-Two Photos</h1><h2>designed by Molly</h2><p>{{ '$class': ['use-DeviceLaptop'] }}</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8324d081-79fb-4e5e-b118-a2ce55803ded.png"></article>]]></description>
-            <link>http://fiftytwo.photos/</link>
-            <guid isPermaLink="false">bec05459-f9b1-42e2-90f8-bcbe4a354a27</guid>
-            <pubDate>Thu, 17 Nov 2016 00:40:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
