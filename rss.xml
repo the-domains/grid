@@ -4,9 +4,9 @@
         <description><![CDATA[You are building a website. Better yours than Zuck's.]]></description>
         <link>http://thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Nov 2016 22:49:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2016 00:40:26 GMT</lastBuildDate>
         <atom:link href="http://thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Nov 2016 22:49:07 GMT</pubDate>
+        <pubDate>Thu, 17 Nov 2016 00:40:25 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>thegrid.io - &quot;AI&quot; website design. Conceptually feels very next level, an obvious, natural progression just waiting to happen.</blockquote>]]></description>
@@ -34,13 +34,6 @@
             <link>https://twitter.com/CirclesConf/status/773905780881764352</link>
             <guid isPermaLink="false">04c74fc6-6a26-4c5b-b204-831c716f89bb</guid>
             <pubDate>Wed, 16 Nov 2016 22:05:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Circles Conference]]></title>
-            <description><![CDATA[<article><h1>Circles Conference</h1><h2>designed by Molly</h2><p>{{ '$class': ['use-DeviceLaptop'] }}</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f4e81fc-6cae-45c3-9bc5-9fb84dcacbb2.png"></article>]]></description>
-            <link>http://circles.community/</link>
-            <guid isPermaLink="false">20231e2c-ac0e-43f7-b23b-04342c1e1509</guid>
-            <pubDate>Wed, 16 Nov 2016 22:49:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fifty-Two Photos]]></title>
@@ -76,6 +69,13 @@
             <link>https://www.fastcodesign.com/3049915/innovation-by-design/the-2015-innovation-by-design-awards-winners-web-design</link>
             <guid isPermaLink="false">db7cac42-3fc9-422b-87d4-d381a6c6acdc</guid>
             <pubDate>Wed, 16 Nov 2016 21:12:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Circles Conference]]></title>
+            <description><![CDATA[<article><h1>Circles Conference</h1><h2>designed by Molly</h2><p>{{ '$class': ['use-DeviceLaptop'] }}</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f4e81fc-6cae-45c3-9bc5-9fb84dcacbb2.png"></article>]]></description>
+            <link>http://circles.community/</link>
+            <guid isPermaLink="false">20231e2c-ac0e-43f7-b23b-04342c1e1509</guid>
+            <pubDate>Thu, 17 Nov 2016 00:40:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
