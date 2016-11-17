@@ -4,22 +4,15 @@
         <description><![CDATA[You are building a website. Better yours than Zuck's.]]></description>
         <link>http://thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Nov 2016 00:56:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2016 00:56:31 GMT</lastBuildDate>
         <atom:link href="http://thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Nov 2016 00:56:14 GMT</pubDate>
+        <pubDate>Thu, 17 Nov 2016 00:56:18 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>thegrid.io - &quot;AI&quot; website design. Conceptually feels very next level, an obvious, natural progression just waiting to happen.</blockquote>]]></description>
             <link>https://twitter.com/jasonfried/status/522492212144525312</link>
             <guid isPermaLink="false">94aec276-84c5-463e-b1b2-edc41bde1306</guid>
             <pubDate>Wed, 16 Nov 2016 21:05:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Circles Conference]]></title>
-            <description><![CDATA[<article><h1>Circles Conference</h1><h2>designed by Molly</h2><p>{{ '$class': ['use-DeviceLaptop'] }}</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f4e81fc-6cae-45c3-9bc5-9fb84dcacbb2.png"></article>]]></description>
-            <link>http://circles.community/</link>
-            <guid isPermaLink="false">20231e2c-ac0e-43f7-b23b-04342c1e1509</guid>
-            <pubDate>Thu, 17 Nov 2016 00:55:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Changing the World (Wide Web) with Dan Tocchini founder of theGrid.io - Foundr Mag]]></title>
@@ -40,7 +33,7 @@
             <description><![CDATA[<article><h1>In The Press</h1><p>{{ '$class': ['use-MultiPress'] }}</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31ce90c8-e02d-4412-8380-41cd7c53ecf5.jpg"></article>]]></description>
             <link>https://www.fastcodesign.com/3049915/innovation-by-design/the-2015-innovation-by-design-awards-winners-web-design</link>
             <guid isPermaLink="false">db7cac42-3fc9-422b-87d4-d381a6c6acdc</guid>
-            <pubDate>Thu, 17 Nov 2016 00:56:12 GMT</pubDate>
+            <pubDate>Thu, 17 Nov 2016 00:56:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -54,7 +47,7 @@
             <description><![CDATA[<article><h1>Commerce</h1><h2>More social, less complexity, up in seconds, no plugins required</h2><p>{{ '$class': ['use-DualBasic'] }}</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ebeadee-e2b4-4feb-8b7a-dedfa1a4a262.jpg"></article>]]></description>
             <link>http://thegrid.io/commerce/index.html</link>
             <guid isPermaLink="false">239ce31e-a4a2-4812-ae6a-065722c7f495</guid>
-            <pubDate>Thu, 17 Nov 2016 00:56:12 GMT</pubDate>
+            <pubDate>Thu, 17 Nov 2016 00:56:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Unlimited redesigns]]></title>
@@ -68,14 +61,21 @@
             <description><![CDATA[<article><h1>The Yellow Conference</h1><h2>designed by molly</h2><p>{{ '$class': ['use-DeviceLaptop'] }}</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83358f6a-2e79-4338-8b6f-0cd040c593d8.png"></article>]]></description>
             <link>http://yellow.community/</link>
             <guid isPermaLink="false">2273ef4e-c0cc-4945-a496-d10c2abcdd8d</guid>
-            <pubDate>Thu, 17 Nov 2016 00:56:12 GMT</pubDate>
+            <pubDate>Thu, 17 Nov 2016 00:56:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Grid Among Fast Company's Innovation By Design Awards Winners]]></title>
             <description><![CDATA[<article><h1>The Grid Among Fast Company's Innovation By Design Awards Winners</h1><p>{{ '$class': ['use-DualBasic'] }}</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55abc5f0-b31e-44bb-be54-361701c676f9.jpg"></article>]]></description>
             <link>https://www.fastcodesign.com/3049915/innovation-by-design/the-2015-innovation-by-design-awards-winners-web-design</link>
             <guid isPermaLink="false">c223db01-ea55-43af-8d08-5e89ae5e3c41</guid>
-            <pubDate>Thu, 17 Nov 2016 00:55:58 GMT</pubDate>
+            <pubDate>Thu, 17 Nov 2016 00:56:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Circles Conference]]></title>
+            <description><![CDATA[<article><h1>Circles Conference</h1><h2>designed by Molly</h2><p>{{ '$class': ['use-DeviceLaptop'] }}</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f4e81fc-6cae-45c3-9bc5-9fb84dcacbb2.png"></article>]]></description>
+            <link>http://circles.community/</link>
+            <guid isPermaLink="false">20231e2c-ac0e-43f7-b23b-04342c1e1509</guid>
+            <pubDate>Thu, 17 Nov 2016 00:56:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
