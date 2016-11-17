@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-16T21:08:42.672Z'
+datePublished: '2016-11-17T00:44:35.179Z'
 sourcePath: _posts/2016-11-07-multi-user-collaboration.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-16T21:08:42.532Z'
+dateModified: '2016-11-17T00:44:34.676Z'
 title: Multi-user collaboration
 publisher: {}
 description: '{{ ''$class'': [''use-DualBasic''] }}'
