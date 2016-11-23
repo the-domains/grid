@@ -56,8 +56,5 @@ content: []
 description: 'add content, Molly does the rest, you profit'
 purpose:
   - type: external
-    url: 'https://www.youtube.com/watch?v=aEfpARsP8Fg'
-    label: play video
-  - type: external
     url: 'https://plans.thegrid.io/pro/'
     label: join & get a free domain
