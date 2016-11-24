@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-24T02:02:50.035Z'
+datePublished: '2016-11-24T02:02:52.583Z'
 sourcePath: _posts/2016-11-07-smart-phone-meet-smart-site.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-24T02:02:49.209Z'
+dateModified: '2016-11-24T02:02:51.283Z'
 title: 'Smart Phone - Meet, Smart Site'
 publisher: {}
 description: '{{ ''$class'': [''use-DualBasic''] }}'
