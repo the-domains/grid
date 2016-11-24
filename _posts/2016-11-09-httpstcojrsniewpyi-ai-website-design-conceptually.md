@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-24T01:12:49.527Z'
+datePublished: '2016-11-24T02:02:50.036Z'
 sourcePath: _posts/2016-11-09-httpstcojrsniewpyi-ai-website-design-conceptually.md
 inFeed: true
 isBasedOnUrl: 'https://twitter.com/jasonfried/status/522492212144525312'
@@ -42,7 +42,7 @@ author:
           - 123
           - 140
 via: {}
-dateModified: '2016-11-24T01:01:22.962Z'
+dateModified: '2016-11-24T02:02:49.209Z'
 title: ''
 app_links:
   - path: >-
