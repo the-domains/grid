@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-24T02:03:12.901Z'
+datePublished: '2016-11-24T02:04:51.384Z'
 sourcePath: _posts/2016-08-30-yellow-conference.md
 inFeed: true
 isBasedOnUrl: 'http://yellow.community/'
 author: []
 via: {}
-dateModified: '2016-11-24T02:03:12.265Z'
+dateModified: '2016-11-24T02:04:50.511Z'
 title: The Yellow Conference
 id: cdc05dfa-27c3-485b-813a-7253da1bc404
 publisher: {}
