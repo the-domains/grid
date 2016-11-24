@@ -4,9 +4,9 @@
         <description><![CDATA[You are building a website. Better yours than Zuck's.]]></description>
         <link>http://thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Nov 2016 02:09:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2016 02:09:50 GMT</lastBuildDate>
         <atom:link href="http://thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 24 Nov 2016 02:08:44 GMT</pubDate>
+        <pubDate>Thu, 24 Nov 2016 02:08:52 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>Been a founder member of @thegrid for ages! Only powered it up today. 1 hour in, I&apos;m having a blast, loving what it&apos;s coming up with. &#x1F600;</blockquote>]]></description>
@@ -43,13 +43,6 @@
             <pubDate>Thu, 24 Nov 2016 02:08:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[In The Press]]></title>
-            <description><![CDATA[<article><h1>In The Press</h1><p>{{ '$class': ['use-MultiPress'] }}</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31ce90c8-e02d-4412-8380-41cd7c53ecf5.jpg"></article>]]></description>
-            <link>https://www.fastcodesign.com/3049915/innovation-by-design/the-2015-innovation-by-design-awards-winners-web-design</link>
-            <guid isPermaLink="false">db7cac42-3fc9-422b-87d4-d381a6c6acdc</guid>
-            <pubDate>Thu, 24 Nov 2016 02:08:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Grid Among Fast Company's Innovation By Design Awards Winners]]></title>
             <description><![CDATA[<article><h1>The Grid Among Fast Company's Innovation By Design Awards Winners</h1><p>{{ '$class': ['use-DualBasic'] }}</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55abc5f0-b31e-44bb-be54-361701c676f9.jpg"></article>]]></description>
             <link>https://www.fastcodesign.com/3049915/innovation-by-design/the-2015-innovation-by-design-awards-winners-web-design</link>
@@ -64,18 +57,25 @@
             <pubDate>Thu, 24 Nov 2016 02:08:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Circles Conference]]></title>
-            <description><![CDATA[<article><h1>Circles Conference</h1><h2>designed by Molly</h2><p>{{ '$class': ['use-DeviceLaptop'] }}</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f4e81fc-6cae-45c3-9bc5-9fb84dcacbb2.png"></article>]]></description>
-            <link>http://circles.community/</link>
-            <guid isPermaLink="false">20231e2c-ac0e-43f7-b23b-04342c1e1509</guid>
-            <pubDate>Thu, 24 Nov 2016 02:08:41 GMT</pubDate>
+            <title><![CDATA[In The Press]]></title>
+            <description><![CDATA[<article><h1>In The Press</h1><p>{{ '$class': ['use-MultiPress'] }}</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31ce90c8-e02d-4412-8380-41cd7c53ecf5.jpg"></article>]]></description>
+            <link>https://www.fastcodesign.com/3049915/innovation-by-design/the-2015-innovation-by-design-awards-winners-web-design</link>
+            <guid isPermaLink="false">db7cac42-3fc9-422b-87d4-d381a6c6acdc</guid>
+            <pubDate>Thu, 24 Nov 2016 02:08:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>Checkout Molly, the AI robot from @thegrid, who is live-building our community website! Mind. Freakin&apos; Blown. https://t.co/YaXwoNUjcU</blockquote>]]></description>
             <link>https://twitter.com/CirclesConf/status/773905780881764352</link>
             <guid isPermaLink="false">04c74fc6-6a26-4c5b-b204-831c716f89bb</guid>
-            <pubDate>Thu, 24 Nov 2016 02:08:41 GMT</pubDate>
+            <pubDate>Thu, 24 Nov 2016 02:08:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Commerce]]></title>
+            <description><![CDATA[<article><h1>Commerce</h1><h2>More social, less complexity, up in seconds, no plugins required</h2><p>{{ '$class': ['use-DualBasic'] }}</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ebeadee-e2b4-4feb-8b7a-dedfa1a4a262.jpg"></article>]]></description>
+            <link>http://thegrid.io/commerce/index.html</link>
+            <guid isPermaLink="false">239ce31e-a4a2-4812-ae6a-065722c7f495</guid>
+            <pubDate>Thu, 24 Nov 2016 02:08:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
