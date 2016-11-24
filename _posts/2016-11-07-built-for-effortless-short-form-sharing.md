@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-24T02:05:04.421Z'
+datePublished: '2016-11-24T02:10:20.903Z'
 sourcePath: _posts/2016-11-07-built-for-effortless-short-form-sharing.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-24T02:04:50.511Z'
+dateModified: '2016-11-24T02:09:10.805Z'
 title: Built for effortless sharing
 publisher: {}
 description: '{{ ''$class'': [''use-DualBasic''] }}'
