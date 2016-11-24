@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-24T02:07:59.390Z'
+datePublished: '2016-11-24T02:08:06.651Z'
 sourcePath: _posts/2016-11-07-unlimited-redesigns.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=aEfpARsP8Fg'
 author: []
 via: {}
-dateModified: '2016-11-24T02:07:58.589Z'
+dateModified: '2016-11-24T02:08:05.890Z'
 title: Unlimited redesigns
 publisher: {}
 description: '{{ ''$class'': [''use-DualBasic''] }}'
