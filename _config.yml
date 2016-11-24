@@ -58,3 +58,6 @@ purpose:
   - type: external
     url: 'https://plans.thegrid.io/pro/'
     label: join & get a free domain
+  - type: external
+    url: 'https://www.youtube.com/embed/aEfpARsP8Fg?rel=0'
+    label: play video
