@@ -53,8 +53,8 @@ app_links:
     namespace: google
     package: com.twitter.android
 isBasedOnUrl: 'https://twitter.com/CirclesConf/status/773905780881764352'
-datePublished: '2016-11-24T02:15:27.163Z'
-dateModified: '2016-11-24T02:15:26.438Z'
+datePublished: '2016-11-24T02:15:46.217Z'
+dateModified: '2016-11-24T02:15:45.164Z'
 title: ''
 via: {}
 inFeed: true
