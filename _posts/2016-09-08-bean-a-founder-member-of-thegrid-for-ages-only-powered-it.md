@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-24T02:03:21.701Z'
+datePublished: '2016-11-24T02:03:26.391Z'
 sourcePath: _posts/2016-09-08-bean-a-founder-member-of-thegrid-for-ages-only-powered-it.md
 inFeed: true
 isBasedOnUrl: 'https://twitter.com/Tidiain/status/774028774115463168'
@@ -42,7 +42,7 @@ author:
           - 0
           - 10
 via: {}
-dateModified: '2016-11-24T02:03:20.877Z'
+dateModified: '2016-11-24T02:03:24.658Z'
 title: ''
 app_links:
   - path: >-
