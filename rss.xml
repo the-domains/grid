@@ -6,7 +6,7 @@
         <generator>The Grid</generator>
         <lastBuildDate>Thu, 24 Nov 2016 02:11:47 GMT</lastBuildDate>
         <atom:link href="http://thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 24 Nov 2016 02:10:33 GMT</pubDate>
+        <pubDate>Thu, 24 Nov 2016 02:10:31 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>Been a founder member of @thegrid for ages! Only powered it up today. 1 hour in, I&apos;m having a blast, loving what it&apos;s coming up with. &#x1F600;</blockquote>]]></description>
@@ -71,11 +71,11 @@
             <pubDate>Thu, 24 Nov 2016 02:10:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Changing the World (Wide Web) with Dan Tocchini founder of theGrid.io - Foundr Mag]]></title>
-            <description><![CDATA[<article><h1>Changing the World (Wide Web) with Dan Tocchini founder of theGrid.io - Foundr Mag</h1><p>{{ '$class': ['use-MonoBasic', 'MonoBasic-bg-filtered'] }}</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d31cf67b9b1f79b5787443fd7ad20ac59c0209e4.jpg"></article>]]></description>
-            <link>https://foundrmag.com/fp049-changing-the-world-wide-web-with-dan-tocchini-founder-of-the-grid-io/</link>
-            <guid isPermaLink="false">e66c47eb-3634-44d3-9947-ed35d8af56ce</guid>
-            <pubDate>Thu, 24 Nov 2016 02:10:30 GMT</pubDate>
+            <title><![CDATA[Unlimited redesigns]]></title>
+            <description><![CDATA[<article><h1>Unlimited redesigns</h1><h2>Click redesign until Molly learns what you like</h2><p>{{ '$class': ['use-DualBasic'] }}</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef92a1ef-795a-4ae4-b2b2-639bf3f1e719.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=aEfpARsP8Fg</link>
+            <guid isPermaLink="false">f5ec679e-5e48-4bdb-adb1-67a573903724</guid>
+            <pubDate>Thu, 24 Nov 2016 02:09:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
