@@ -4,9 +4,9 @@
         <description><![CDATA[You are building a website. Better yours than Zuck's.]]></description>
         <link>http://thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Nov 2016 02:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2016 02:11:55 GMT</lastBuildDate>
         <atom:link href="http://thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 24 Nov 2016 02:10:37 GMT</pubDate>
+        <pubDate>Thu, 24 Nov 2016 02:10:38 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>Been a founder member of @thegrid for ages! Only powered it up today. 1 hour in, I&apos;m having a blast, loving what it&apos;s coming up with. &#x1F600;</blockquote>]]></description>
@@ -50,18 +50,18 @@
             <pubDate>Thu, 24 Nov 2016 02:09:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<blockquote>Checkout Molly, the AI robot from @thegrid, who is live-building our community website! Mind. Freakin&apos; Blown. https://t.co/YaXwoNUjcU</blockquote>]]></description>
-            <link>https://twitter.com/CirclesConf/status/773905780881764352</link>
-            <guid isPermaLink="false">04c74fc6-6a26-4c5b-b204-831c716f89bb</guid>
-            <pubDate>Thu, 24 Nov 2016 02:09:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Yellow Conference]]></title>
             <description><![CDATA[<article><h1>The Yellow Conference</h1><h2>designed by molly</h2><p>{{ '$class': ['use-DeviceLaptop'] }}</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83358f6a-2e79-4338-8b6f-0cd040c593d8.png"></article>]]></description>
             <link>http://yellow.community/</link>
             <guid isPermaLink="false">2273ef4e-c0cc-4945-a496-d10c2abcdd8d</guid>
             <pubDate>Thu, 24 Nov 2016 02:10:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>Checkout Molly, the AI robot from @thegrid, who is live-building our community website! Mind. Freakin&apos; Blown. https://t.co/YaXwoNUjcU</blockquote>]]></description>
+            <link>https://twitter.com/CirclesConf/status/773905780881764352</link>
+            <guid isPermaLink="false">04c74fc6-6a26-4c5b-b204-831c716f89bb</guid>
+            <pubDate>Thu, 24 Nov 2016 02:10:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
