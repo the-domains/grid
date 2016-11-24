@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-24T02:08:35.314Z'
+datePublished: '2016-11-24T02:08:41.841Z'
 sourcePath: _posts/2016-11-07-responsive-meh.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-24T02:08:34.503Z'
+dateModified: '2016-11-24T02:08:41.170Z'
 title: Responsive? Meh.
 publisher: {}
 description: '{{ ''$class'': [''use-DualBasic''] }}'
