@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-24T02:02:54.196Z'
+datePublished: '2016-11-24T02:03:12.917Z'
 sourcePath: _posts/2016-11-07-call-to-actions.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-24T02:02:53.628Z'
+dateModified: '2016-11-24T02:03:12.265Z'
 title: Call-to-actions
 publisher: {}
 description: '{{ ''$class'': [''use-DualBasic''] }}'
