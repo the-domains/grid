@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-24T02:18:02.105Z'
+datePublished: '2017-01-18T23:54:59.550Z'
 sourcePath: _posts/2016-09-07-hello-world.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-24T02:18:01.230Z'
+dateModified: '2017-01-18T23:54:54.527Z'
 title: Meet Molly.
 publisher: {}
 description: >-
@@ -13,6 +13,7 @@ description: >-
   'https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/Loop.1440x810.high.mp4'}]}
   }}
 starred: false
+datePublishedOriginal: '2016-11-24T02:18:02.105Z'
 _type: Blurb
 
 ---
