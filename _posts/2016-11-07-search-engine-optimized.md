@@ -1,14 +1,15 @@
 ---
-datePublished: '2016-11-24T02:19:04.776Z'
+datePublished: '2017-01-18T23:57:06.164Z'
 sourcePath: _posts/2016-11-07-search-engine-optimized.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-24T02:19:04.186Z'
+dateModified: '2017-01-18T23:56:40.622Z'
 title: Search Engine Optimized
 publisher: {}
 description: '{{ ''$class'': [''use-DualBasic''] }}'
 starred: false
+datePublishedOriginal: '2016-11-24T02:19:04.776Z'
 _type: Blurb
 
 ---
