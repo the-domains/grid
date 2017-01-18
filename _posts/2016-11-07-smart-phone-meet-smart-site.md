@@ -1,14 +1,15 @@
 ---
-datePublished: '2016-11-24T02:18:02.121Z'
+datePublished: '2017-01-18T23:55:52.393Z'
 sourcePath: _posts/2016-11-07-smart-phone-meet-smart-site.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-24T02:18:01.230Z'
+dateModified: '2017-01-18T23:55:32.643Z'
 title: 'Smart Phone - Meet, Smart Site'
 publisher: {}
 description: '{{ ''$class'': [''use-DualBasic''] }}'
 starred: false
+datePublishedOriginal: '2016-11-24T02:18:02.121Z'
 _type: Blurb
 
 ---
