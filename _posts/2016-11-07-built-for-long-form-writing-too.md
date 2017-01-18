@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-24T02:18:02.121Z'
+datePublished: '2017-01-18T23:55:01.884Z'
 sourcePath: _posts/2016-11-07-built-for-long-form-writing-too.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-24T02:18:01.230Z'
+dateModified: '2017-01-18T23:54:54.527Z'
 title: Built for serious writing
 publisher: {}
 description: >-
@@ -13,6 +13,7 @@ description: >-
   'https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/long-form-device.1440x900.med.mp4'}]}
   }}
 starred: false
+datePublishedOriginal: '2016-11-24T02:18:02.121Z'
 _type: Blurb
 
 ---
