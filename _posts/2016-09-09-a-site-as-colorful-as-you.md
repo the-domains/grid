@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-24T02:18:37.225Z'
+datePublished: '2017-01-20T14:23:01.396Z'
 sourcePath: _posts/2016-09-09-a-site-as-colorful-as-you.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-24T02:18:36.581Z'
+dateModified: '2017-01-18T23:57:07.540Z'
 title: As Colorful As You
 publisher: {}
 description: >-
@@ -13,6 +13,7 @@ description: >-
   'https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/feature_color.720x450.mp4'}]}
   }}
 starred: false
+datePublishedOriginal: '2016-11-24T02:18:37.225Z'
 _type: Blurb
 
 ---
