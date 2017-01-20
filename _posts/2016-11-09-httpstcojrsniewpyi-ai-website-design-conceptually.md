@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-24T02:18:02.142Z'
+datePublished: '2017-01-20T14:23:02.235Z'
 sourcePath: _posts/2016-11-09-httpstcojrsniewpyi-ai-website-design-conceptually.md
 inFeed: true
 isBasedOnUrl: 'https://twitter.com/jasonfried/status/522492212144525312'
@@ -42,7 +42,7 @@ author:
           - 123
           - 140
 via: {}
-dateModified: '2016-11-24T02:18:01.230Z'
+dateModified: '2017-01-18T23:57:07.540Z'
 title: ''
 app_links:
   - path: >-
@@ -60,6 +60,7 @@ description: >-
   obvious, natural progression just waiting to happen.
 inLanguage: en
 starred: false
+datePublishedOriginal: '2016-11-24T02:18:02.142Z'
 _context: 'http://schema.org'
 _type: Comment
 
