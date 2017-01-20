@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-24T02:19:04.781Z'
+datePublished: '2017-01-20T14:22:59.405Z'
 sourcePath: _posts/2016-09-08-bean-a-founder-member-of-thegrid-for-ages-only-powered-it.md
 inFeed: true
 isBasedOnUrl: 'https://twitter.com/Tidiain/status/774028774115463168'
@@ -42,7 +42,7 @@ author:
           - 0
           - 10
 via: {}
-dateModified: '2016-11-24T02:19:04.186Z'
+dateModified: '2017-01-18T23:57:07.540Z'
 title: ''
 app_links:
   - path: >-
@@ -54,6 +54,7 @@ publisher: {}
 description: "Been a founder member of @thegrid for ages! Only powered it up today. 1 hour in, I'm having a blast, loving what it's coming up with. \uD83D\uDE00"
 inLanguage: en
 starred: false
+datePublishedOriginal: '2016-11-24T02:19:04.781Z'
 _context: 'http://schema.org'
 _type: Comment
 
