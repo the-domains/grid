@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-20T14:23:35.120Z'
+datePublished: '2017-01-20T14:24:06.454Z'
 sourcePath: _posts/2016-09-07-the-2015-innovation-by-design-awards-winners-web-design.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2017-01-20T14:23:26.712Z'
+dateModified: '2017-01-20T14:24:04.647Z'
 title: The Grid Among Fast Company's Innovation By Design Awards Winners
 app_links: []
 publisher:
