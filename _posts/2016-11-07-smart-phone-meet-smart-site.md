@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-02-07T04:01:37.477Z'
+datePublished: '2017-02-11T20:30:19.118Z'
 sourcePath: _posts/2016-11-07-smart-phone-meet-smart-site.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-02-07T04:01:36.221Z'
+dateModified: '2017-02-11T20:30:18.639Z'
 title: 'Smart Phone - Meet, Smart Site'
 publisher: {}
 description: '{{ ''$class'': [''use-DualBasic''] }}'
@@ -18,7 +18,7 @@ _type: Blurb
 
 # Smart Phone - Meet, Smart Site
 
-What's possible when Molly does all the hard work? You can get things done, even on the go. Drag-n-drop builders don't play nice with fingers on phones, but she works anywhere.
+What's possible when Molly does all the hard work? You can get things done, even on the go. Drag-n-drop builders don't play nice with fingers on phones, but she works anywhere
 [Android App][0]
 [iOS App (coming soon)][1]
 
