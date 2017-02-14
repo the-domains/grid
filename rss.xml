@@ -4,9 +4,9 @@
         <description><![CDATA[You are building a website. Better yours than Zuck's.]]></description>
         <link>http://thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Feb 2017 01:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2017 01:24:07 GMT</lastBuildDate>
         <atom:link href="http://thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Feb 2017 01:23:38 GMT</pubDate>
+        <pubDate>Tue, 14 Feb 2017 01:24:03 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>thegrid.io - &quot;AI&quot; website design. Conceptually feels very next level, an obvious, natural progression just waiting to happen.</blockquote>]]></description>
@@ -62,13 +62,6 @@
             <link>https://twitter.com/JonAdaskin/status/712341335253000192</link>
             <guid isPermaLink="false">6eb542e5-3376-4c6f-9819-1f2c48c35d41</guid>
             <pubDate>Thu, 24 Nov 2016 02:18:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Yellow Conference]]></title>
-            <description><![CDATA[<p>{{ '$class': ['use-DeviceLaptop'] }}</p>,<h3><em>designed by molly</em></h3>,<h1><a href="http://yellow.community/" title="The Yellow Conference">The Yellow Conference</a></h1>,<p><a href="http://yellow.community/" title="yellow.community">yellow.community</a></p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83358f6a-2e79-4338-8b6f-0cd040c593d8.png">]]></description>
-            <link>http://yellow.community/</link>
-            <guid isPermaLink="false">2273ef4e-c0cc-4945-a496-d10c2abcdd8d</guid>
-            <pubDate>Thu, 24 Nov 2016 02:19:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
