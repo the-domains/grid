@@ -4,9 +4,9 @@
         <description><![CDATA[You are building a website. Better yours than Zuck's.]]></description>
         <link>http://thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Feb 2017 01:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2017 01:26:06 GMT</lastBuildDate>
         <atom:link href="http://thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Feb 2017 01:25:43 GMT</pubDate>
+        <pubDate>Tue, 14 Feb 2017 01:25:44 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>thegrid.io - &quot;AI&quot; website design. Conceptually feels very next level, an obvious, natural progression just waiting to happen.</blockquote>]]></description>
@@ -43,18 +43,18 @@
             <pubDate>Thu, 24 Nov 2016 02:18:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<blockquote>Checkout Molly, the AI robot from @thegrid, who is live-building our community website! Mind. Freakin&apos; Blown. https://t.co/YaXwoNUjcU</blockquote>]]></description>
-            <link>https://twitter.com/CirclesConf/status/773905780881764352</link>
-            <guid isPermaLink="false">04c74fc6-6a26-4c5b-b204-831c716f89bb</guid>
-            <pubDate>Thu, 24 Nov 2016 02:18:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Commerce]]></title>
             <description><![CDATA[<p>{{ '$class': ['use-DualBasic'] }}</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ebeadee-e2b4-4feb-8b7a-dedfa1a4a262.jpg">,<h1>Commerce</h1>,<h2>More social, less complexity, up in seconds, no plugins required</h2>,<p>The Internet is more than a social game, it is the culmination of this electric information age. It's shape dwarfs all industry.</p>,<p>The tools we build to profit will be the same tools you enjoy. Currently, commerce functionality is under limited availability and rolling out generally 2017.</p>]]></description>
             <link>http://thegrid.io/commerce/index.html</link>
             <guid isPermaLink="false">12fcbb71-8d89-481f-98c5-034d30dd94b0</guid>
             <pubDate>Fri, 20 Jan 2017 14:23:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>Checkout Molly, the AI robot from @thegrid, who is live-building our community website! Mind. Freakin&apos; Blown. https://t.co/YaXwoNUjcU</blockquote>]]></description>
+            <link>https://twitter.com/CirclesConf/status/773905780881764352</link>
+            <guid isPermaLink="false">04c74fc6-6a26-4c5b-b204-831c716f89bb</guid>
+            <pubDate>Thu, 24 Nov 2016 02:18:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
