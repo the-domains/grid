@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-02-07T04:01:38.972Z'
+datePublished: '2017-02-14T01:25:37.143Z'
 sourcePath: _posts/2016-09-09-a-site-as-colorful-as-you.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-02-07T04:01:36.221Z'
+dateModified: '2017-02-14T01:25:35.118Z'
 title: As Colorful As You
 publisher: {}
 description: >-
