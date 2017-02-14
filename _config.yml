@@ -53,7 +53,7 @@ collections:
       path: '/:title/'
 title: You are building a website. Better yours than Zuck's.
 content: []
-description: 'add content, Molly does the rest, you profit'
+description: 'just add content, it designs itself, it''s your piece of a new kind of internet'
 purpose:
   - type: external
     url: 'https://plans.thegrid.io/pro/'
