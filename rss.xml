@@ -4,9 +4,9 @@
         <description><![CDATA[You are building a website. Better yours than Zuck's.]]></description>
         <link>http://thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Feb 2017 01:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2017 01:25:55 GMT</lastBuildDate>
         <atom:link href="http://thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Feb 2017 01:25:40 GMT</pubDate>
+        <pubDate>Tue, 14 Feb 2017 01:25:41 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>thegrid.io - &quot;AI&quot; website design. Conceptually feels very next level, an obvious, natural progression just waiting to happen.</blockquote>]]></description>
@@ -22,18 +22,18 @@
             <pubDate>Thu, 24 Nov 2016 02:19:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Grid Among Fast Company's Innovation By Design Awards Winners]]></title>
-            <description><![CDATA[<p>{{ '$class': ['use-DualBasic'] }}</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55abc5f0-b31e-44bb-be54-361701c676f9.jpg" title="The Grid Among Fast Company&apos;s Innovation By Design Awards Winners">]]></description>
-            <link>https://www.fastcodesign.com/3049915/innovation-by-design/the-2015-innovation-by-design-awards-winners-web-design</link>
-            <guid isPermaLink="false">c223db01-ea55-43af-8d08-5e89ae5e3c41</guid>
-            <pubDate>Fri, 20 Jan 2017 14:23:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[In The Press]]></title>
             <description><![CDATA[<p>{{ '$class': ['use-MultiPress'] }}</p>,<h1>In The Press</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31ce90c8-e02d-4412-8380-41cd7c53ecf5.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbba4e94-cb48-4368-83ff-63bf68681dd3.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4823234-b5cb-42c2-a86d-4375909b1350.jpg">]]></description>
             <link>https://www.fastcodesign.com/3049915/innovation-by-design/the-2015-innovation-by-design-awards-winners-web-design</link>
             <guid isPermaLink="false">db7cac42-3fc9-422b-87d4-d381a6c6acdc</guid>
             <pubDate>Thu, 24 Nov 2016 02:19:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Grid Among Fast Company's Innovation By Design Awards Winners]]></title>
+            <description><![CDATA[<p>{{ '$class': ['use-DualBasic'] }}</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55abc5f0-b31e-44bb-be54-361701c676f9.jpg" title="The Grid Among Fast Company&apos;s Innovation By Design Awards Winners">]]></description>
+            <link>https://www.fastcodesign.com/3049915/innovation-by-design/the-2015-innovation-by-design-awards-winners-web-design</link>
+            <guid isPermaLink="false">c223db01-ea55-43af-8d08-5e89ae5e3c41</guid>
+            <pubDate>Fri, 20 Jan 2017 14:23:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Changing the World (Wide Web) with Dan Tocchini founder of theGrid.io - Foundr Mag]]></title>
