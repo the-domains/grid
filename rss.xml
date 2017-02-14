@@ -4,9 +4,9 @@
         <description><![CDATA[welcome doers & creators, this medium adapts to your message]]></description>
         <link>http://thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Feb 2017 01:50:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2017 02:05:25 GMT</lastBuildDate>
         <atom:link href="http://thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Feb 2017 01:50:43 GMT</pubDate>
+        <pubDate>Tue, 14 Feb 2017 02:05:13 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>thegrid.io - &quot;AI&quot; website design. Conceptually feels very next level, an obvious, natural progression just waiting to happen.</blockquote>]]></description>
@@ -62,6 +62,13 @@
             <link>https://twitter.com/JonAdaskin/status/712341335253000192</link>
             <guid isPermaLink="false">6eb542e5-3376-4c6f-9819-1f2c48c35d41</guid>
             <pubDate>Thu, 24 Nov 2016 02:18:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unlimited redesigns]]></title>
+            <description><![CDATA[<p>{{ '$class': ['use-DualBasic'] }}</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef92a1ef-795a-4ae4-b2b2-639bf3f1e719.jpg">,<h1>Unlimited redesigns</h1>,<h2>Click <em><strong>redesign</strong></em> until Molly learns what you like</h2>,<p>Design is hard, even with the best tools. Molly takes this burden but she needs help. Don’t like something? Tell her the colors are no bueno but you love the layout. She’s not an inanimate drag-n-drop builder, help her help you &amp; the more redesigns the better.</p>,<a href="https://plans.thegrid.io/" data-role="cta">Get started with Molly</a>]]></description>
+            <link>https://www.youtube.com/watch?v=aEfpARsP8Fg</link>
+            <guid isPermaLink="false">f5ec679e-5e48-4bdb-adb1-67a573903724</guid>
+            <pubDate>Tue, 14 Feb 2017 02:05:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
