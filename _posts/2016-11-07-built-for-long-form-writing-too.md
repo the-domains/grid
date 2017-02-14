@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-02-07T04:01:39.837Z'
+datePublished: '2017-02-14T01:25:39.964Z'
 sourcePath: _posts/2016-11-07-built-for-long-form-writing-too.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-02-07T04:01:36.221Z'
+dateModified: '2017-02-14T01:25:35.118Z'
 title: Built for serious writing
 publisher: {}
 description: >-
