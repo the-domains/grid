@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-02-07T04:01:39.030Z'
+datePublished: '2017-02-14T01:25:36.997Z'
 sourcePath: _posts/2016-11-07-smart-cropping-via-face-and-focal-point-detection.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-02-07T04:01:36.221Z'
+dateModified: '2017-02-14T01:25:35.118Z'
 title: Smart cropping with face & focal point detection
 publisher: {}
 description: >-
