@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-03-01T16:29:10.158Z'
+datePublished: '2017-04-02T10:45:48.963Z'
 sourcePath: _posts/2016-11-07-built-for-long-form-writing-too.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-03-01T16:29:09.694Z'
+dateModified: '2017-04-02T10:45:48.394Z'
 title: Built for serious writing
 publisher: {}
 description: >-
@@ -26,4 +26,4 @@ _type: Blurb
 An epic blog post may not be an everyday thing, but it is a staple of the authentic Internet and an important ritual to express the nuanced & the deep.
 [Power your content on the Grid][0]
 
-[0]: https://cbchouinard.github.io/plansproxy/
+[0]: %20https:/plan.thegrid.io/?plan=pro
