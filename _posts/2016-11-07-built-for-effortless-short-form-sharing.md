@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-03-01T16:27:30.446Z'
+datePublished: '2017-04-02T10:42:52.188Z'
 sourcePath: _posts/2016-11-07-built-for-effortless-short-form-sharing.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-03-01T16:27:29.816Z'
+dateModified: '2017-04-02T10:42:51.528Z'
 title: Built for effortless sharing
 publisher: {}
 description: '{{ ''$class'': [''use-DualBasic''] }}'
@@ -22,6 +22,6 @@ _type: Blurb
 A snapshot of a special moment, a link from Instagram, Twitter, Youtube, Google Maps or NYTimes; throw it in and let Molly do the rest.
 
 {{ 'video': {'autoplay': true, 'loop': true, 'muted': true, 'source': \[{'type': 'video/mp4', 'src': 'https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/short-form.square.720x720.med.mp4'}\]} }}
-[Try it free][0]
+[Start sharing now][0]
 
-[0]: https://cbchouinard.github.io/plansproxy/
+[0]: https://plan.thegrid.io/?plan=pro
