@@ -56,8 +56,8 @@ content: []
 description: 'just add content, it designs itself, it''s your piece of a new kind of internet'
 purpose:
   - type: external
-    url: 'https://cbchouinard.github.io/plansproxy/'
-    label: start free trial
+    url: 'https://plans.thegrid.io/'
+    label: join now
   - type: external
     url: 'https://www.youtube.com/embed/aEfpARsP8Fg?rel=0'
     label: play video
