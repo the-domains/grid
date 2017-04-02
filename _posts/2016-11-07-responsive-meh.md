@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-04-02T10:44:57.596Z'
+datePublished: '2017-04-02T10:54:17.335Z'
 sourcePath: _posts/2016-11-07-responsive-meh.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-04-02T10:44:56.976Z'
+dateModified: '2017-04-02T10:54:16.674Z'
 title: Responsive? Meh.
 publisher: {}
 description: '{{ ''$class'': [''use-DualBasic''] }}'
@@ -24,4 +24,4 @@ Of course your site will look good on any device, that's the easy part. This med
 {{ 'video': {'autoplay': true, 'loop': true, 'muted': true, 'source': \[{'type': 'video/mp4', 'src': '//s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/loop-responsive+square.mp4'}\]} }}
 [Get mobile ready now][0]
 
-[0]: https://plan.thegrid.io/?plan=pro
+[0]: https://plans.thegrid.io/?plan=pro
