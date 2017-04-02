@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-04-02T11:49:55.781Z'
+datePublished: '2017-04-02T11:50:44.042Z'
 sourcePath: _posts/2016-11-07-search-engine-optimized.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-04-02T11:49:54.963Z'
+dateModified: '2017-04-02T11:50:43.159Z'
 title: Search Engine Optimized
 publisher: {}
 description: '{{ ''$class'': [''use-DualBasic''] }}'
@@ -18,6 +18,6 @@ _type: Blurb
 
 # Search Engine Optimized
 
-## Built for the machine by a designer-in-the-machine
+## Built for the machines by a designer-in-the-machine
 
 In less than a week, Molly helped us top \#1 on Google for "the grid". She knows what she's doing.
