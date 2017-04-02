@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-04-02T11:06:03.502Z'
+datePublished: '2017-04-02T11:07:47.021Z'
 sourcePath: _posts/2016-11-07-get-a-free-domain-on-us.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-04-02T11:06:02.972Z'
-title: Lift-off your 30 day trial with free domain name registrations
+dateModified: '2017-04-02T11:07:46.630Z'
+title: Lift-off your 30 day trial with free domain name registration
 publisher: {}
 description: '{{ ''$class'': [''use-MonoBasic''] }}'
 starred: false
@@ -16,7 +16,7 @@ _type: Blurb
 {{ '$class': \['use-MonoBasic'\] }}
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/039c7398-0593-44ac-a06f-a0698c9814f0.jpg)
 
-# Lift-off your 30 day trial with free domain name registrations
+# Lift-off your 30 day trial with free domain name registration
 
 ## No credit card required
 
