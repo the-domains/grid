@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-04-02T11:01:24.656Z'
+datePublished: '2017-04-02T11:02:38.808Z'
 sourcePath: _posts/2016-09-07-hello-world.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-04-02T11:01:23.988Z'
+dateModified: '2017-04-02T11:02:38.137Z'
 title: Meet Molly.
 publisher: {}
 description: >-
@@ -34,4 +34,4 @@ She's quirky, but will never ghost you, never charge more, never miss a deadline
 Looking back 3 months from now she will have searched through more design decisions than stars in our galaxy. Couple years from now and... You'll just have to find out.
 [Sign up now][0]
 
-[0]: https://plans.thegrid.io/?plan=pro
+[0]: https://plans.thegrid.io/
