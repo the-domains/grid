@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-04-02T10:42:52.188Z'
+datePublished: '2017-04-02T10:53:32.256Z'
 sourcePath: _posts/2016-11-07-built-for-effortless-short-form-sharing.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-04-02T10:42:51.528Z'
+dateModified: '2017-04-02T10:53:31.666Z'
 title: Built for effortless sharing
 publisher: {}
 description: '{{ ''$class'': [''use-DualBasic''] }}'
@@ -24,4 +24,4 @@ A snapshot of a special moment, a link from Instagram, Twitter, Youtube, Google 
 {{ 'video': {'autoplay': true, 'loop': true, 'muted': true, 'source': \[{'type': 'video/mp4', 'src': 'https://s3-us-west-2.amazonaws.com/cdn.thegrid.io/assets/short-form.square.720x720.med.mp4'}\]} }}
 [Start sharing now][0]
 
-[0]: https://plan.thegrid.io/?plan=pro
+[0]: https://plans.thegrid.io/?plan=pro
