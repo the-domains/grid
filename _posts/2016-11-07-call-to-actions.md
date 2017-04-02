@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-04-02T10:46:50.542Z'
+datePublished: '2017-04-02T10:58:01.876Z'
 sourcePath: _posts/2016-11-07-call-to-actions.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-04-02T10:46:49.775Z'
+dateModified: '2017-04-02T10:58:01.279Z'
 title: Call-to-actions
 publisher: {}
 description: '{{ ''$class'': [''use-DualBasic''] }}'
@@ -23,4 +23,4 @@ _type: Blurb
 Call-to-actions are buttons to get people to sign up, buy, follow, schedule an appointment, to take the next step. Sites on the Grid have up to 2 primary call-to-actions that will take prominence site-wide. Posts on the Grid can have unlimited call-to-actions, but best keep it to l or 2\.
 [Sign up][0]
 
-[0]: https://plan.thegrid.io/?plan=pro
+[0]: https://plans.thegrid.io/?plan=pro
