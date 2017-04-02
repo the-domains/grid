@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-04-02T11:05:09.748Z'
+datePublished: '2017-04-02T11:06:03.502Z'
 sourcePath: _posts/2016-11-07-get-a-free-domain-on-us.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-04-02T11:05:09.283Z'
+dateModified: '2017-04-02T11:06:02.972Z'
 title: Lift-off your 30 day trial with free domain name registrations
 publisher: {}
 description: '{{ ''$class'': [''use-MonoBasic''] }}'
@@ -21,7 +21,5 @@ _type: Blurb
 ## No credit card required
 
 Join the Grid and register a domain for the first year free of charge. Choose from pretty much any extension available from our friends at [Uniregistry][0].
-[Get started][1]
 
 [0]: https://uniregistry.com/ "uniregistry"
-[1]: https://plans.thegrid.io/
