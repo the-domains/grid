@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-03-01T16:27:50.739Z'
+datePublished: '2017-04-02T10:44:12.626Z'
 sourcePath: _posts/2016-11-07-multi-user-collaboration.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-03-01T16:27:49.929Z'
+dateModified: '2017-04-02T10:44:11.802Z'
 title: Multi-user collaboration
 publisher: {}
 description: '{{ ''$class'': [''use-DualBasic''] }}'
@@ -21,9 +21,9 @@ _type: Blurb
 Mind-meld with your team to get a site like this up or tap real-time shares from event participants like the lovely ladies behind [Yellow Conf.][0]
 
 Available on our [iOS][1], [Android][2] and Web apps.
-[Try the Grid for free][3]
+[Join the Grid][3]
 
 [0]: http://yellow.community/
 [1]: https://itunes.apple.com/us/app/the-grid./id990744597?ls=1&mt=8
 [2]: https://play.google.com/store/apps/details?id=io.thegrid.app&hl=en
-[3]: https://cbchouinard.github.io/plansproxy/
+[3]: https://plan.thegrid.io/?plan=pro
