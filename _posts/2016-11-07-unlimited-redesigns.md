@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-14T02:05:12.103Z'
+datePublished: '2017-04-02T10:39:14.944Z'
 sourcePath: _posts/2016-11-07-unlimited-redesigns.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=aEfpARsP8Fg'
 author: []
 via: {}
-dateModified: '2017-02-14T02:05:04.445Z'
+dateModified: '2017-04-02T10:39:12.270Z'
 title: Unlimited redesigns
 publisher: {}
 description: '{{ ''$class'': [''use-DualBasic''] }}'
@@ -24,4 +24,4 @@ _type: MediaObject
 Design is hard, even with the best tools. Molly takes this burden but she needs help. Don't like something? Tell her the colors are no bueno but you love the layout. She's not an inanimate drag-n-drop builder, help her help you & the more redesigns the better.
 [Get started with Molly][0]
 
-[0]: https://plans.thegrid.io/
+[0]: https://plan.thegrid.io/?plan=pro
