@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-03-01T16:26:32.797Z'
+datePublished: '2017-04-02T10:41:46.963Z'
 sourcePath: _posts/2016-09-07-hello-world.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-03-01T16:26:31.706Z'
+dateModified: '2017-04-02T10:41:45.619Z'
 title: Meet Molly.
 publisher: {}
 description: >-
@@ -32,6 +32,6 @@ She's young, she's learning, but she's already designed hundreds of thousands of
 She's quirky, but will never ghost you, never charge more, never miss a deadline, never cower to your demands for a bigger logo.
 
 Looking back 3 months from now she will have searched through more design decisions than stars in our galaxy. Couple years from now and... You'll just have to find out.
-[Sign up for a free 30 day trial][0]
+[Sign up now][0]
 
-[0]: https://cbchouinard.github.io/plansproxy/
+[0]: https://plan.thegrid.io/?plan=pro
