@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-03-01T16:29:27.378Z'
+datePublished: '2017-04-02T10:46:11.138Z'
 sourcePath: _posts/2016-11-07-get-a-free-domain-on-us.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-03-01T16:29:26.895Z'
+dateModified: '2017-04-02T10:46:10.492Z'
 title: Lift-off your 30 day trial with free domain name registrations
 publisher: {}
 description: '{{ ''$class'': [''use-MonoBasic''] }}'
@@ -24,4 +24,4 @@ Join the Grid and register a domain for the first year free of charge. Choose fr
 [Get started][1]
 
 [0]: https://uniregistry.com/ "uniregistry"
-[1]: https://cbchouinard.github.io/plansproxy/
+[1]: https://plan.thegrid.io/?plan=pro
